@@ -6,7 +6,7 @@ COLUMNS = [
     "Property Address", "Property City", "Property Zip", "Parcel ID", "Market Value",
     "Mortgage Escrow", "Property Class", "Property Status",
     "Decedent", "Date of Death", "Case Number", "Case Subtype", "Filing Date",
-    "Attorney", "Attorney Phone", "Lead Score", "Score Reasons", "Date Added", "Tags",
+    "Attorney", "Attorney Phone", "County", "Lead Score", "Score Reasons", "Date Added", "Tags",
 ]
 
 
@@ -25,7 +25,7 @@ def lead_row(lead):
     prop = lead.get("property") or {}
     att = lead.get("attorney") or {}
     first, last = _split_name(fid.get("name"))
-    tags = ["probate", "franklin-county"]
+    tags = ["probate", f"{lead.get('county') or 'franklin'}-county"]
     if prop.get("status") == "transferred_to_heirs":
         tags.append("inherited")
     if fid.get("state") and fid["state"] != "OH":
@@ -45,7 +45,7 @@ def lead_row(lead):
         "Case Number": lead.get("case_key", ""), "Case Subtype": lead.get("subtype", ""),
         "Filing Date": lead.get("filing_date", ""),
         "Attorney": att.get("name", ""), "Attorney Phone": att.get("phone", ""),
-        "Lead Score": lead.get("score", 0), "Score Reasons": "; ".join(lead.get("score_reasons", [])),
+        "County": (lead.get("county") or "").title(), "Lead Score": lead.get("score", 0), "Score Reasons": "; ".join(lead.get("score_reasons", [])),
         "Date Added": lead.get("date_added", ""), "Tags": ",".join(tags),
     }
 

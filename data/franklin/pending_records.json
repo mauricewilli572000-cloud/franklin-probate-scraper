@@ -66,7 +66,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648433",
@@ -144,7 +145,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648428",
@@ -222,7 +224,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648427",
@@ -301,7 +304,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648420",
@@ -379,7 +383,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648393",
@@ -447,7 +452,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648355",
@@ -515,7 +521,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648351",
@@ -593,7 +600,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648344",
@@ -669,7 +677,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648331",
@@ -737,7 +746,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648329",
@@ -815,7 +825,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648328",
@@ -892,7 +903,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648323",
@@ -961,7 +973,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648321",
@@ -1040,7 +1053,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648295",
@@ -1119,7 +1133,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648292",
@@ -1198,7 +1213,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648286",
@@ -1267,7 +1283,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648280",
@@ -1345,7 +1362,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648278",
@@ -1414,7 +1432,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648274",
@@ -1492,7 +1511,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648270",
@@ -1570,7 +1590,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647812",
@@ -1649,7 +1670,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648246",
@@ -1726,7 +1748,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648241",
@@ -1803,7 +1826,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648228",
@@ -1871,7 +1895,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648207",
@@ -1949,7 +1974,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648201",
@@ -2027,7 +2053,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648192",
@@ -2105,7 +2132,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648170",
@@ -2182,7 +2210,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648161",
@@ -2262,7 +2291,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648160",
@@ -2340,7 +2370,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648153",
@@ -2419,7 +2450,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648152",
@@ -2496,7 +2528,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648133",
@@ -2573,7 +2606,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648131",
@@ -2650,7 +2684,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648113",
@@ -2727,7 +2762,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648105",
@@ -2803,7 +2839,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "648087",
@@ -2881,7 +2918,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647996",
@@ -2981,7 +3019,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647985",
@@ -3059,7 +3098,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647980",
@@ -3137,7 +3177,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647974",
@@ -3216,7 +3257,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647641",
@@ -3285,7 +3327,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646936",
@@ -3355,7 +3398,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646139",
@@ -3435,7 +3479,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "623671",
@@ -3503,7 +3548,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647953",
@@ -3580,7 +3626,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647944",
@@ -3650,7 +3697,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647943",
@@ -3718,7 +3766,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647940",
@@ -3786,7 +3835,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647913",
@@ -3864,7 +3914,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647879",
@@ -3943,7 +3994,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646964",
@@ -4019,7 +4071,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647877",
@@ -4087,7 +4140,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647873",
@@ -4164,7 +4218,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647870",
@@ -4242,7 +4297,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647862",
@@ -4310,7 +4366,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647859",
@@ -4388,7 +4445,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647858",
@@ -4466,7 +4524,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647856",
@@ -4534,7 +4593,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647803",
@@ -4613,7 +4673,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647850",
@@ -4689,7 +4750,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647833",
@@ -4754,7 +4816,8 @@
   "ruled_out_properties": [],
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647368",
@@ -4823,7 +4886,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "644334",
@@ -4893,7 +4957,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "587589",
@@ -4972,7 +5037,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647817",
@@ -5016,7 +5082,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647809",
@@ -5092,7 +5159,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647801",
@@ -5170,7 +5238,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647790",
@@ -5248,7 +5317,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647787",
@@ -5327,7 +5397,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "643975",
@@ -5404,7 +5475,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647773",
@@ -5474,7 +5546,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647754",
@@ -5542,7 +5615,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647735",
@@ -5620,7 +5694,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647727",
@@ -5688,7 +5763,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647720",
@@ -5762,7 +5838,8 @@
   "ruled_out_properties": [],
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647716",
@@ -5842,7 +5919,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647702",
@@ -5921,7 +5999,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "621732",
@@ -5989,7 +6068,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647661",
@@ -6068,7 +6148,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647657",
@@ -6145,7 +6226,8 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647643",
@@ -6222,7 +6304,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647637",
@@ -6299,7 +6382,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647631",
@@ -6377,7 +6461,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647629",
@@ -6456,7 +6541,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647626",
@@ -6534,7 +6620,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647619",
@@ -6612,7 +6699,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647349",
@@ -6679,7 +6767,8 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645299",
@@ -6748,7 +6837,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647266",
@@ -6818,7 +6908,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647582",
@@ -6895,7 +6986,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647580",
@@ -6964,7 +7056,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647579",
@@ -7042,7 +7135,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647575",
@@ -7119,7 +7213,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646926",
@@ -7198,7 +7293,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645227",
@@ -7266,7 +7362,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647565",
@@ -7335,7 +7432,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647537",
@@ -7404,7 +7502,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647513",
@@ -7481,7 +7580,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "612375",
@@ -7572,7 +7672,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647498",
@@ -7649,7 +7750,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647483",
@@ -7727,7 +7829,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647482",
@@ -7797,7 +7900,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647459",
@@ -7875,7 +7979,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647458",
@@ -7944,7 +8049,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647456",
@@ -8023,7 +8129,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647447",
@@ -8102,7 +8209,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647423",
@@ -8179,7 +8287,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647415",
@@ -8257,7 +8366,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647392",
@@ -8335,7 +8445,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647390",
@@ -8413,7 +8524,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647387",
@@ -8493,7 +8605,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647381",
@@ -8572,7 +8685,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647380",
@@ -8650,7 +8764,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647377",
@@ -8728,7 +8843,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647373",
@@ -8806,7 +8922,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647372",
@@ -8874,7 +8991,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645409",
@@ -8943,7 +9061,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647355",
@@ -9012,7 +9131,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "622590",
@@ -9104,7 +9224,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647320",
@@ -9180,7 +9301,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647309",
@@ -9257,7 +9379,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647296",
@@ -9337,7 +9460,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647286",
@@ -9417,7 +9541,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647276",
@@ -9494,7 +9619,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "631219",
@@ -9572,7 +9698,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647270",
@@ -9661,7 +9788,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647259",
@@ -9730,7 +9858,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647253",
@@ -9808,7 +9937,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647250",
@@ -9887,7 +10017,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647243",
@@ -9956,7 +10087,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647233",
@@ -10036,7 +10168,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647211",
@@ -10114,7 +10247,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "422947",
@@ -10192,7 +10326,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647195",
@@ -10262,7 +10397,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647194",
@@ -10340,7 +10476,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647176",
@@ -10408,7 +10545,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647165",
@@ -10485,7 +10623,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647164",
@@ -10554,7 +10693,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647156",
@@ -10624,7 +10764,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "642952",
@@ -10694,7 +10835,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647150",
@@ -10772,7 +10914,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647148",
@@ -10848,7 +10991,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647131",
@@ -10917,7 +11061,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647128",
@@ -10997,7 +11142,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647126",
@@ -11075,7 +11221,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647125",
@@ -11153,7 +11300,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "630824",
@@ -11230,7 +11378,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647081",
@@ -11297,7 +11446,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647076",
@@ -11373,7 +11523,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647045",
@@ -11451,7 +11602,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647035",
@@ -11527,7 +11679,8 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647034",
@@ -11604,7 +11757,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647031",
@@ -11672,7 +11826,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647030",
@@ -11748,7 +11903,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647020",
@@ -11826,7 +11982,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "647017",
@@ -11917,7 +12074,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646993",
@@ -11987,7 +12145,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646992",
@@ -12079,7 +12238,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646986",
@@ -12159,7 +12319,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646983",
@@ -12228,7 +12389,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646968",
@@ -12307,7 +12469,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646967",
@@ -12384,7 +12547,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646955",
@@ -12461,7 +12625,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646942",
@@ -12529,7 +12694,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646935",
@@ -12607,7 +12773,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646932",
@@ -12686,7 +12853,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646929",
@@ -12755,7 +12923,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646928",
@@ -12824,7 +12993,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "585617",
@@ -12901,7 +13071,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646896",
@@ -12975,7 +13146,8 @@
   "ruled_out_properties": [],
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646890",
@@ -13054,7 +13226,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646886",
@@ -13132,7 +13305,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "644479",
@@ -13209,7 +13383,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646859",
@@ -13288,7 +13463,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646843",
@@ -13365,7 +13541,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646838",
@@ -13434,7 +13611,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646832",
@@ -13514,7 +13692,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645798",
@@ -13584,7 +13763,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646824",
@@ -13654,7 +13834,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646821",
@@ -13733,7 +13914,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646816",
@@ -13811,7 +13993,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646790",
@@ -13888,7 +14071,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646780",
@@ -13956,7 +14140,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646754",
@@ -14033,7 +14218,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645348",
@@ -14103,7 +14289,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646752",
@@ -14172,7 +14359,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646750",
@@ -14251,7 +14439,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646748",
@@ -14329,7 +14518,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646744",
@@ -14406,7 +14596,8 @@
    "full administration",
    "executor out of state"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646721",
@@ -14484,7 +14675,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646717",
@@ -14562,7 +14754,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646709",
@@ -14640,7 +14833,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646696",
@@ -14709,7 +14903,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646680",
@@ -14789,7 +14984,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "638683",
@@ -14868,7 +15064,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "604728",
@@ -14946,7 +15143,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646671",
@@ -15016,7 +15214,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646670",
@@ -15093,7 +15292,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646669",
@@ -15171,7 +15371,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646666",
@@ -15247,7 +15448,8 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646653",
@@ -15314,7 +15516,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646652",
@@ -15404,7 +15607,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646648",
@@ -15473,7 +15677,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646612",
@@ -15549,7 +15754,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646609",
@@ -15628,7 +15834,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646600",
@@ -15706,7 +15913,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646575",
@@ -15783,7 +15991,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "454563",
@@ -15872,7 +16081,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646552",
@@ -15941,7 +16151,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646542",
@@ -16010,7 +16221,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "632895",
@@ -16113,7 +16325,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646528",
@@ -16181,7 +16394,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646527",
@@ -16249,7 +16463,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646524",
@@ -16318,7 +16533,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "629844",
@@ -16397,7 +16613,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646500",
@@ -16465,7 +16682,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646477",
@@ -16543,7 +16761,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646475",
@@ -16621,7 +16840,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646461",
@@ -16711,7 +16931,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "623298",
@@ -16791,7 +17012,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646456",
@@ -16869,7 +17091,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646449",
@@ -16949,7 +17172,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646448",
@@ -17026,7 +17250,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646434",
@@ -17117,7 +17342,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646433",
@@ -17194,7 +17420,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646413",
@@ -17264,7 +17491,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646409",
@@ -17340,7 +17568,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646388",
@@ -17409,7 +17638,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646386",
@@ -17488,7 +17718,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646356",
@@ -17566,7 +17797,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "613278",
@@ -17645,7 +17877,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646341",
@@ -17714,7 +17947,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646337",
@@ -17782,7 +18016,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646329",
@@ -17872,7 +18107,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "644789",
@@ -17942,7 +18178,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "638716",
@@ -18032,7 +18269,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646290",
@@ -18108,7 +18346,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646241",
@@ -18200,7 +18439,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646228",
@@ -18278,7 +18518,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646225",
@@ -18356,7 +18597,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646219",
@@ -18434,7 +18676,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646218",
@@ -18503,7 +18746,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646217",
@@ -18570,7 +18814,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646214",
@@ -18647,7 +18892,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646211",
@@ -18726,7 +18972,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646189",
@@ -18803,7 +19050,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646184",
@@ -18882,7 +19130,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646182",
@@ -18962,7 +19211,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "642401",
@@ -19041,7 +19291,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "641353",
@@ -19120,7 +19371,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "646144",
@@ -19197,7 +19449,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "645941",
@@ -19273,7 +19526,8 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  },
  {
   "case_key": "504159",
@@ -19342,6 +19596,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-09"
+  "first_seen": "2026-11-09",
+  "county": "franklin"
  }
 ]

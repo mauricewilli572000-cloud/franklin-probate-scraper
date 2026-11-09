@@ -1,13 +1,26 @@
-"""Settings for the Franklin County, OH probate lead scraper."""
+"""Settings for the Ohio probate lead scrapers (Franklin-specific URLs below)."""
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
-DOCS_DIR = ROOT / "docs"
-RECORDS_JSON = DATA_DIR / "records.json"          # leads with a confirmed property
-PENDING_JSON = DATA_DIR / "pending_records.json"  # estates with no property match yet (retried)
-SKIPPED_JSON = DATA_DIR / "skipped_records.json"  # estates checked and ruled out (sold, no property)
-GHL_CSV = DATA_DIR / "ghl_probate_leads.csv"
+DATA_ROOT = ROOT / "data"        # data/<county>/records.json ...
+DOCS_ROOT = ROOT / "docs"        # docs/data/<county>/records.json ... (served by GitHub Pages)
+
+# Set by use_county(); defaults point at Franklin.
+DATA_DIR = RECORDS_JSON = PENDING_JSON = SKIPPED_JSON = GHL_CSV = DOCS_DIR = None
+
+
+def use_county(county):
+    """Point all output paths at one county's folders."""
+    global DATA_DIR, RECORDS_JSON, PENDING_JSON, SKIPPED_JSON, GHL_CSV, DOCS_DIR
+    DATA_DIR = DATA_ROOT / county
+    RECORDS_JSON = DATA_DIR / "records.json"          # leads with a confirmed property
+    PENDING_JSON = DATA_DIR / "pending_records.json"  # estates with no property match yet (retried)
+    SKIPPED_JSON = DATA_DIR / "skipped_records.json"  # estates checked and ruled out
+    GHL_CSV = DATA_DIR / f"ghl_probate_{county}.csv"
+    DOCS_DIR = DOCS_ROOT / "data" / county
+
+
+use_county("franklin")
 
 # ---- Probate Court case index (IBM Net.Data app behind the General Case Search page)
 PROBATE_BASE = "https://probatesearch.franklincountyohio.gov/netdata"

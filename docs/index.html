@@ -3,18 +3,26 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Franklin County Probate Leads</title>
+<title>Ohio Probate Leads</title>
 <style>
   :root { --bg:#f6f7f9; --card:#fff; --ink:#1d2330; --muted:#6b7385; --line:#e3e6ec; --accent:#2457c5; --hot:#c23b22; --warm:#d48a00; }
   * { box-sizing:border-box; }
   body { margin:0; font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--ink); }
-  header { padding:18px 24px; background:var(--card); border-bottom:1px solid var(--line); display:flex; flex-wrap:wrap; gap:16px; align-items:center; }
+  header { padding:16px 24px 0; background:var(--card); border-bottom:1px solid var(--line); }
+  .top { display:flex; flex-wrap:wrap; gap:16px; align-items:baseline; }
   h1 { font-size:18px; margin:0 12px 0 0; }
   .stat { color:var(--muted); } .stat b { color:var(--ink); }
+  nav { display:flex; gap:4px; margin-top:12px; overflow-x:auto; }
+  nav button { border:0; background:none; padding:9px 14px; font:inherit; color:var(--muted); cursor:pointer;
+               border-bottom:2px solid transparent; white-space:nowrap; }
+  nav button.on { color:var(--ink); border-bottom-color:var(--accent); font-weight:600; }
+  nav button.off { opacity:.45; cursor:default; }
+  nav .n { font-size:12px; background:#eef1f6; border-radius:9px; padding:1px 7px; margin-left:5px; }
   .controls { padding:14px 24px; display:flex; flex-wrap:wrap; gap:10px; align-items:center; }
   input, select { padding:7px 9px; border:1px solid var(--line); border-radius:6px; font:inherit; background:#fff; }
   input[type=search] { width:260px; }
-  a.btn { padding:7px 12px; border-radius:6px; background:var(--accent); color:#fff; text-decoration:none; }
+  button.btn { padding:7px 12px; border-radius:6px; border:0; background:var(--accent); color:#fff; font:inherit; cursor:pointer; }
+  .shown { color:var(--muted); margin-left:auto; }
   .wrap { padding:0 24px 40px; overflow-x:auto; }
   table { border-collapse:collapse; width:100%; background:var(--card); border:1px solid var(--line); }
   th, td { padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
@@ -23,53 +31,79 @@
   .score { font-weight:700; padding:2px 8px; border-radius:10px; background:#eef1f6; }
   .s-hot { background:#fde8e4; color:var(--hot); } .s-warm { background:#fff2d6; color:var(--warm); }
   .tag { display:inline-block; font-size:11px; padding:1px 6px; border-radius:8px; background:#eef1f6; margin:2px 2px 0 0; }
-  tr.detail td { background:#fbfcfe; }
+  .tag.warn { background:#fff2d6; }
   .empty { padding:40px; text-align:center; color:var(--muted); }
+  .hide-county .c-county { display:none; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Franklin County Probate Leads</h1>
-  <span class="stat">Leads: <b id="n">–</b></span>
-  <span class="stat">Pending match: <b id="pend">–</b></span>
-  <span class="stat">Updated: <b id="upd">–</b></span>
+  <div class="top">
+    <h1>Ohio Probate Leads</h1>
+    <span class="stat">Leads: <b id="n">–</b></span>
+    <span class="stat">Pending match: <b id="pend">–</b></span>
+    <span class="stat">Updated: <b id="upd">–</b></span>
+  </div>
+  <nav id="tabs"></nav>
 </header>
 <div class="controls">
   <input type="search" id="q" placeholder="Search name, address, case #">
   <select id="status"><option value="">All property status</option><option value="in_decedent_name">Still in decedent's name</option><option value="transferred_to_heirs">Inherited by heirs</option></select>
   <select id="sub"><option value="">All estate types</option></select>
-  <select id="minscore"><option value="0">Any score</option><option value="40">Score 40+</option><option value="60">Score 60+</option></select>
+  <select id="minscore"><option value="0">Any score</option><option value="40">Score 40+</option><option value="60">Score 60+</option><option value="80">Score 80+</option></select>
   <select id="added"><option value="">Any date added</option><option value="1">Added today</option><option value="7">Last 7 days</option><option value="30">Last 30 days</option></select>
-  <a class="btn" href="ghl_probate_leads.csv" download>Download GHL CSV</a>
+  <select id="conf"><option value="">Any match type</option><option value="high">Address / high confidence</option><option value="medium">Name match (medium)</option></select>
+  <button class="btn" id="dl">Download GHL CSV (shown rows)</button>
+  <span class="shown" id="shown"></span>
 </div>
 <div class="wrap">
-  <table>
+  <table id="tbl">
     <thead><tr>
-      <th data-k="score">Score</th><th data-k="date_added">Added</th><th data-k="filing_date">Filed</th>
-      <th data-k="case_name">Decedent</th><th data-k="prop">Property</th><th data-k="value">Value</th>
-      <th data-k="fid">Executor (contact)</th><th data-k="subtype">Estate type</th><th>Case</th>
+      <th data-k="score">Score</th><th data-k="county" class="c-county">County</th><th data-k="date_added">Added</th>
+      <th data-k="filing_date">Filed</th><th data-k="case_name">Decedent</th><th data-k="prop">Property</th>
+      <th data-k="value">Value</th><th data-k="fid">Executor (contact)</th><th data-k="subtype">Estate type</th><th>Case</th>
     </tr></thead>
-    <tbody id="rows"><tr><td colspan="9" class="empty">Loading…</td></tr></tbody>
+    <tbody id="rows"><tr><td colspan="10" class="empty">Loading…</td></tr></tbody>
   </table>
 </div>
 <script>
+// Counties appear automatically once their scraper has published docs/data/<key>/meta.json
+const COUNTIES = [
+  {key: "franklin", label: "Franklin"}, {key: "cuyahoga", label: "Cuyahoga"},
+  {key: "hamilton", label: "Hamilton"}, {key: "summit", label: "Summit"}, {key: "shelby", label: "Shelby"},
+];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const money = v => v ? "$" + Number(v).toLocaleString() : "";
-let data = [], sortKey = "score", sortDir = -1;
+const title = s => String(s || "").toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+let all = [], metas = {}, tab = "all", shownRows = [], sortKey = "score", sortDir = -1;
 
 const val = (r, k) => ({ prop: r.property?.property_address, value: r.property?.market_value,
   fid: r.fiduciary?.name }[k] ?? r[k] ?? "");
 
-function render() {
+function renderTabs() {
+  const live = COUNTIES.filter(c => metas[c.key]);
+  const btn = (key, label, n, off) =>
+    `<button data-t="${key}" class="${tab === key ? "on" : ""} ${off ? "off" : ""}" ${off ? "disabled title='Coming soon'" : ""}>${label}${off ? "" : `<span class="n">${n}</span>`}</button>`;
+  $("#tabs").innerHTML = btn("all", "All counties", all.length, false) +
+    COUNTIES.map(c => btn(c.key, c.label, all.filter(r => r.county === c.key).length, !metas[c.key])).join("");
+  document.querySelectorAll("#tabs button:not([disabled])").forEach(b => b.onclick = () => { tab = b.dataset.t; refresh(); });
+  const ms = tab === "all" ? live.map(c => metas[c.key]) : [metas[tab]];
+  $("#pend").textContent = ms.reduce((a, m) => a + (m?.pending || 0), 0);
+  $("#upd").textContent = ms.map(m => (m?.updated || "")).sort().pop()?.replace("T", " ") || "–";
+}
+
+function filtered() {
   const q = $("#q").value.trim().toUpperCase(), st = $("#status").value, sub = $("#sub").value;
-  const min = +$("#minscore").value, addedDays = +$("#added").value;
+  const min = +$("#minscore").value, addedDays = +$("#added").value, conf = $("#conf").value;
   const cutoff = addedDays ? new Date(Date.now() - (addedDays - 1) * 864e5).toISOString().slice(0, 10) : "";
-  let rows = data.filter(r => {
+  return all.filter(r => {
+    if (tab !== "all" && r.county !== tab) return false;
     if (st && r.property?.status !== st) return false;
     if (sub && r.subtype !== sub) return false;
     if ((r.score || 0) < min) return false;
     if (cutoff && (r.date_added || "") < cutoff) return false;
+    if (conf && (r.property?.confidence || "high") !== conf) return false;
     if (q) {
       const hay = [r.case_name, r.case_key, r.property?.property_address, r.fiduciary?.name,
                    r.fiduciary?.street, r.decedent_street, r.attorney?.name].join(" ").toUpperCase();
@@ -77,42 +111,92 @@ function render() {
     }
     return true;
   });
-  rows.sort((a, b) => { const x = val(a, sortKey), y = val(b, sortKey);
-    return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
-  $("#rows").innerHTML = rows.length ? rows.map(r => {
+}
+
+function render() {
+  const rows = filtered();
+  rows.sort((a, b) => { const x = val(a, sortKey), y = val(b, sortKey); return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
+  shownRows = rows;
+  $("#n").textContent = tab === "all" ? all.length : all.filter(r => r.county === tab).length;
+  $("#shown").textContent = `${rows.length} shown`;
+  $("#tbl").classList.toggle("hide-county", tab !== "all");
+  $("#rows").innerHTML = rows.length ? rows.slice(0, 1500).map(r => {
     const p = r.property || {}, f = r.fiduciary || {}, at = r.attorney || {};
     const cls = r.score >= 60 ? "s-hot" : r.score >= 40 ? "s-warm" : "";
-    const tags = [p.status === "transferred_to_heirs" ? "inherited" : "in decedent's name",
-                  p.has_mortgage_escrow ? "mortgage escrow" : "no escrow",
-                  p.rental ? "rental" : "", p.matched_by === "owner_name" ? `name match (${p.confidence})` : "", (r.other_properties || []).length ? `+${r.other_properties.length} parcels` : ""]
-                  .filter(Boolean).map(t => `<span class="tag">${esc(t)}</span>`).join("");
+    const tags = [[p.status === "transferred_to_heirs" ? "inherited" : "in decedent's name"],
+                  [p.has_mortgage_escrow ? "mortgage escrow" : "no escrow"], [p.rental ? "rental" : ""],
+                  [p.matched_by === "owner_name" ? `name match (${p.confidence})` : "", "warn"],
+                  [(r.other_properties || []).length ? `+${r.other_properties.length} parcels` : ""]]
+                  .filter(t => t[0]).map(t => `<span class="tag ${t[1] || ""}">${esc(t[0])}</span>`).join("");
     return `<tr title="${esc((r.score_reasons || []).join(" · "))}">
       <td><span class="score ${cls}">${r.score ?? ""}</span></td>
+      <td class="c-county">${esc(title(r.county))}</td>
       <td>${esc(r.date_added)}</td>
       <td>${esc(r.filing_date)}<small>DOD ${esc(r.date_of_death)}</small></td>
       <td>${esc(r.case_name)}</td>
       <td>${esc(p.property_address)}<small>${esc(p.property_city)} ${esc(p.property_zip)} · ${esc(p.parcel_id)}</small>
           <small>${esc(p.property_class)}${p.year_built ? " · built " + esc(p.year_built) : ""}</small>${tags}</td>
       <td>${money(p.market_value)}<small>${p.last_sale_date ? "last sale " + esc(p.last_sale_date) : ""}</small></td>
-      <td>${esc(f.name)} <small>${esc(f.title)}</small><small>${esc(f.street)}, ${esc(f.city)} ${esc(f.state)} ${esc(f.zip)}</small>
+      <td>${esc(f.name)} <small>${esc(f.title)}</small><small>${esc(f.street)}${f.city ? ", " + esc(f.city) : ""} ${esc(f.state)} ${esc(f.zip)}</small>
           <small>${esc(f.phone)}</small>${at.name ? `<small>Atty: ${esc(at.name)} ${esc(at.phone)}</small>` : ""}</td>
       <td>${esc(r.subtype)}</td>
       <td><a href="${esc(r.court_url)}" target="_blank" rel="noopener">${esc(r.case_key)}</a></td></tr>`;
-  }).join("") : `<tr><td colspan="9" class="empty">No leads match these filters.</td></tr>`;
+  }).join("") + (rows.length > 1500 ? `<tr><td colspan="10" class="empty">Showing first 1,500 — narrow the filters or download the CSV for all ${rows.length}.</td></tr>` : "")
+  : `<tr><td colspan="10" class="empty">No leads match these filters.</td></tr>`;
+}
+
+function refresh() {
+  renderTabs();
+  const subs = [...new Set(all.filter(r => tab === "all" || r.county === tab).map(r => r.subtype))].sort();
+  const cur = $("#sub").value;
+  $("#sub").innerHTML = `<option value="">All estate types</option>` + subs.map(s => `<option ${s === cur ? "selected" : ""}>${esc(s)}</option>`).join("");
+  render();
+}
+
+// GHL CSV in the same columns as probate/export.py, built from the rows currently shown
+function downloadCsv() {
+  const cols = ["First Name","Last Name","Phone","Address","City","State","Postal Code","Property Address","Property City",
+    "Property Zip","Parcel ID","Market Value","Mortgage Escrow","Property Class","Property Status","Decedent","Date of Death",
+    "Case Number","Case Subtype","Filing Date","Attorney","Attorney Phone","County","Lead Score","Score Reasons","Date Added","Tags"];
+  const q = v => { v = String(v ?? ""); return /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v; };
+  const lines = [cols.join(",")];
+  for (const r of shownRows) {
+    const f = r.fiduciary || {}, p = r.property || {}, a = r.attorney || {};
+    if (!f.street) continue;
+    let first = "", last = f.name || "";
+    if (last.includes(",")) { const [l, rest] = last.split(/,(.*)/); last = title(l.trim()); first = title(rest.trim().split(" ")[0]); }
+    else last = title(last);
+    const tags = ["probate", `${r.county}-county`, p.status === "transferred_to_heirs" ? "inherited" : "",
+                  f.state && f.state !== "OH" ? "out-of-state-executor" : "", p.has_mortgage_escrow ? "" : "possible-free-clear"].filter(Boolean);
+    lines.push([first, last, f.phone, f.street, title(f.city), f.state, f.zip, p.property_address, p.property_city,
+      p.property_zip, p.parcel_id, p.market_value, p.has_mortgage_escrow ? "Yes" : "No", p.property_class, p.status,
+      r.case_name, r.date_of_death, r.case_key, r.subtype, r.filing_date, a.name, a.phone, title(r.county), r.score,
+      (r.score_reasons || []).join("; "), r.date_added, tags.join(",")].map(q).join(","));
+  }
+  const blob = new Blob(["﻿" + lines.join("\r\n")], {type: "text/csv"});
+  const el = document.createElement("a");
+  el.href = URL.createObjectURL(blob);
+  el.download = `ghl_probate_${tab}_${new Date().toISOString().slice(0, 10)}.csv`;
+  el.click();
 }
 
 document.querySelectorAll("th[data-k]").forEach(th => th.onclick = () => {
   const k = th.dataset.k; sortDir = sortKey === k ? -sortDir : -1; sortKey = k; render(); });
-["#q", "#status", "#sub", "#minscore", "#added"].forEach(s => $(s).addEventListener("input", render));
+["#q", "#status", "#sub", "#minscore", "#added", "#conf"].forEach(s => $(s).addEventListener("input", render));
+$("#dl").onclick = downloadCsv;
 
-Promise.all([fetch("records.json", {cache: "no-store"}).then(r => r.json()),
-             fetch("meta.json", {cache: "no-store"}).then(r => r.json()).catch(() => ({}))])
-  .then(([recs, meta]) => {
-    data = recs; $("#n").textContent = recs.length;
-    $("#pend").textContent = meta.pending ?? "–"; $("#upd").textContent = (meta.updated || "").replace("T", " ");
-    [...new Set(recs.map(r => r.subtype))].sort().forEach(s => $("#sub").insertAdjacentHTML("beforeend", `<option>${esc(s)}</option>`));
-    render();
-  }).catch(e => { $("#rows").innerHTML = `<tr><td colspan="9" class="empty">Could not load records.json (${esc(e)})</td></tr>`; });
+const get = u => fetch(u, {cache: "no-store"}).then(r => r.ok ? r.json() : null).catch(() => null);
+Promise.all(COUNTIES.map(async c => {
+  const meta = await get(`data/${c.key}/meta.json`);
+  if (!meta) return;
+  metas[c.key] = meta;
+  const recs = await get(`data/${c.key}/records.json`) || [];
+  recs.forEach(r => r.county = r.county || c.key);
+  all.push(...recs);
+})).then(() => {
+  if (!all.length) { $("#rows").innerHTML = `<tr><td colspan="10" class="empty">No county data published yet.</td></tr>`; }
+  refresh();
+});
 </script>
 </body>
 </html>

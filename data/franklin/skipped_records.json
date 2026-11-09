@@ -104,7 +104,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648446",
@@ -201,7 +202,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648434",
@@ -297,7 +299,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648431",
@@ -405,7 +408,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648430",
@@ -512,7 +516,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648425",
@@ -619,7 +624,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648423",
@@ -724,7 +730,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648422",
@@ -821,7 +828,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648419",
@@ -926,7 +934,8 @@
    "full administration",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648406",
@@ -1024,7 +1033,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648403",
@@ -1120,7 +1130,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647692",
@@ -1226,7 +1237,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648401",
@@ -1332,7 +1344,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648395",
@@ -1437,7 +1450,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648386",
@@ -1543,7 +1557,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "616670",
@@ -1676,7 +1691,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648357",
@@ -1781,7 +1797,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648348",
@@ -1913,7 +1930,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "643715",
@@ -2046,7 +2064,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "609603",
@@ -2152,7 +2171,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648337",
@@ -2259,7 +2279,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "628702",
@@ -2366,7 +2387,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648333",
@@ -2462,7 +2484,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648320",
@@ -2568,7 +2591,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648319",
@@ -2675,7 +2699,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648318",
@@ -2779,7 +2804,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "569189",
@@ -2898,7 +2924,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648299",
@@ -3003,7 +3030,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648296",
@@ -3099,7 +3127,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648294",
@@ -3206,7 +3235,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648291",
@@ -3301,7 +3331,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "631134",
@@ -3399,7 +3430,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648282",
@@ -3505,7 +3537,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648275",
@@ -3612,7 +3645,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648267",
@@ -3708,7 +3742,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648266",
@@ -3813,7 +3848,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648264",
@@ -3918,7 +3954,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647840",
@@ -4014,7 +4051,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648258",
@@ -4116,7 +4154,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648252",
@@ -4222,7 +4261,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648251",
@@ -4328,7 +4368,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648250",
@@ -4430,7 +4471,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648248",
@@ -4525,7 +4567,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648240",
@@ -4633,7 +4676,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "633657",
@@ -4739,7 +4783,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648214",
@@ -4843,7 +4888,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648210",
@@ -4948,7 +4994,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648209",
@@ -5054,7 +5101,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648204",
@@ -5160,7 +5208,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648197",
@@ -5266,7 +5315,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648173",
@@ -5385,7 +5435,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648171",
@@ -5490,7 +5541,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648169",
@@ -5596,7 +5648,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648168",
@@ -5692,7 +5745,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648166",
@@ -5788,7 +5842,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648163",
@@ -5894,7 +5949,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648158",
@@ -6000,7 +6056,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647645",
@@ -6106,7 +6163,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "613822",
@@ -6213,7 +6271,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648148",
@@ -6321,7 +6380,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648147",
@@ -6428,7 +6488,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648146",
@@ -6535,7 +6596,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648144",
@@ -6640,7 +6702,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648139",
@@ -6747,7 +6810,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648134",
@@ -6853,7 +6917,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648130",
@@ -6970,7 +7035,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648129",
@@ -7075,7 +7141,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "645567",
@@ -7172,7 +7239,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648103",
@@ -7279,7 +7347,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648098",
@@ -7384,7 +7453,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648095",
@@ -7491,7 +7561,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648090",
@@ -7587,7 +7658,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648089",
@@ -7718,7 +7790,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648088",
@@ -8041,7 +8114,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648085",
@@ -8175,7 +8249,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648083",
@@ -8309,7 +8384,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648082",
@@ -8413,7 +8489,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648081",
@@ -8510,7 +8587,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648079",
@@ -8606,7 +8684,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648077",
@@ -8711,7 +8790,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "648076",
@@ -8816,7 +8896,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "648073",
@@ -8920,7 +9001,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647998",
@@ -9024,7 +9106,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647993",
@@ -9131,7 +9214,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647992",
@@ -9238,7 +9322,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647991",
@@ -9335,7 +9420,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647990",
@@ -9441,7 +9527,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647989",
@@ -9539,7 +9626,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647986",
@@ -9671,7 +9759,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647984",
@@ -9776,7 +9865,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647978",
@@ -9883,7 +9973,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647977",
@@ -9988,7 +10079,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647973",
@@ -10106,7 +10198,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647955",
@@ -10204,7 +10297,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647951",
@@ -10310,7 +10404,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647945",
@@ -10416,7 +10511,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647938",
@@ -10520,7 +10616,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647935",
@@ -10615,7 +10712,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647932",
@@ -10720,7 +10818,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647923",
@@ -10825,7 +10924,8 @@
    "full administration",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647920",
@@ -10931,7 +11031,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647918",
@@ -11037,7 +11138,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647916",
@@ -11373,7 +11475,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647912",
@@ -11480,7 +11583,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647908",
@@ -11586,7 +11690,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647907",
@@ -11691,7 +11796,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "594545",
@@ -11811,7 +11917,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647902",
@@ -11916,7 +12023,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647895",
@@ -12022,7 +12130,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647887",
@@ -12140,7 +12249,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647883",
@@ -12273,7 +12383,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646060",
@@ -12380,7 +12491,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "631211",
@@ -12488,7 +12600,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647876",
@@ -12584,7 +12697,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647875",
@@ -12692,7 +12806,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647866",
@@ -12798,7 +12913,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647855",
@@ -12894,7 +13010,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646540",
@@ -13000,7 +13117,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646240",
@@ -13096,7 +13214,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "643619",
@@ -13214,7 +13333,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "640612",
@@ -13321,7 +13441,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "625851",
@@ -13439,7 +13560,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "483309",
@@ -13558,7 +13680,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647852",
@@ -13666,7 +13789,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647849",
@@ -13771,7 +13895,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "629680",
@@ -13877,7 +14002,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647842",
@@ -13982,7 +14108,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647841",
@@ -14079,7 +14206,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647835",
@@ -14186,7 +14314,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647834",
@@ -14284,7 +14413,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647825",
@@ -14381,7 +14511,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647824",
@@ -14487,7 +14618,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647821",
@@ -14585,7 +14717,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "620775",
@@ -14692,7 +14825,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "571797",
@@ -14797,7 +14931,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647810",
@@ -14902,7 +15037,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647457",
@@ -15026,7 +15162,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "633221",
@@ -15135,7 +15272,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647780",
@@ -15240,7 +15378,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647776",
@@ -15345,7 +15484,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646278",
@@ -15441,7 +15581,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "630324",
@@ -15549,7 +15690,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647762",
@@ -15655,7 +15797,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647756",
@@ -15760,7 +15903,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647666",
@@ -15856,7 +16000,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647744",
@@ -15953,7 +16098,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647734",
@@ -16058,7 +16204,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646642",
@@ -16155,7 +16302,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647729",
@@ -16252,7 +16400,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "612713",
@@ -16357,7 +16506,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647694",
@@ -16491,7 +16641,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647452",
@@ -16588,7 +16739,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647676",
@@ -16686,7 +16838,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647675",
@@ -16783,7 +16936,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647673",
@@ -16900,7 +17054,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647668",
@@ -17007,7 +17162,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647240",
@@ -17112,7 +17268,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647665",
@@ -17208,7 +17365,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647664",
@@ -17304,7 +17462,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647659",
@@ -18057,7 +18216,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647655",
@@ -18162,7 +18322,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647651",
@@ -18268,7 +18429,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647650",
@@ -18374,7 +18536,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647646",
@@ -18481,7 +18644,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647644",
@@ -18578,7 +18742,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647634",
@@ -18682,7 +18847,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647633",
@@ -18787,7 +18953,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647622",
@@ -19101,7 +19268,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647621",
@@ -19206,7 +19374,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647620",
@@ -19312,7 +19481,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "645860",
@@ -19408,7 +19578,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "637206",
@@ -19516,7 +19687,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "631993",
@@ -19624,7 +19796,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "594361",
@@ -19742,7 +19915,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647613",
@@ -19850,7 +20024,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647612",
@@ -19955,7 +20130,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647610",
@@ -20062,7 +20238,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647607",
@@ -20180,7 +20357,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647605",
@@ -20278,7 +20456,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647604",
@@ -20375,7 +20554,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647603",
@@ -20482,7 +20662,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647597",
@@ -20579,7 +20760,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "582720",
@@ -20684,7 +20866,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647587",
@@ -20788,7 +20971,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647581",
@@ -20885,7 +21069,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647574",
@@ -20978,7 +21163,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647566",
@@ -21084,7 +21270,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647564",
@@ -21181,7 +21368,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647236",
@@ -21279,7 +21467,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646603",
@@ -21385,7 +21574,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "638955",
@@ -21506,7 +21696,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647541",
@@ -21611,7 +21802,8 @@
    "no will (multiple heirs)",
    "executor out of state"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647522",
@@ -21708,7 +21900,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647518",
@@ -21814,7 +22007,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647509",
@@ -21911,7 +22105,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647495",
@@ -22009,7 +22204,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647490",
@@ -22107,7 +22303,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647486",
@@ -22214,7 +22411,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647484",
@@ -22320,7 +22518,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647481",
@@ -22417,7 +22616,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "633109",
@@ -22515,7 +22715,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647466",
@@ -22633,7 +22834,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647463",
@@ -22730,7 +22932,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647460",
@@ -22835,7 +23038,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647451",
@@ -22939,7 +23143,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647449",
@@ -23045,7 +23250,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647448",
@@ -23150,7 +23356,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647444",
@@ -23256,7 +23463,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647438",
@@ -23362,7 +23570,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647436",
@@ -23493,7 +23702,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "511724",
@@ -23599,7 +23809,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647430",
@@ -23704,7 +23915,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647427",
@@ -23801,7 +24013,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647426",
@@ -23909,7 +24122,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647418",
@@ -24013,7 +24227,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647411",
@@ -24109,7 +24324,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647410",
@@ -24217,7 +24433,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646543",
@@ -24314,7 +24531,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "642981",
@@ -24421,7 +24639,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "638231",
@@ -24530,7 +24749,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647382",
@@ -24636,7 +24856,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647365",
@@ -24742,7 +24963,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647359",
@@ -24846,7 +25068,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647357",
@@ -24951,7 +25174,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647345",
@@ -25049,7 +25273,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647344",
@@ -25155,7 +25380,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647334",
@@ -25260,7 +25486,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647332",
@@ -25365,7 +25592,8 @@
    "full administration",
    "executor out of state"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "644905",
@@ -25461,7 +25689,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "627014",
@@ -25568,7 +25797,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "620754",
@@ -25673,7 +25903,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "501230",
@@ -25780,7 +26011,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647331",
@@ -25884,7 +26116,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647318",
@@ -25988,7 +26221,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647313",
@@ -26121,7 +26355,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647299",
@@ -26225,7 +26460,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "643949",
@@ -26331,7 +26567,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "580908",
@@ -26428,7 +26665,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647289",
@@ -26536,7 +26774,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647288",
@@ -26632,7 +26871,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647287",
@@ -26738,7 +26978,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647284",
@@ -26872,7 +27113,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647282",
@@ -26977,7 +27219,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647272",
@@ -27083,7 +27326,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647271",
@@ -27188,7 +27432,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647265",
@@ -27312,7 +27557,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647258",
@@ -27408,7 +27654,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647256",
@@ -27504,7 +27751,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647255",
@@ -27599,7 +27847,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647252",
@@ -27716,7 +27965,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647249",
@@ -27849,7 +28099,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647242",
@@ -27946,7 +28197,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647238",
@@ -28052,7 +28304,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "636906",
@@ -28158,7 +28411,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647232",
@@ -28265,7 +28519,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647226",
@@ -28391,7 +28646,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647225",
@@ -28498,7 +28754,8 @@
    "executor phone listed",
    "motion to sell real estate filed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647222",
@@ -28604,7 +28861,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647221",
@@ -28700,7 +28958,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647207",
@@ -28817,7 +29076,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "629277",
@@ -28936,7 +29196,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "349341",
@@ -29008,7 +29269,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647193",
@@ -29132,7 +29394,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "644189",
@@ -29230,7 +29493,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647183",
@@ -29337,7 +29601,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647177",
@@ -29434,7 +29699,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647175",
@@ -29539,7 +29805,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647155",
@@ -29646,7 +29913,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "602126",
@@ -29763,7 +30031,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647149",
@@ -29867,7 +30136,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647133",
@@ -29964,7 +30234,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647132",
@@ -30094,7 +30365,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647129",
@@ -30191,7 +30463,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "579237",
@@ -30315,7 +30588,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647122",
@@ -30413,7 +30687,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647120",
@@ -30520,7 +30795,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647115",
@@ -30624,7 +30900,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647113",
@@ -30729,7 +31006,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647101",
@@ -30836,7 +31114,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647099",
@@ -30942,7 +31221,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "645240",
@@ -31048,7 +31328,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647090",
@@ -31156,7 +31437,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647086",
@@ -31262,7 +31544,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647080",
@@ -31359,7 +31642,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647077",
@@ -31465,7 +31749,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647074",
@@ -31572,7 +31857,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647073",
@@ -31679,7 +31965,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647072",
@@ -31776,7 +32063,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647067",
@@ -31882,7 +32170,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "640184",
@@ -31989,7 +32278,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "551552",
@@ -32097,7 +32387,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647060",
@@ -32204,7 +32495,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647056",
@@ -32311,7 +32603,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647033",
@@ -32418,7 +32711,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647032",
@@ -32524,7 +32818,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647028",
@@ -32629,7 +32924,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647027",
@@ -32725,7 +33021,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647013",
@@ -32832,7 +33129,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647012",
@@ -32939,7 +33237,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647011",
@@ -33048,7 +33347,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "647008",
@@ -33155,7 +33455,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "647004",
@@ -33262,7 +33563,8 @@
    "executor phone listed",
    "motion to sell real estate filed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646994",
@@ -33367,7 +33669,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646933",
@@ -33474,7 +33777,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646980",
@@ -33579,7 +33883,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646979",
@@ -33684,7 +33989,8 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646966",
@@ -33792,7 +34098,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646963",
@@ -33888,7 +34195,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646962",
@@ -33990,7 +34298,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646958",
@@ -34094,7 +34403,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646956",
@@ -34198,7 +34508,8 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646954",
@@ -34304,7 +34615,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646952",
@@ -35058,7 +35370,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "642615",
@@ -35164,7 +35477,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646947",
@@ -35299,7 +35613,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646939",
@@ -35406,7 +35721,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646930",
@@ -35522,7 +35838,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646919",
@@ -35628,7 +35945,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646918",
@@ -35746,7 +36064,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646916",
@@ -35843,7 +36162,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646912",
@@ -35948,7 +36268,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "609249",
@@ -36055,7 +36376,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "590262",
@@ -36172,7 +36494,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646903",
@@ -36278,7 +36601,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646900",
@@ -37031,7 +37355,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646898",
@@ -37127,7 +37452,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646891",
@@ -37258,7 +37584,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646888",
@@ -37364,7 +37691,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646873",
@@ -37472,7 +37800,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "626062",
@@ -37570,7 +37899,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "615127",
@@ -37677,7 +38007,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646855",
@@ -37773,7 +38104,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646854",
@@ -37902,7 +38234,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646852",
@@ -38007,7 +38340,8 @@
    "full administration",
    "executor out of state"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646850",
@@ -38111,7 +38445,8 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646849",
@@ -38218,7 +38553,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646845",
@@ -38325,7 +38661,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646844",
@@ -38431,7 +38768,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646839",
@@ -38536,7 +38874,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "577022",
@@ -38657,7 +38996,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646234",
@@ -38754,7 +39094,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "637051",
@@ -38861,7 +39202,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646807",
@@ -38959,7 +39301,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646802",
@@ -39065,7 +39408,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646789",
@@ -39170,7 +39514,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646788",
@@ -39267,7 +39612,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646785",
@@ -39374,7 +39720,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646783",
@@ -39479,7 +39826,8 @@
    "full administration",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646763",
@@ -39576,7 +39924,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646761",
@@ -39674,7 +40023,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "595512",
@@ -39780,7 +40130,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646747",
@@ -39876,7 +40227,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646738",
@@ -39982,7 +40334,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646737",
@@ -40114,7 +40467,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "640064",
@@ -40212,7 +40566,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646698",
@@ -40309,7 +40664,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646697",
@@ -40406,7 +40762,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646692",
@@ -40504,7 +40861,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646687",
@@ -40718,7 +41076,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646681",
@@ -40822,7 +41181,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "610275",
@@ -40931,7 +41291,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646667",
@@ -41027,7 +41388,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646644",
@@ -41124,7 +41486,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646643",
@@ -41228,7 +41591,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "645571",
@@ -41332,7 +41696,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "579395",
@@ -41438,7 +41803,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646632",
@@ -41543,7 +41909,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646631",
@@ -41648,7 +42015,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646630",
@@ -41752,7 +42120,8 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646624",
@@ -41859,7 +42228,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646615",
@@ -41964,7 +42334,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646614",
@@ -42070,7 +42441,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646608",
@@ -42175,7 +42547,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646598",
@@ -42272,7 +42645,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646597",
@@ -42378,7 +42752,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646596",
@@ -42475,7 +42850,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646588",
@@ -42581,7 +42957,8 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646586",
@@ -42687,7 +43064,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646585",
@@ -42793,7 +43171,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "636534",
@@ -42899,7 +43278,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "626006",
@@ -43020,7 +43400,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "621281",
@@ -43126,7 +43507,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646562",
@@ -43222,7 +43604,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646550",
@@ -43326,7 +43709,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646548",
@@ -43422,7 +43806,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646546",
@@ -43517,7 +43902,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646541",
@@ -43624,7 +44010,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646539",
@@ -43730,7 +44117,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "611495",
@@ -43836,7 +44224,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646531",
@@ -43943,7 +44332,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646530",
@@ -44040,7 +44430,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646526",
@@ -44148,7 +44539,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646519",
@@ -44254,7 +44646,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "639198",
@@ -44359,7 +44752,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646514",
@@ -44456,7 +44850,8 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646509",
@@ -44552,7 +44947,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646506",
@@ -44649,7 +45045,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646505",
@@ -44745,7 +45142,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646469",
@@ -44850,7 +45248,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646464",
@@ -44968,7 +45367,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646463",
@@ -45074,7 +45474,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646453",
@@ -45180,7 +45581,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646451",
@@ -45284,7 +45686,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646444",
@@ -45389,7 +45792,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646443",
@@ -45512,7 +45916,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646442",
@@ -45618,7 +46023,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646436",
@@ -45723,7 +46129,8 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "549777",
@@ -45821,7 +46228,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646424",
@@ -45928,7 +46336,8 @@
    "executor phone listed",
    "motion to sell real estate filed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646421",
@@ -46034,7 +46443,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646415",
@@ -46165,7 +46575,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646406",
@@ -46267,7 +46678,8 @@
   ],
   "score": 0,
   "score_reasons": [],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646400",
@@ -46579,7 +46991,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "643432",
@@ -46677,7 +47090,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646387",
@@ -46774,7 +47188,8 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646385",
@@ -46879,7 +47294,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646383",
@@ -46985,7 +47401,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646382",
@@ -47090,7 +47507,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646378",
@@ -47195,7 +47613,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646377",
@@ -47301,7 +47720,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646372",
@@ -47408,7 +47828,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "541745",
@@ -47527,7 +47948,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646352",
@@ -47633,7 +48055,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646350",
@@ -47738,7 +48161,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646347",
@@ -47836,7 +48260,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646343",
@@ -47931,7 +48356,8 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646332",
@@ -48065,7 +48491,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646331",
@@ -48183,7 +48610,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "641409",
@@ -48302,7 +48730,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "637147",
@@ -48408,7 +48837,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "521381",
@@ -48514,7 +48944,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646307",
@@ -48619,7 +49050,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "639208",
@@ -48726,7 +49158,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646304",
@@ -48843,7 +49276,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "612355",
@@ -48951,7 +49385,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646283",
@@ -49056,7 +49491,8 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646282",
@@ -49160,7 +49596,8 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646280",
@@ -49266,7 +49703,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646277",
@@ -49371,7 +49809,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646272",
@@ -49475,7 +49914,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646243",
@@ -49570,7 +50010,8 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646236",
@@ -49675,7 +50116,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646233",
@@ -49782,7 +50224,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646229",
@@ -49890,7 +50333,8 @@
    "executor phone listed",
    "motion to sell real estate filed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646227",
@@ -49996,7 +50440,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646222",
@@ -50101,7 +50546,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646221",
@@ -50197,7 +50643,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646208",
@@ -50294,7 +50741,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646205",
@@ -50399,7 +50847,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "645788",
@@ -50495,7 +50944,8 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "625840",
@@ -50603,7 +51053,8 @@
    "motion to sell real estate filed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646185",
@@ -50707,7 +51158,8 @@
   "score_reasons": [
    "full administration"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "590650",
@@ -50817,7 +51269,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "572600",
@@ -50923,7 +51376,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646161",
@@ -51029,7 +51483,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646157",
@@ -51135,7 +51590,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646155",
@@ -51243,7 +51699,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646153",
@@ -51348,7 +51805,8 @@
    "full administration",
    "executor phone listed"
   ],
-  "skip_reason": "sold_after_death"
+  "skip_reason": "sold_after_death",
+  "county": "franklin"
  },
  {
   "case_key": "646151",
@@ -51453,7 +51911,8 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646148",
@@ -51559,7 +52018,8 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "646145",
@@ -51665,7 +52125,8 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  },
  {
   "case_key": "623885",
@@ -51799,6 +52260,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "skip_reason": "decedent_not_owner"
+  "skip_reason": "decedent_not_owner",
+  "county": "franklin"
  }
 ]

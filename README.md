@@ -1,4 +1,4 @@
-# Franklin County, OH — Probate Lead Scraper
+# Ohio Probate Lead Scrapers (Franklin live; Cuyahoga, Hamilton, Summit, Shelby in progress)
 
 Nightly scraper for new **estate** cases at the Franklin County Probate Court, matched to
 Franklin County Auditor parcels so you only get estates that actually own real estate.
@@ -28,6 +28,20 @@ the middle name matches fully or the owner's mailing address is the decedent's h
 Estates with no parcel match (apartments, Delaware/Licking County addresses, Auditor slow to
 update) go to `data/pending_records.json` and are re-checked every run for 60 days.
 
+## Multi-county layout
+
+* One module per county in `probate/counties/<county>.py` (court site + parcel matching), registered in
+  `probate/counties/__init__.py`.
+* Each county has its own workflow (`.github/workflows/probate-<county>.yml`) and writes only
+  `data/<county>/` and `docs/data/<county>/`, so the counties never conflict.
+* `docs/index.html` is the probate dashboard: an **All counties** tab plus one tab per county.
+  A county's tab lights up automatically once `docs/data/<county>/meta.json` exists.
+  "Download GHL CSV" exports exactly the rows currently shown (filters + tab).
+
+```powershell
+python run_pipeline.py --county franklin --days-back 10
+```
+
 ## Files
 
 ```
@@ -39,8 +53,8 @@ probate/auditor.py       address/name normalisation + parcel matching
 probate/scoring.py       0-100 lead score (reasons stored with each lead)
 probate/export.py        GHL CSV (contact = executor)
 docs/index.html          dashboard (reads docs/records.json)
-data/records.json        leads  |  pending_records.json  |  skipped_records.json
-data/ghl_probate_leads.csv
+data/<county>/records.json   leads  |  pending_records.json  |  skipped_records.json
+data/<county>/ghl_probate_<county>.csv
 tests/                   parser + pipeline tests on real saved court pages
 ```
 
@@ -67,11 +81,11 @@ python run_pipeline.py --days-back 120                     # first backfill (~15
    ```
 3. Repo → Settings → Actions → General → Workflow permissions → **Read and write**.
 4. Repo → Settings → Pages → Deploy from branch → `main` / `/docs`.
-5. Actions → *Franklin probate leads* → **Run workflow** with `days_back = 120` for the backfill.
+5. Actions → *Probate - Franklin* → **Run workflow** with `days_back = 120` for the backfill.
    After that it runs every morning (~6:37 AM ET) scanning the last 10 days.
 
 Dashboard: `https://<you>.github.io/franklin-probate-scraper/`
-JSON for the combined dashboard's **Probate** tab: `https://<you>.github.io/franklin-probate-scraper/records.json`
+Per-county JSON: `https://<you>.github.io/franklin-probate-scraper/data/<county>/records.json`
 
 ## Lead fields (records.json)
 
