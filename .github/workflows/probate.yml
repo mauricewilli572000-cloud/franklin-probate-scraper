@@ -8,6 +8,9 @@ on:
       days_back:
         description: "Days of filings to scan (use 120 for a first backfill)"
         default: "10"
+      max_minutes:
+        description: "Stop cleanly after this many minutes and save (re-run to continue)"
+        default: "300"
 
 permissions:
   contents: write
@@ -19,7 +22,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 340       # GitHub's hard limit is 360; the script stops itself before this
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -29,8 +32,12 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m pytest -q
       - name: Run pipeline
-        run: python run_pipeline.py --days-back "${{ github.event.inputs.days_back || '10' }}"
-      - name: Commit results
+        run: >
+          python run_pipeline.py
+          --days-back "${{ github.event.inputs.days_back || '10' }}"
+          --max-minutes "${{ github.event.inputs.max_minutes || '300' }}"
+      - name: Commit results (runs even if the pipeline failed, so progress is never lost)
+        if: always()
         run: |
           git config user.name "probate-bot"
           git config user.email "actions@users.noreply.github.com"
