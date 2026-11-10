@@ -81,3 +81,42 @@ class ProbateSite:
 
     def docket(self, case_number, suffix=""):
         return self.http.get_text(config.DOCKET_URL, {"caseno": self._cn(case_number, suffix)})
+
+
+class BrowserHttp(Http):
+    """Same interface as Http, but connects with a Chrome TLS fingerprint (curl_cffi).
+    Some county sites (Summit's CourtView) reset connections from Python's default
+    TLS client while serving browsers normally."""
+
+    def __init__(self, delay=config.REQUEST_DELAY_SEC):
+        super().__init__(delay)
+        from curl_cffi import requests as creq
+        self.s = creq.Session(impersonate="chrome")
+        self.s.headers.update({"Accept-Language": "en-US,en;q=0.9"})
+
+    def _send(self, method, url, **kw):
+        last = None
+        for attempt in range(config.MAX_RETRIES):
+            try:
+                r = self.s.request(method, url, timeout=config.TIMEOUT_SEC, **kw)
+                if r.status_code in (429, 500, 502, 503, 504):
+                    raise RuntimeError(f"HTTP {r.status_code}")
+                r.raise_for_status()
+                return r
+            except Exception as e:  # noqa: BLE001
+                last = e
+                log.warning("%s %s failed (%s), retry %d", method, url[:80], e, attempt + 1)
+                time.sleep(2 * (attempt + 1))
+        raise last
+
+    def get_text(self, url, params=None):
+        if params:
+            url = url + "?" + "&".join(f"{k}={v}" for k, v in params.items())
+        self._wait()
+        self.requests_made += 1
+        return self._send("GET", url).text
+
+    def get_json(self, url, params):
+        self._wait()
+        self.requests_made += 1
+        return self._send("GET", url, params=params).json()

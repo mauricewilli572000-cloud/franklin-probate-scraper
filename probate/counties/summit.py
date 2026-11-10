@@ -11,13 +11,13 @@ front of it, so it is not scraped.
 import logging
 import re
 from datetime import datetime, timedelta
-from urllib.parse import urljoin
+from urllib.parse import urlencode, urljoin
 
 from bs4 import BeautifulSoup
 
 from .. import config, parsers
 from ..auditor import Auditor, name_parts
-from ..client import Http
+from ..client import BrowserHttp, Http
 from ..common import city_state_zip, clean, mdy, pick_contact, same_street, street_core
 from ..leads import finish_lead
 
@@ -117,19 +117,23 @@ class Site:
     def __init__(self, http):
         self.http = http
 
-    def _get(self, url):
+    def _req(self, method, url, **kw):
         self.http._wait()
         self.http.requests_made += 1
-        r = self.http.s.get(url, timeout=config.TIMEOUT_SEC)
-        r.raise_for_status()
-        return r.text, r.url
+        if hasattr(self.http, "_send"):                       # BrowserHttp (curl_cffi) with retries
+            r = self.http._send(method, url, **kw)
+        else:
+            r = self.http.s.request(method, url, timeout=config.TIMEOUT_SEC, **kw)
+            r.raise_for_status()
+        return r.text, str(r.url)
+
+    def _get(self, url):
+        return self._req("GET", url)
 
     def _post(self, url, data):
-        self.http._wait()
-        self.http.requests_made += 1
-        r = self.http.s.post(url, data=data, timeout=config.TIMEOUT_SEC)
-        r.raise_for_status()
-        return r.text, r.url
+        # repeated keys (caseCd) -> encode ourselves so both HTTP clients send the same body
+        return self._req("POST", url, data=urlencode(data),
+                         headers={"Content-Type": "application/x-www-form-urlencoded", "Referer": url})
 
     def search(self, start, end, codes=CASE_CODES):
         """All cases of `codes` filed start..end (dates). Returns parse_results dict."""
@@ -249,7 +253,13 @@ class County:
     key, label = KEY, LABEL
 
     def __init__(self, http=None):
-        self.http = http or Http()
+        if http is None:
+            try:
+                http = BrowserHttp()      # Summit resets Python's default TLS handshake
+            except ImportError:
+                log.warning("curl_cffi not installed - falling back to requests (likely blocked)")
+                http = Http()
+        self.http = http
         self.site = Site(self.http)
         self.parcels = Parcels(self.http)
 
