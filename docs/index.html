@@ -70,7 +70,9 @@
 // Counties appear automatically once their scraper has published docs/data/<key>/meta.json
 const COUNTIES = [
   {key: "franklin", label: "Franklin"}, {key: "cuyahoga", label: "Cuyahoga"},
-  {key: "hamilton", label: "Hamilton"}, {key: "summit", label: "Summit"}, {key: "shelby", label: "Shelby"},
+  {key: "summit", label: "Summit"},
+  {key: "hamilton", label: "Hamilton", note: "Court site is behind a Cloudflare bot check"},
+  {key: "shelby", label: "Shelby", note: "Court site requires a CAPTCHA"},
 ];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -83,10 +85,10 @@ const val = (r, k) => ({ prop: r.property?.property_address, value: r.property?.
 
 function renderTabs() {
   const live = COUNTIES.filter(c => metas[c.key]);
-  const btn = (key, label, n, off) =>
-    `<button data-t="${key}" class="${tab === key ? "on" : ""} ${off ? "off" : ""}" ${off ? "disabled title='Coming soon'" : ""}>${label}${off ? "" : `<span class="n">${n}</span>`}</button>`;
+  const btn = (key, label, n, off, note) =>
+    `<button data-t="${key}" class="${tab === key ? "on" : ""} ${off ? "off" : ""}" ${off ? `disabled title="${esc(note || "No data yet")}"` : ""}>${label}${off ? "" : `<span class="n">${n}</span>`}</button>`;
   $("#tabs").innerHTML = btn("all", "All counties", all.length, false) +
-    COUNTIES.map(c => btn(c.key, c.label, all.filter(r => r.county === c.key).length, !metas[c.key])).join("");
+    COUNTIES.map(c => btn(c.key, c.label, all.filter(r => r.county === c.key).length, !metas[c.key], c.note)).join("");
   document.querySelectorAll("#tabs button:not([disabled])").forEach(b => b.onclick = () => { tab = b.dataset.t; refresh(); });
   const ms = tab === "all" ? live.map(c => metas[c.key]) : [metas[tab]];
   $("#pend").textContent = ms.reduce((a, m) => a + (m?.pending || 0), 0);

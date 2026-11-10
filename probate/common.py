@@ -53,6 +53,7 @@ def street_core(street):
     """'5163 Lindora Drive' -> ('5163', 'LINDORA'); '1445 E.133RD ST' -> ('1445', '133RD')."""
     s = norm_street(street).replace(".", " ")
     s = re.sub(r"\b([NSEW])(\d)", r"\1 \2", s)            # E.133RD -> E 133RD
+    s = re.sub(r"\b(\d+)(ST|ND|RD|TH)\b", r"\1", s)       # 133RD -> 133 (Cuyahoga stores '228')
     words = s.split()
     if not words or not words[0].isdigit():
         return "", ""

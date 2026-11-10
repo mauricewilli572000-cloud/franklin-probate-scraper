@@ -67,13 +67,37 @@ def _sql(s):
     return s.replace("'", "''")
 
 
+PREFIX_RE = re.compile(r"\b(MC|MAC|VAN|VON|DE|DI|DU|ST)\s+(?=[A-Z]{2})")
+
+
+def _collapse(text):
+    """'MC CARDELL ANNE' -> 'MCCARDELL ANNE' (surname prefixes written with a space)."""
+    return PREFIX_RE.sub(r"\1", re.sub(r"[^A-Z ]", " ", (text or "").upper()))
+
+
 def owner_matches(owner_text, last, first):
-    o = re.sub(r"[^A-Z ]", " ", (owner_text or "").upper())
-    words = set(o.split())
-    last_words = [w for w in re.sub(r"[^A-Z ]", " ", last).split() if w]
+    words = set(_collapse(owner_text).split())
+    last_words = [w for w in _collapse(last).replace(" ", "").split() if w] if PREFIX_RE.search(
+        (last or "").upper() + " X") else [w for w in re.sub(r"[^A-Z ]", " ", (last or "").upper()).split() if w]
     if not last_words or not all(w in words for w in last_words):
         return False
     return not first or first in words or (len(first) > 1 and any(w.startswith(first) for w in words))
+
+
+def owner_segments(owner_text):
+    """Split 'STEWART ANNETTE & JEFFREY J.' into ['STEWART ANNETTE', 'STEWART JEFFREY J'] -
+    a co-owner listed without a surname shares the first owner's surname."""
+    segs = [" ".join(_collapse(x).split()) for x in re.split(r"&|\bAND\b|;", (owner_text or "").upper())]
+    segs = [x for x in segs if x]
+    if not segs:
+        return []
+    surname = segs[0].split()[0]
+    out = [segs[0]]
+    for seg in segs[1:]:
+        w = seg.split()
+        first_only = len(w) == 1 or (len(w) == 2 and len(w[1]) <= 2)      # 'JEFFREY J', 'MARY'
+        out.append(f"{surname} {seg}" if first_only and surname not in w else seg)
+    return out
 
 
 def _epoch_to_iso(ms):
@@ -99,9 +123,9 @@ def gen_suffix(case_name):
 
 def owner_segment(owner_text, last, first):
     """Tokens of the owner-name segment ('&'-separated) that names LAST + FIRST, else None."""
-    for seg in re.split(r"&|\bAND\b|;", (owner_text or "").upper()):
+    for seg in owner_segments(owner_text):
         if owner_matches(seg, last, first):
-            return re.sub(r"[^A-Z ]", " ", seg).split()
+            return seg.split()
     return None
 
 
@@ -136,9 +160,10 @@ def loose_same(owner_text, last, first):
     same two letters (ANET vs ANNETTE, BOB? no - only spelling variants)."""
     if not first or len(first) < 2:
         return False
-    for seg in re.split(r"&|\bAND\b|;", (owner_text or "").upper()):
-        words = re.sub(r"[^A-Z ]", " ", seg).split()
-        if all(w in words for w in re.sub(r"[^A-Z ]", " ", last).split()) and \
+    last_c = _collapse(last).replace(" ", "") if PREFIX_RE.search((last or "").upper() + " X") else last
+    for seg in owner_segments(owner_text):
+        words = seg.split()
+        if all(w in words for w in re.sub(r"[^A-Z ]", " ", last_c).split()) and \
                 any(w != last and len(w) >= 2 and w[:2] == first[:2] for w in words):
             return True
     return False

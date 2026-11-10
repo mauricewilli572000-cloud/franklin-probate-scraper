@@ -1,4 +1,24 @@
-# Ohio Probate Lead Scrapers (Franklin live; Cuyahoga, Hamilton, Summit, Shelby in progress)
+# Ohio Probate Lead Scrapers
+
+| County | Court source | Parcel source | Runs on |
+|---|---|---|---|
+| Franklin | probatesearch.franklincountyohio.gov (date index) | County Auditor GIS | GitHub Actions, daily |
+| Cuyahoga | probate.cuyahogacounty.gov/pa (walks estate case numbers) | Fiscal Officer open-data parcels | GitHub Actions, daily |
+| Summit | search.summitohioprobate.com (CourtView, case-type + file-date search) | Fiscal Office GIS (parcels + sales) | **Your PC** (site blocks GitHub) |
+| Hamilton | probatect.org — Cloudflare bot check | — | not scraped |
+| Shelby | search.shelbyco.net — CAPTCHA | — | not scraped |
+
+### Summit on your PC (Windows Task Scheduler)
+
+```powershell
+cd $HOME\Documents\franklin-probate-scraper
+powershell -ExecutionPolicy Bypass -File scripts\run_local.ps1 -County summit -DaysBack 120   # one-time backfill
+$a = New-ScheduledTaskAction -Execute "powershell.exe" -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$HOME\Documents\franklin-probate-scraper\scripts\run_local.ps1`" -County summit"
+$t = New-ScheduledTaskTrigger -Daily -At 7:15am
+Register-ScheduledTask -TaskName "Summit probate leads" -Action $a -Trigger $t -Settings (New-ScheduledTaskSettingsSet -StartWhenAvailable)
+```
+`-StartWhenAvailable` runs it as soon as the PC is on if it was off at 7:15. Log: `data\summit\local_run.log`.
+
 
 Nightly scraper for new **estate** cases at the Franklin County Probate Court, matched to
 Franklin County Auditor parcels so you only get estates that actually own real estate.

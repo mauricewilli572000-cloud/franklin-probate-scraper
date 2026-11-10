@@ -37,7 +37,9 @@ def test_helpers():
     assert to_last_first("SMITH, BARBARA") == "SMITH, BARBARA"
     assert city_state_zip("CLEVELAND OH 44121-0000") == ("CLEVELAND", "OH", "44121")
     assert city_state_zip("Akron ,   OH   44312") == ("AKRON", "OH", "44312")
-    assert street_core("1445 E.133RD ST") == ("1445", "133RD")
+    assert street_core("1445 E.133RD ST") == ("1445", "133")
+    assert same_street("5329 W 228 ST", "5329 W 228TH ST") and same_street("3614 E 112 ST", "3614 EAST 112TH ST")
+    assert same_street("6283 SOUTH PERKINS RD", "6283 S PERKINS ROAD")
     assert same_street("6859 HIDDEN LAKE TRL", "6859 Hidden Lake Trail")
     assert not same_street("686 EDDY RD", "868 EDDY RD")
 
@@ -66,3 +68,12 @@ def test_parcel_match_nickname():
     assert p["property_address"] == "6859 HIDDEN LAKE TRL" and p["market_value"] == 325900
     assert p["has_mortgage_escrow"] is None and p["property_city"] == "Brecksville"
     assert {q[0] for q in http.queries} == {"0", "1"}                            # both layers searched
+
+
+def test_owner_variants_from_live_run():
+    from probate.auditor import same_person, owner_segments, loose_same
+    assert owner_segments("STEWART  ANNETTE & JEFFREY J. ") == ["STEWART ANNETTE", "STEWART JEFFREY J"]
+    assert loose_same("STEWART  ANNETTE & JEFFREY J. ", "STEWART", "JEFFERY")          # Jeffery ~ Jeffrey
+    assert same_person("MC CARDELL ANNE", "MCCARDELL", "ANNE")
+    assert same_person("KNUPP SHAWN T & COLLINS COURTNEY A", "COLLINS", "COURTNEY", "ANN")
+    assert not same_person("HUNTER CAROLYN", "HUNT", "CAROLYN")

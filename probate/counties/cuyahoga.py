@@ -230,8 +230,8 @@ class Parcels(Auditor):
         num, core = street_core(street)
         if not num or not core:
             return [], True
-        first_word = core.split()[0].replace("'", "''")
-        rows = self._query(f"par_addr = '{num}' AND par_street LIKE '{first_word}%'")
+        word = max(core.split(), key=len).replace("'", "''")      # 'NORTH TAYLOR' vs 'N. TAYLOR'
+        rows = self._query(f"par_addr = '{num}' AND par_street LIKE '%{word}%'")
         if rows is None:
             return None, True
         rows = [r for r in rows if same_street(r["SITEADDRESS"], street)]
