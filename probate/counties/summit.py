@@ -137,10 +137,17 @@ class Site:
 
     def search(self, start, end, codes=CASE_CODES):
         """All cases of `codes` filed start..end (dates). Returns parse_results dict."""
-        html, url = self._get(BASE + "search.page")
-        s = _soup(html)
-        tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
+        tab = None
+        for path in ("home.page", "casesearch", "search.page"):     # same path a browser takes
+            html, url = self._get(BASE + path)
+            s = _soup(html)
+            tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
+            if tab is not None:
+                break
         if tab is None:
+            title = clean(s.title.get_text()) if s.title else ""
+            links = [f"{clean(a.get_text())[:30]}=>{a['href'][:60]}" for a in s.find_all("a", href=True)][:25]
+            log.error("summit page %s title=%r text=%r links=%s", url, title, clean(s.get_text())[:800], links)
             raise RuntimeError("Summit: 'Case Type' search tab not found")
         html, url = self._get(urljoin(url, tab["href"]))
         s = _soup(html)
