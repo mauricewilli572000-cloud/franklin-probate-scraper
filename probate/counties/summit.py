@@ -145,6 +145,9 @@ class Site:
             data.update(self.BROWSER_INFO)
             data["navigatorUserAgent"] = config.USER_AGENT
             html, final = self._post(urljoin(final, form["action"]), list(data.items()))
+            ss = _soup(html)
+            log.info("summit browser-info -> %s title=%r links=%s", final, clean(ss.title.get_text()) if ss.title else "",
+                     [f"{clean(a.get_text())[:25]}=>{a['href'][:70]}" for a in ss.find_all("a", href=True)][:30])
         return html, final
 
     def _post(self, url, data):
@@ -158,7 +161,7 @@ class Site:
         for path in ("home.page", "casesearch", "search.page"):     # same path a browser takes
             html, url = self._get(BASE + path)
             s = _soup(html)
-            log.debug("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
+            log.info("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
                      clean(s.title.get_text()) if s.title else "", list(getattr(self.http.s, "cookies", {}).keys()),
                      [x.get("src") for x in s.find_all("script") if x.get("src")][:6])
             tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
