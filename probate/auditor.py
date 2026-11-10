@@ -131,6 +131,19 @@ def same_person(owner_text, last, first, middle="", gen="", strict=False):
     return True
 
 
+def loose_same(owner_text, last, first):
+    """Address-confirmed nickname match: same last name and first name starting with the
+    same two letters (ANET vs ANNETTE, BOB? no - only spelling variants)."""
+    if not first or len(first) < 2:
+        return False
+    for seg in re.split(r"&|\bAND\b|;", (owner_text or "").upper()):
+        words = re.sub(r"[^A-Z ]", " ", seg).split()
+        if all(w in words for w in re.sub(r"[^A-Z ]", " ", last).split()) and \
+                any(w != last and len(w) >= 2 and w[:2] == first[:2] for w in words):
+            return True
+    return False
+
+
 def classify(parcel, last, first, date_of_death, middle="", gen="", strict=False, ambiguous=False):
     owner = " & ".join(x for x in (parcel.get("OWNERNME1"), parcel.get("OWNERNME2")) if x)
     sale_date = _epoch_to_iso(parcel.get("SALEDATE"))
@@ -146,7 +159,8 @@ def classify(parcel, last, first, date_of_death, middle="", gen="", strict=False
 
 def summarize(parcel, status, matched_by):
     payer = (parcel.get("PSTLNME1") or "").upper()
-    has_mortgage = any(k in payer for k in config.MORTGAGE_SERVICERS)
+    # None = this county publishes no tax-bill payer, so escrow is unknown
+    has_mortgage = any(k in payer for k in config.MORTGAGE_SERVICERS) if "PSTLNME1" in parcel else None
     mail2 = parcel.get("MAILNME2") or ""
     m = re.match(r"(.*?),?\s+([A-Z]{2})\s+(\d{5})(?:-\d{4})?\s*$", mail2.upper())
     return {
@@ -179,6 +193,10 @@ def summarize(parcel, status, matched_by):
 
 
 class Auditor:
+    """Franklin County Auditor matcher. Other counties subclass this and override
+    _query / by_address / by_owner, returning rows with the same keys as Franklin
+    (PARCELID, SITEADDRESS, ZIPCD, OWNERNME1, OWNERNME2, MAILNME1, MAILNME2, SALEDATE ...)."""
+
     def __init__(self, http):
         self.http = http
 
@@ -235,7 +253,13 @@ class Auditor:
             return [], "auditor_unavailable"
         for p in addr_rows:
             st = classify(p, last, first, date_of_death, middle, gen, ambiguous=not exact)
+            loose = False
+            if st in ("other_owner",) and exact and loose_same(
+                    " & ".join(x for x in (p.get("OWNERNME1"), p.get("OWNERNME2")) if x), last, first):
+                st, loose = "in_decedent_name", True
             found[p["PARCELID"]] = summarize(p, st, "address")
+            if loose:
+                found[p["PARCELID"]]["confidence"] = "medium"
         # Name-only hits must clearly be the decedent: middle name on both sides and agreeing,
         # plus one of: full middle name match, owner mails to decedent's street, or few candidates.
         cands = [p for p in self.by_owner(last, first) if p["PARCELID"] not in found and

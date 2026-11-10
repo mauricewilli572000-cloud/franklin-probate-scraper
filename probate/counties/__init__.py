@@ -2,7 +2,7 @@
 scan(start, end) -> rows  and  enrich(row, skip_auditor) -> lead dict."""
 import importlib
 
-COUNTIES = ["franklin"]          # add new county modules here once they are live
+COUNTIES = ["franklin", "cuyahoga", "summit"]          # add new county modules here once they are live
 
 
 def load(key):

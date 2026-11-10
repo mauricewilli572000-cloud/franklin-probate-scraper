@@ -104,7 +104,8 @@ def main(argv=None):
                 continue
             todo[k] = {"case_number": p["case_number"], "suffix": p["suffix"], "case_name": p["case_name"],
                        "case_type": "ESTATE", "subtype": p["subtype"], "status": p.get("court_status", ""),
-                       "opened": p["filing_date"], "closed": p.get("closed_date", "")}
+                       "opened": p["filing_date"], "closed": p.get("closed_date", ""), "q": p.get("q"),
+                       "_pending_lead": p}
     items = sorted(todo.items(), key=lambda kv: kv[1].get("opened", ""), reverse=True)  # newest first
     if a.limit:
         items = items[: a.limit]
@@ -123,7 +124,10 @@ def main(argv=None):
             log.info("checkpoint %d/%d saved (%.0f min elapsed, ~%.0f min left)", i, len(items), el,
                      el / i * (len(items) - i))
         try:
-            lead = county.enrich(r, a.skip_auditor)
+            if r.get("_pending_lead") and hasattr(county, "rematch"):
+                lead = county.rematch(r["_pending_lead"])      # parcel lookup only
+            else:
+                lead = county.enrich(r, a.skip_auditor)
             lead["county"] = county.key
         except Exception as e:  # noqa: BLE001
             counts["errors"] += 1

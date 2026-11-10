@@ -26,7 +26,7 @@ def score(lead):
     elif "SUMMARY" in sub:
         s += 5
 
-    if "W/O WILL" in sub or "WITHOUT WILL" in sub:
+    if "W/O WILL" in sub or "WITHOUT WILL" in sub or "NO WILL" in sub:
         s += 10; reasons.append("no will (multiple heirs)")
 
     fid = lead.get("fiduciary") or {}
@@ -38,7 +38,7 @@ def score(lead):
         s += 5; reasons.append("executor phone listed")
 
     if prop:
-        if not prop.get("has_mortgage_escrow"):
+        if prop.get("has_mortgage_escrow") is False:
             s += 10; reasons.append("no mortgage escrow (possible free & clear)")
         yb = prop.get("year_built")
         if isinstance(yb, int) and yb and yb < 1970:

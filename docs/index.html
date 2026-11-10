@@ -124,7 +124,7 @@ function render() {
     const p = r.property || {}, f = r.fiduciary || {}, at = r.attorney || {};
     const cls = r.score >= 60 ? "s-hot" : r.score >= 40 ? "s-warm" : "";
     const tags = [[p.status === "transferred_to_heirs" ? "inherited" : "in decedent's name"],
-                  [p.has_mortgage_escrow ? "mortgage escrow" : "no escrow"], [p.rental ? "rental" : ""],
+                  [p.has_mortgage_escrow === true ? "mortgage escrow" : p.has_mortgage_escrow === false ? "no escrow" : ""], [p.rental ? "rental" : ""],
                   [p.matched_by === "owner_name" ? `name match (${p.confidence})` : "", "warn"],
                   [(r.other_properties || []).length ? `+${r.other_properties.length} parcels` : ""]]
                   .filter(t => t[0]).map(t => `<span class="tag ${t[1] || ""}">${esc(t[0])}</span>`).join("");
@@ -167,9 +167,9 @@ function downloadCsv() {
     if (last.includes(",")) { const [l, rest] = last.split(/,(.*)/); last = title(l.trim()); first = title(rest.trim().split(" ")[0]); }
     else last = title(last);
     const tags = ["probate", `${r.county}-county`, p.status === "transferred_to_heirs" ? "inherited" : "",
-                  f.state && f.state !== "OH" ? "out-of-state-executor" : "", p.has_mortgage_escrow ? "" : "possible-free-clear"].filter(Boolean);
+                  f.state && f.state !== "OH" ? "out-of-state-executor" : "", p.has_mortgage_escrow === false ? "possible-free-clear" : ""].filter(Boolean);
     lines.push([first, last, f.phone, f.street, title(f.city), f.state, f.zip, p.property_address, p.property_city,
-      p.property_zip, p.parcel_id, p.market_value, p.has_mortgage_escrow ? "Yes" : "No", p.property_class, p.status,
+      p.property_zip, p.parcel_id, p.market_value, p.has_mortgage_escrow === true ? "Yes" : p.has_mortgage_escrow === false ? "No" : "Unknown", p.property_class, p.status,
       r.case_name, r.date_of_death, r.case_key, r.subtype, r.filing_date, a.name, a.phone, title(r.county), r.score,
       (r.score_reasons || []).join("; "), r.date_added, tags.join(",")].map(q).join(","));
   }

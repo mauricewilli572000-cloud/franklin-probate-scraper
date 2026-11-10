@@ -30,7 +30,7 @@ def lead_row(lead):
         tags.append("inherited")
     if fid.get("state") and fid["state"] != "OH":
         tags.append("out-of-state-executor")
-    if not prop.get("has_mortgage_escrow"):
+    if prop.get("has_mortgage_escrow") is False:
         tags.append("possible-free-clear")
     return {
         "First Name": first, "Last Name": last, "Phone": fid.get("phone", ""),
@@ -39,7 +39,7 @@ def lead_row(lead):
         "Property Address": prop.get("property_address", ""),
         "Property City": prop.get("property_city", ""), "Property Zip": prop.get("property_zip", ""),
         "Parcel ID": prop.get("parcel_id", ""), "Market Value": prop.get("market_value", ""),
-        "Mortgage Escrow": "Yes" if prop.get("has_mortgage_escrow") else "No",
+        "Mortgage Escrow": {True: "Yes", False: "No"}.get(prop.get("has_mortgage_escrow"), "Unknown"),
         "Property Class": prop.get("property_class", ""), "Property Status": prop.get("status", ""),
         "Decedent": lead.get("case_name", ""), "Date of Death": lead.get("date_of_death", ""),
         "Case Number": lead.get("case_key", ""), "Case Subtype": lead.get("subtype", ""),
