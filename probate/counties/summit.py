@@ -127,8 +127,25 @@ class Site:
             r.raise_for_status()
         return r.text, str(r.url)
 
+    BROWSER_INFO = {
+        "navigatorAppName": "Netscape", "navigatorAppCodeName": "Mozilla",
+        "navigatorAppVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "navigatorCookieEnabled": "true", "navigatorJavaEnabled": "false", "navigatorLanguage": "en-US",
+        "navigatorPlatform": "Win32", "screenWidth": "1920", "screenHeight": "1080", "screenColorDepth": "24",
+        "utcOffset": "-5", "utcDSTOffset": "-4", "browserWidth": "1400", "browserHeight": "900",
+        "hostname": "search.summitohioprobate.com",
+    }
+
     def _get(self, url):
-        return self._req("GET", url)
+        html, final = self._req("GET", url)
+        if "BrowserInfoPage" in html and 'name="postback"' in html:
+            # Wicket's browser-capability check: a browser auto-submits this hidden form via JS
+            form = _soup(html).find("form", attrs={"name": "postback"})
+            data = {i["name"]: i.get("value", "") for i in form.find_all("input") if i.get("name")}
+            data.update(self.BROWSER_INFO)
+            data["navigatorUserAgent"] = config.USER_AGENT
+            html, final = self._post(urljoin(final, form["action"]), list(data.items()))
+        return html, final
 
     def _post(self, url, data):
         # repeated keys (caseCd) -> encode ourselves so both HTTP clients send the same body
@@ -141,11 +158,9 @@ class Site:
         for path in ("home.page", "casesearch", "search.page"):     # same path a browser takes
             html, url = self._get(BASE + path)
             s = _soup(html)
-            log.info("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
+            log.debug("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
                      clean(s.title.get_text()) if s.title else "", list(getattr(self.http.s, "cookies", {}).keys()),
                      [x.get("src") for x in s.find_all("script") if x.get("src")][:6])
-            if path == "home.page":
-                log.info("summit home.page html: %s", re.sub(r"\s+", " ", html)[:4900])
             tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
             if tab is not None:
                 break
