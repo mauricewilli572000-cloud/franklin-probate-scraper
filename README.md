@@ -4,11 +4,11 @@
 |---|---|---|---|
 | Franklin | probatesearch.franklincountyohio.gov (date index) | County Auditor GIS | GitHub Actions, daily |
 | Cuyahoga | probate.cuyahogacounty.gov/pa (walks estate case numbers) | Fiscal Officer open-data parcels | GitHub Actions, daily |
-| Summit | search.summitohioprobate.com (CourtView, case-type + file-date search) | Fiscal Office GIS (parcels + sales) | **Your PC** (site blocks GitHub) |
+| Summit | search.summitohioprobate.com (CourtView, case-type + file-date search; session opened once in headless Chrome, then curl_cffi) | Fiscal Office GIS (parcels + sales) | GitHub Actions, daily |
 | Hamilton | probatect.org — Cloudflare bot check | — | not scraped |
 | Shelby | search.shelbyco.net — CAPTCHA | — | not scraped |
 
-### Summit on your PC (Windows Task Scheduler)
+### Running a county on your PC instead (fallback, e.g. if a court blocks GitHub)
 
 ```powershell
 cd $HOME\Documents\franklin-probate-scraper

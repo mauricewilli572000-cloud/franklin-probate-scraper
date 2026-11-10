@@ -1,9 +1,8 @@
 name: Probate - Summit
 
-# Summit's court site resets connections from GitHub's servers, so the daily run happens on
-# your PC instead (scripts/run_local.ps1 via Windows Task Scheduler). This workflow stays
-# available for a manual try in case Summit lifts the block.
 on:
+  schedule:
+    - cron: "7 12 * * *"     # daily ~7:07 AM Eastern
   workflow_dispatch:
     inputs:
       days_back:
