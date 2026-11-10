@@ -167,6 +167,12 @@ class Site:
             tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
             if tab is not None:
                 break
+        if tab is None and "assets/index-" in html:
+            js = re.search(r'src="\./(assets/index-[^"]+\.js)"', html).group(1)
+            code, _ = self._req("GET", BASE + js)
+            hits = sorted(set(re.findall(r'[\w./-]{0,40}\.page[\w./?=&-]{0,60}', code)))[:60]
+            apis = sorted(set(re.findall(r'["\'](/?(?:eservices/)?(?:api|rest|services?)/[\w./-]{2,60})["\']', code)))[:40]
+            log.info("summit SPA js %s: .page refs=%s api refs=%s", js, hits, apis)
         if tab is None:
             title = clean(s.title.get_text()) if s.title else ""
             links = [f"{clean(a.get_text())[:30]}=>{a['href'][:60]}" for a in s.find_all("a", href=True)][:25]
