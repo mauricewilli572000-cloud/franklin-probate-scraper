@@ -144,6 +144,8 @@ class Site:
             log.info("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
                      clean(s.title.get_text()) if s.title else "", list(getattr(self.http.s, "cookies", {}).keys()),
                      [x.get("src") for x in s.find_all("script") if x.get("src")][:6])
+            if path == "home.page":
+                log.info("summit home.page html: %s", re.sub(r"\s+", " ", html)[:4900])
             tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
             if tab is not None:
                 break
