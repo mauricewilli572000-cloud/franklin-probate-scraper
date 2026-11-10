@@ -145,9 +145,6 @@ class Site:
             data.update(self.BROWSER_INFO)
             data["navigatorUserAgent"] = config.USER_AGENT
             html, final = self._post(urljoin(final, form["action"]), list(data.items()))
-            ss = _soup(html)
-            log.info("summit browser-info -> %s title=%r links=%s", final, clean(ss.title.get_text()) if ss.title else "",
-                     [f"{clean(a.get_text())[:25]}=>{a['href'][:70]}" for a in ss.find_all("a", href=True)][:30])
         return html, final
 
     def _post(self, url, data):
@@ -161,18 +158,16 @@ class Site:
         for path in ("home.page", "casesearch", "search.page"):     # same path a browser takes
             html, url = self._get(BASE + path)
             s = _soup(html)
-            log.info("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
+            log.debug("summit GET %s -> %s len=%d title=%r cookies=%s scripts=%s", path, url, len(html),
                      clean(s.title.get_text()) if s.title else "", list(getattr(self.http.s, "cookies", {}).keys()),
                      [x.get("src") for x in s.find_all("script") if x.get("src")][:6])
             tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
             if tab is not None:
                 break
-        if tab is None and "assets/index-" in html:
-            js = re.search(r'src="\./(assets/index-[^"]+\.js)"', html).group(1)
-            code, _ = self._req("GET", BASE + js)
-            hits = sorted(set(re.findall(r'[\w./-]{0,40}\.page[\w./?=&-]{0,60}', code)))[:60]
-            apis = sorted(set(re.findall(r'["\'](/?(?:eservices/)?(?:api|rest|services?)/[\w./-]{2,60})["\']', code)))[:40]
-            log.info("summit SPA js %s: .page refs=%s api refs=%s", js, hits, apis)
+        if tab is None:
+            html, url = self._bootstrap_with_browser()
+            s = _soup(html)
+            tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
         if tab is None:
             title = clean(s.title.get_text()) if s.title else ""
             links = [f"{clean(a.get_text())[:30]}=>{a['href'][:60]}" for a in s.find_all("a", href=True)][:25]
@@ -221,6 +216,30 @@ class Site:
                     cases[k] = v
             pages += 1
         return cases
+
+    def _bootstrap_with_browser(self):
+        """The search page is reached through a JavaScript app that plain HTTP clients can't run.
+        Open it once in headless Chrome, then hand the session cookies to the HTTP client
+        (Wicket keeps the page state server-side, keyed by JSESSIONID)."""
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            b = p.chromium.launch(headless=True)
+            ctx = b.new_context(user_agent=config.USER_AGENT, locale="en-US")
+            page = ctx.new_page()
+            page.goto(BASE + "home.page", wait_until="networkidle", timeout=60000)
+            page.goto(BASE + "casesearch", wait_until="networkidle", timeout=60000)
+            try:
+                page.wait_for_url(re.compile(r"search\.page"), timeout=30000)
+            except Exception:  # noqa: BLE001
+                log.warning("summit: browser did not reach search.page (at %s)", page.url)
+            page.wait_for_timeout(1500)
+            html, url = page.content(), page.url
+            self.http.s.cookies.clear()
+            for c in ctx.cookies():
+                self.http.s.cookies.set(c["name"], c["value"], domain=c["domain"], path=c.get("path", "/"))
+            b.close()
+        log.info("summit: browser session ready at %s", url.split("?")[0])
+        return html, url
 
     def case(self, href):
         return self._get(href)[0]
