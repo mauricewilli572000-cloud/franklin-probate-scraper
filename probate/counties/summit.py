@@ -26,7 +26,8 @@ log = logging.getLogger("probate.summit")
 KEY, LABEL = "summit", "Summit"
 BASE = "https://search.summitohioprobate.com/eservices/"
 CASE_CODES = ("ES", "ER")                 # Estate, Release of Administration
-WINDOW_DAYS = 4                           # keep each result list short (all parties are listed)
+WINDOW_DAYS = 1                           # results page holds ~50 party rows and "Next" is an AJAX
+                                          # button we can't follow, so search one type + one day at a time
 PARCELS = "https://scgis.summitoh.net/hosted/rest/services/parcels_cama/parcels_Esri_ArcMap_Static/MapServer/0/query"
 SALES = "https://scgis.summitoh.net/hosted/rest/services/parcels_cama/Tax_Parcel_Sales/MapServer/0/query"
 PARCEL_FIELDS = "PARID,ADDR,OWN1,OWN2,OWNADDR1,OWNADDR2,OWNADDR3,OWNZIP1,CITYNAME,LUC,CLASS,BLDGSF,ACRES"
@@ -49,6 +50,7 @@ def parse_results(html, page_url):
     cases, next_href = {}, None
     if table is None:
         return cases, None
+    truncated = any("Next" in a.get_text() for a in s.find_all("a"))
     heads = [clean(th.get_text()) for th in table.find_all("th")]
     idx = {h: i for i, h in enumerate(heads)}
     for tr in table.select("tbody tr"):
@@ -68,6 +70,8 @@ def parse_results(html, page_url):
     for a in s.find_all("a", href=True):
         if "Next" in a.get_text() and "?x=" in a["href"]:
             next_href = urljoin(page_url, a["href"])
+    if truncated and not next_href:
+        next_href = "TRUNCATED"
     return cases, next_href
 
 
@@ -127,8 +131,8 @@ class Site:
         r.raise_for_status()
         return r.text, r.url
 
-    def search(self, start, end):
-        """All cases of CASE_CODES filed start..end (dates). Returns parse_results dict."""
+    def search(self, start, end, codes=CASE_CODES):
+        """All cases of `codes` filed start..end (dates). Returns parse_results dict."""
         html, url = self._get(BASE + "search.page")
         s = _soup(html)
         tab = next((a for a in s.find_all("a", href=True) if clean(a.get_text()) == "Case Type"), None)
@@ -154,7 +158,7 @@ class Site:
                 data.append((n, el.get("value", "")))
         sel = form.find("select", attrs={"name": "caseCd"})
         for o in sel.find_all("option"):
-            if o.get("value", "").strip() in CASE_CODES:
+            if o.get("value", "").strip() in codes:
                 data.append(("caseCd", o["value"]))
         data = [(k, v) for k, v in data if not k.startswith("fileDateRange")]
         data += [("fileDateRange:dateInputBegin", start.strftime("%m/%d/%Y")),
@@ -163,6 +167,9 @@ class Site:
         if "Last Name or Company Name is required" in html:
             raise RuntimeError("Summit: search form now requires a name")
         cases, nxt = parse_results(html, url)
+        if nxt == "TRUNCATED":
+            log.warning("summit %s %s..%s: more results than one page - some cases missed", codes, start, end)
+            nxt = None
         pages = 1
         while nxt and pages < 30:
             html, url = self._get(nxt)
@@ -250,7 +257,9 @@ class County:
         rows, d = [], start
         while d <= end:
             w_end = min(end, d + timedelta(days=WINDOW_DAYS - 1))
-            cases = self.site.search(d, w_end)
+            cases = {}
+            for code in CASE_CODES:
+                cases.update(self.site.search(d, w_end, (code,)))
             for c in cases.values():
                 dec = next((p for p in c["parties"] if p["role"] == "DECEDENT"), None)
                 if not dec:

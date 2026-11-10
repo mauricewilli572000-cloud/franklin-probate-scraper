@@ -12,6 +12,8 @@ URL = "https://search.summitohioprobate.com/eservices/searchresults.page?x=abc"
 def test_results():
     cases, nxt = su.parse_results(read("results.html"), URL)
     assert nxt is None                                    # 'Next »' is a plain span on the last page
+    full = read("results.html").replace("<span>Next »</span>", '<a href="#">Next »</a>')
+    assert su.parse_results(full, URL)[1] == "TRUNCATED"  # AJAX next button -> flagged
     assert list(cases) == ["2026 ES 01048", "2026 ES 01050", "2026 ES 00577 A"]
     c = cases["2026 ES 01048"]
     assert c["file_date"] == "2026-11-02" and c["action"] == "Full Administration W/O Will"
