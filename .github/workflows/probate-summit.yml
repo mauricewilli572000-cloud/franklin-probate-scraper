@@ -8,6 +8,9 @@ on:
       days_back:
         description: "Days of filings to scan (use 120 for a first backfill)"
         default: "10"
+      refresh_parcels:
+        description: "Only re-run parcel lookups for existing leads (yes/no)"
+        default: "no"
       max_minutes:
         description: "Stop cleanly after this many minutes and save (re-run to continue)"
         default: "300"
@@ -37,6 +40,7 @@ jobs:
           python run_pipeline.py --county summit
           --days-back "${{ github.event.inputs.days_back || '10' }}"
           --max-minutes "${{ github.event.inputs.max_minutes || '300' }}"
+          ${{ github.event.inputs.refresh_parcels == 'yes' && '--refresh-parcels' || '' }}
       - name: Commit results (runs even if the pipeline failed, so progress is never lost)
         if: always()
         run: |

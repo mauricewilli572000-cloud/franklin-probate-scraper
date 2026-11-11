@@ -51,3 +51,17 @@ def test_parcels():
     assert p["property_address"] == "56 E DARTMORE AVE" and p["market_value"] == 135030
     assert p["property_class"] == "CAPE COD" and p["last_sale_date"] == "2020-06-16" and p["year_built"] == 1941
     assert p["has_mortgage_escrow"] is None and p["property_city"] == "Akron"
+
+
+def test_csv_falls_back_to_tax_bill_address():
+    from probate.export import lead_row
+    lead = {"case_name": "WEBB, MAGGIE L.", "case_key": "2026ER00958", "county": "summit", "score": 35,
+            "fiduciary": {"name": "PEAKE, DIANN", "title": "APPLICANT", "street": ""},
+            "property": {"property_address": "3418 SYMPHONY ST", "owner_mail_street": "3418 SYMPHONY ST",
+                         "owner_mail_city": "Akron", "owner_mail_state": "OH", "owner_mail_zip": "44319",
+                         "status": "in_decedent_name", "has_mortgage_escrow": None}}
+    row = lead_row(lead)
+    assert (row["First Name"], row["Last Name"]) == ("Estate of", "Webb, Maggie L.")
+    assert (row["Address"], row["City"], row["Postal Code"]) == ("3418 SYMPHONY ST", "Akron", "44319")
+    assert row["Contact Person"] == "Peake, Diann" and row["Mailing Source"] == "tax-bill address"
+    assert "mail-to-property" in row["Tags"] and row["Mortgage Escrow"] == "Unknown"

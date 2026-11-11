@@ -159,20 +159,25 @@ function refresh() {
 function downloadCsv() {
   const cols = ["First Name","Last Name","Phone","Address","City","State","Postal Code","Property Address","Property City",
     "Property Zip","Parcel ID","Market Value","Mortgage Escrow","Property Class","Property Status","Decedent","Date of Death",
-    "Case Number","Case Subtype","Filing Date","Attorney","Attorney Phone","County","Lead Score","Score Reasons","Date Added","Tags"];
+    "Case Number","Case Subtype","Filing Date","Contact Person","Mailing Source","Attorney","Attorney Phone","County","Lead Score","Score Reasons","Date Added","Tags"];
   const q = v => { v = String(v ?? ""); return /[",\n]/.test(v) ? `"${v.replace(/"/g, '""')}"` : v; };
   const lines = [cols.join(",")];
   for (const r of shownRows) {
     const f = r.fiduciary || {}, p = r.property || {}, a = r.attorney || {};
-    if (!f.street) continue;
     let first = "", last = f.name || "";
     if (last.includes(",")) { const [l, rest] = last.split(/,(.*)/); last = title(l.trim()); first = title(rest.trim().split(" ")[0]); }
     else last = title(last);
-    const tags = ["probate", `${r.county}-county`, p.status === "transferred_to_heirs" ? "inherited" : "",
+    let addr = [f.street, title(f.city), f.state, f.zip], source = "executor";
+    if (!f.street && p.owner_mail_street) {      // no executor address: mail the estate at the tax-bill address
+      addr = [p.owner_mail_street, p.owner_mail_city, p.owner_mail_state || "OH", p.owner_mail_zip];
+      first = "Estate of"; last = title(r.case_name); source = "tax-bill address";
+    }
+    if (!addr[0]) continue;
+    const tags = ["probate", `${r.county}-county`, source === "executor" ? "" : "mail-to-property", p.status === "transferred_to_heirs" ? "inherited" : "",
                   f.state && f.state !== "OH" ? "out-of-state-executor" : "", p.has_mortgage_escrow === false ? "possible-free-clear" : ""].filter(Boolean);
-    lines.push([first, last, f.phone, f.street, title(f.city), f.state, f.zip, p.property_address, p.property_city,
+    lines.push([first, last, f.phone, ...addr, p.property_address, p.property_city,
       p.property_zip, p.parcel_id, p.market_value, p.has_mortgage_escrow === true ? "Yes" : p.has_mortgage_escrow === false ? "No" : "Unknown", p.property_class, p.status,
-      r.case_name, r.date_of_death, r.case_key, r.subtype, r.filing_date, a.name, a.phone, title(r.county), r.score,
+      r.case_name, r.date_of_death, r.case_key, r.subtype, r.filing_date, title(f.name), source, a.name, a.phone, title(r.county), r.score,
       (r.score_reasons || []).join("; "), r.date_added, tags.join(",")].map(q).join(","));
   }
   const blob = new Blob(["﻿" + lines.join("\r\n")], {type: "text/csv"});

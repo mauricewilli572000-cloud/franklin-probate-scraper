@@ -249,7 +249,10 @@ class Site:
 def _std(a, sale=None):
     sale = sale or {}
     addr = re.sub(r"\s+", " ", a.get("ADDR") or "").strip()
-    mail2 = " ".join(x for x in (a.get("OWNADDR2"), a.get("OWNADDR3")) if x)
+    mail2 = " ".join(x for x in (a.get("OWNADDR2"), a.get("OWNADDR3")) if x).strip()
+    if not re.search(r"[A-Z]{2}$", mail2.upper()):
+        # city/state often missing: owner-occupied -> use the parcel's city
+        mail2 = f"{(mail2 or a.get('CITYNAME') or '').strip()}, OH"
     return {
         "PARCELID": a.get("PARID", ""), "SITEADDRESS": addr, "ZIPCD": "",
         "OWNERNME1": (a.get("OWN1") or "").strip(), "OWNERNME2": (a.get("OWN2") or "").strip() or None,

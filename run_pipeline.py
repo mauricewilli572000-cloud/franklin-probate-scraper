@@ -68,6 +68,8 @@ def main(argv=None):
     ap.add_argument("--dry-run", action="store_true", help="print leads, write nothing")
     ap.add_argument("--skip-auditor", action="store_true")
     ap.add_argument("--no-retry-pending", action="store_true")
+    ap.add_argument("--refresh-parcels", action="store_true",
+                    help="re-run only the parcel lookup for existing leads (no court scraping)")
     ap.add_argument("--max-minutes", type=float, default=0,
                     help="stop cleanly after this long and save (next run continues)")
     ap.add_argument("-v", "--verbose", action="store_true")
@@ -86,6 +88,19 @@ def main(argv=None):
     log.info("loaded %d records, %d pending, %d skipped", len(records), len(pending), len(skipped))
 
     log.info("county: %s", county.label)
+    if a.refresh_parcels:
+        if not hasattr(county, "rematch"):
+            raise SystemExit(f"{a.county} has no rematch(); nothing to refresh")
+        n = 0
+        for k, lead in list(records.items()):
+            new = county.rematch(lead)
+            new["county"], new["date_added"] = county.key, lead.get("date_added")
+            if new["property"]:
+                records[k] = new
+                n += 1
+        log.info("refreshed parcels for %d/%d leads", n, len(records))
+        write_outputs(records, pending, skipped, {"refreshed": n})
+        return 0
     rows = county.scan(start, end)
     todo = {}
     for r in rows:
