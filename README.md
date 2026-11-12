@@ -4,6 +4,7 @@
 |---|---|---|---|
 | Franklin | probatesearch.franklincountyohio.gov (date index) | County Auditor GIS | GitHub Actions, daily |
 | Cuyahoga | probate.cuyahogacounty.gov/pa (walks estate case numbers) | Fiscal Officer open-data parcels | GitHub Actions, daily |
+| Montgomery | go.mcohio.org probate case search (walks estate case numbers, ~3 s between requests) | Treasurer tax roll (name match; court lists no decedent address) | GitHub Actions, daily |
 | Summit | search.summitohioprobate.com (CourtView, case-type + file-date search; session opened once in headless Chrome, then curl_cffi) | Fiscal Office GIS (parcels + sales) | GitHub Actions, daily |
 | Hamilton | probatect.org — Cloudflare bot check | — | not scraped |
 | Shelby | search.shelbyco.net — CAPTCHA | — | not scraped |

@@ -1,0 +1,47 @@
+name: Probate - Montgomery
+
+on:
+  schedule:
+    - cron: "23 13 * * *"     # daily ~8:23 AM Eastern
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: "Days of filings to scan (use 30 for a first backfill)"
+        default: "10"
+      max_minutes:
+        description: "Stop cleanly after this many minutes and save (re-run to continue)"
+        default: "120"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: probate-montgomery
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q
+      - name: Run pipeline
+        run: >
+          python run_pipeline.py --county montgomery
+          --days-back "${{ github.event.inputs.days_back || '10' }}"
+          --max-minutes "${{ github.event.inputs.max_minutes || '120' }}"
+      - name: Commit results (runs even if the pipeline failed, so progress is never lost)
+        if: always()
+        run: |
+          git config user.name "probate-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/montgomery docs/data/montgomery
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Montgomery probate leads $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 10; done

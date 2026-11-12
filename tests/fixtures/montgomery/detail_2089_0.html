@@ -1,0 +1,645 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PROBATE DIVISION</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
+
+/* Style the body */
+body {
+	height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size:1em;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+/* Style the navigation bar links */
+a {
+  color: #2a6297;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+a:hover {
+  color: #bf2c37;
+  text-decoration: underline;
+}
+
+
+@media screen and (min-width: 800px) {
+  .wrapper {
+    flex: 1;
+	flex-wrap:wrap;
+  }
+
+
+.wrapper {
+  display: flex;
+  flex-wrap:wrap;
+  flex-direction: row;
+  min-height: 100vh;
+
+}
+	
+	
+.left_column {
+  background: #1768b5;
+  max-width: 300px;
+  min-width: 150px;
+  border-right:solid 1px #144271;
+}
+
+
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  background-color: #1768b5;
+  flex-direction: column;
+  max-width: 300px;
+  min-width: 150px;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: left;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #FFF;
+  color: black;
+}
+
+.right_column {
+  background: white;
+  flex: 1;
+  vertical-align:top;
+  min-height: 100%;
+
+}
+
+
+
+
+/* Header/logo Title */
+.header {
+  padding: 1px;
+  text-align: center;
+  background-color: #144271;
+  border-bottom:solid 3px #5191cd;
+  color:#FFF;
+  text-decoration:none;
+}
+
+/* Style the navigation bar links */
+.header a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Change text color on hover */
+.header a:hover {
+  background-color: #D3D3D3;
+  color: #f9a13a;
+  text-decoration:none;
+}
+
+
+.heading_title{
+	text-transform: uppercase;
+	font-weight:bold;
+	font-size: 1em;
+}
+
+
+
+.main_content {
+  background: white;
+  flex: 1;
+  vertical-align:top;
+  padding-left:15px;
+  margin-right:15px;
+
+
+}
+
+
+button.image-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+	
+	
+.sr-only {   /*use this to hide text visually.  For example text Label for an image button*/
+  position: absolute;
+  left: -9999px;
+}
+	
+	
+.green.button {
+  display: inline-block;
+  background-color: #2e7d32; /* dark green */
+  color: #ffffff;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none; /* removes underline for <a> */
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+	
+	
+.green.button:hover {
+  background-color: #256628;
+}
+
+.green.button:active {
+  background-color: #1b4d1d;
+}
+	
+.green.button:focus {
+  outline: 3px solid #ffbf47;   /* high-contrast focus ring */
+  outline-offset: 2px;
+}
+
+
+/* Department Title Section - Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  max-width: 200px;
+  background-color: #4f8bc9;
+  padding: 20px;
+}
+
+
+/* Create two equal columns for the page title and optional image */
+.sub_header_column {
+  flex: 50%;
+  padding-top: 10px;
+  height:125px;
+  vertical-align:top;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+.page_title{
+	text-transform: uppercase;
+	font-weight:bold;
+	font-size:1.7em;
+	margin-top:-0.4em;
+	margin-bottom:0.25em;
+
+}
+
+
+.page_subtitle{
+	font-weight:normal;
+	font-size:1.5em;
+	margin-top:-0.4em;
+	margin-bottom:30px;
+
+}
+
+
+
+.page_logo{
+	font-weight:normal;
+	font-size:1.5em;
+	margin-top:-0.4em;
+	margin-bottom:30px;
+
+}
+
+
+
+.headline{
+	color:black;
+	font-weight:bold;
+	font-size: 1.5em;
+}
+
+.subhead1{
+
+	color:#e21a23;
+	font-size: 1.3em;
+	font-weight:bold;
+
+}
+
+
+
+.subhead2 {
+	color:#4f8bc9;
+	font-weight:bold;
+	font-size: 1em;
+
+}
+
+.red{
+color:#e21a23;
+
+}
+
+
+.blue{
+color:#4f8bc9;
+}
+	
+	
+/* Footer */
+.footer {
+  padding: 2px;
+  text-align: center;
+  background-color: #144271;
+  border-top: solid 2px #4f8bc9;
+  color:#FFF;
+  font-size:12px;
+}
+
+</style>
+
+	<meta name="keywords" content="Click,on,picture,for,the,Registration,Form,The,Supreme,Court,of,Ohioannounced,on,March,10,2015the,adoption,of,new,rules,to,governadult,guardianships,in,Ohio"/>
+
+
+
+	<meta name="description" content="Click on picture for the Registration Form The Supreme Court of Ohioannounced on March 10, 2015the adoption of new rules to govern adult guardianships in Ohio.The rules became effective June 1, 2015."/>
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+
+	 <style>
+a:focus,
+button:focus,
+input:focus,
+select:focus,
+textarea:focus {
+  outline: 3px solid #80520e;
+  outline-offset: 2px;
+}
+
+.probate-alert,
+.probate-status {
+  color: #000;
+  font-weight: bold;
+}
+
+.probate-nowrap {
+  white-space: nowrap;
+}
+
+caption {
+  font-weight: bold;
+  margin-bottom: 0.35em;
+}
+
+
+
+
+.case-search-help {
+    max-width: 550px;
+    margin: 12px auto;
+    padding: 16px 18px;
+    background: #fff;
+    border: 1px solid #d9e2ec;
+    border-radius: 6px;
+    color: #263445;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.case-search-help h3 {
+    margin: 0 0 6px;
+    color: #075aaa;
+    font-size: 19px;
+}
+
+.case-search-help p {
+    margin: 7px 0;
+}
+
+.case-example-label {
+    margin-bottom: 2px !important;
+    font-size: 12px;
+    font-weight: 600;
+    color: #64748b;
+}
+
+.case-example-number {
+    margin-bottom: 12px;
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.case-example-number span {
+    color: #c0392b;
+    text-decoration: line-through;
+}
+
+.case-search-fields {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.case-search-field label {
+    display: block;
+    margin-bottom: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #263445;
+}
+
+.case-search-value {
+    padding: 8px 10px;
+    background: #f1f6fc;
+    border: 1px solid #cbd9e8;
+    border-radius: 4px;
+    color: #075aaa;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.case-search-warning {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 8px 10px;
+    background: #fff4f2;
+    border-left: 3px solid #c0392b;
+    border-radius: 3px;
+    color: #a52a20;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.case-search-instruction {
+    margin-bottom: 0 !important;
+    padding-top: 3px;
+}
+
+@media (max-width: 400px) {
+    .case-search-help {
+        padding: 12px;
+    }
+}
+
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+
+<div class="left_column">
+  <div style="background-color:#144271; height:10px;">&nbsp;</div>
+<div align="center" style="padding-top:15px; padding-bottom:15px; background-image: linear-gradient(#144271,  #144271, #1c4c7d, #2f69a0, #1768b5);">
+  <a href="https://www.mcohio.org"><img src="https://go.mcohio.org/applications/images/mc_logo.png" width="128" height="113" alt="Montgomery County, Ohio logo" longdesc="County Logo"></a><br/>
+
+ </div>
+
+  <!-- Navigation Bar -->
+    <div class="navbar">
+	<a href="https://www.mcohio.org/">Montgomery County Home</a>
+	<a href="https://www.mcohio.org/388/Common-Pleas-Court---Probate-Division" target="_self" >Probate Home</a>
+
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/attorneycasesearch.cfm" target="_self" >Attorney's Cases</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearchall.cfm" target="_self" >Case Name</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearchm.cfm" target="_self" >Civil & Miscellaneous</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearchx.cfm" target="_self" >Estate</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearchg.cfm" target="_self" >Guardianship</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/marriagesearch.cfm" target="_self" >Marriage License</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearchmh.cfm" target="_self" >Mental Health</a>
+	<a href="https://go.mcohio.org/applications/probate/prodcfm/casesearcht.cfm" target="_self" >Trusts</a>
+
+
+
+
+
+
+
+    </div>
+</div>
+  
+ 
+ 
+  
+<div class="right_column">
+
+
+
+  <!-- Header -->
+
+<div class="header">
+<a href="https://go.mcohio.org"><p style="text-align: center;" class="heading_title">Montgomery County, Ohio:  The Birthplace of Innovation</p></a>
+</div>
+
+  
+
+
+
+
+  
+<div class="main_content"> 
+    
+
+ 
+ <table align="center" border="0" bordercolor="32597A" cellspacing="1" width="30%">
+	<tr><td align="center">
+           <img src="https://go.mcohio.org/applications/probate/Court Seal and Judge  Brannon.png" alt="Montgomery County Probate Court logo"><br/>
+		   <br></td>
+	</tr>
+</TABLE>
+
+
+
+ 
+
+
+
+
+
+
+
+<TABLE WIDTH="35%" align="center" CELLPADDING=0 CELLSPACING=0 BORDER=0 bordercolor="black">
+		<TR><td align="center" style="background-color:lightgrey;">
+			<a href="CASESEARCH_DOCKETx.cfm?52514B515854050704000A0708">
+
+		<B>View Docket</B></a></td>
+		</TR>
+</table>
+			
+
+
+</p>
+
+
+
+			<table align="center" bgcolor="ffffff" border="1" bordercolor="000000" cellspacing="0" width="95%">
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Decedent's Name</td>
+					<td width="70%" valign="top">&nbsp;GENEVA SCHAFFER&nbsp </td>
+				</tr>
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Date of Death
+					<td width="70%" valign="top">&nbsp;&nbsp </td>
+				</tr>
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Case Number</td>
+					<td width="70%" valign="top">&nbsp;2026EST02089&nbsp </td>
+				</tr>
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Case Type</td>
+					<td width="70%" valign="top">&nbsp;25 
+					&nbsp;&nbsp;TRANSFER OF REAL ESTATE ONLY; WITH WILL 
+					</td>
+				</tr>
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Case Status
+					<td width="70%" valign="top">&nbsp;OPEN&nbsp;&nbsp;11-12-2026&nbsp; </td>
+				</tr>
+
+				
+
+				<tr><td>&nbsp;</td></tr>
+				<tr>
+					<td width="30%" valign="top">&nbsp;Appointment date</td>
+					<td width="70%" valign="top">&nbsp;&nbsp </td>
+				</tr>
+
+
+					
+
+				 <tr>
+					<td width="30%" valign="top">&nbsp;Attorney</td>
+					<td width="70%" align="left" valign="top">&nbsp;TREHERNE, JASON E.&nbsp - &nbsp;937-836-3296</td>
+				</tr>
+
+				
+
+
+				<tr>
+					<td width="30%" valign="top">&nbsp;Fiduciary</td>&nbsp;
+					</td>
+
+					<td width="70%" valign="top">&nbsp;O'NEAL, SHERRI J.&nbsp;<br>
+					&nbsp;7783 CILANTRO WAY,  CLAYTON, OH 45315&nbsp;</td>
+				</tr>
+
+				
+
+				<TR>
+
+					<td width="30%" valign="top">&nbsp;Co-Fiduciary <br>
+					</td>
+
+    				<td  width="70%">
+					
+	 				</td>
+				</tr>
+
+				<tr>
+					<td width="30%" >&nbsp;Related Cases <br>
+					</td>
+ 					<td width="70%" valign="top">
+					
+	 				</td>
+				</tr>
+				<tr><td>&nbsp;</td></tr>
+
+
+
+		
+		<tr>
+		<td width="30%" valign="top">&nbsp;Balance<br>
+		</td>
+ 		<td width="70%" valign="top">
+		     0.00&nbsp;&nbsp;&nbsp;
+	 	</td>
+		</tr>
+		
+		</table>
+
+		</td>
+		</tr>
+		</table>
+
+		
+<TABLE WIDTH="50%" align="center" CELLPADDING=0 CELLSPACING=0 BORDER=0 bordercolor="black">
+		<tr><td>&nbsp;</td></tr>
+ 		<tr>
+    	<td bgcolor="B51028" align="center">
+				Magistrate Name:&nbsp;&nbsp;  HEATHER SHANNON
+	    </td>
+		</tr>
+		<tr><td>&nbsp;</td></tr>
+		</table>
+	
+
+
+
+</td>
+</TR>
+
+
+
+</table>
+
+
+
+
+  
+ 
+</div>
+</div>
+</div>
+
+<!-- Footer -->
+
+
+
+<div class="footer">
+  <p>&copy; Copyright  2026. Montgomery County, Ohio</p>
+</div>
+
+
+</body>
+</html>
