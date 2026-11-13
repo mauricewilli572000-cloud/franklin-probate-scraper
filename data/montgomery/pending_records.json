@@ -1,5 +1,1738 @@
 [
  {
+  "case_key": "2026EST02108",
+  "case_number": "2026EST02108",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "NEWMAN, JUDITH",
+  "decedent_last": "Newman",
+  "decedent_first": "Judith",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "NEWMAN, SCOTT CARL",
+   "street": "3028 ADDISON CARLISLE ROAD",
+   "city": "NEW CARLISLE",
+   "state": "OH",
+   "zip": "45344",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "NEWMAN, SCOTT CARL",
+    "street": "3028 ADDISON CARLISLE ROAD",
+    "city": "NEW CARLISLE",
+    "state": "OH",
+    "zip": "45344",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "MARTIN, LAURA J",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-993-0991"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03001657445F0105796474716779150A037F756F7E707E",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03001657445F0105796474716779150A037F756F7E707E",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02107",
+  "case_number": "2026EST02107",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "DIXON, ALICE",
+  "decedent_last": "Dixon",
+  "decedent_first": "Alice",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "DIXON, ZACKARY B",
+   "street": "30 WHEREAWAY LANE",
+   "city": "WELLFLEET",
+   "state": "MA",
+   "zip": "02667",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "DIXON, ZACKARY B",
+    "street": "30 WHEREAWAY LANE",
+    "city": "WELLFLEET",
+    "state": "MA",
+    "zip": "02667",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "DEMAREST, GWENEVIER N",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-310-1515"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03011657445F0105727D797B76140208777868777D",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03011657445F0105727D797B76140208777868777D",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "executor out of state"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02103",
+  "case_number": "2026EST02103",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "SAMUEL COOK, III",
+  "decedent_last": "Samuel Cook",
+  "decedent_first": "",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-02-27",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "COOK, LA'NINAH",
+   "street": "4301 GARDENDALE AVENUE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45417",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "COOK, LA'NINAH",
+    "street": "4301 GARDENDALE AVENUE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45417",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "REX, AUSTIN M",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "614-890-4543"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "",
+   "entry_count": 0
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A051657445F010560707D6D767D150A03727F777814027B160300717A78",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A051657445F010560707D6D767D150A03727F777814027B160300717A78",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02101",
+  "case_number": "2026EST02101",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "MOORE, JUATINA",
+  "decedent_last": "Moore",
+  "decedent_first": "Juatina",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "TRANSFER OF REAL ESTATE ONLY; WITH WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2019-08-04",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BONNER, JOSE",
+   "street": "4201 FREE PIKE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45416",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BONNER, JOSE",
+    "street": "4201 FREE PIKE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45416",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 1
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B021657445F01057964716C7A7F711D01017D777C6375",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B021657445F01057964716C7A7F711D01017D777C6375",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 20,
+  "score_reasons": [
+   "real-estate-only estate",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02099",
+  "case_number": "2026EST02099",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "WOODS, STEPHANIE",
+  "decedent_last": "Woods",
+  "decedent_first": "Stephanie",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-09-25",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "LATTIMER, CODY",
+   "street": "2181 E. WHIPP ROAD",
+   "city": "#C, DAYTON",
+   "state": "OH",
+   "zip": "45440",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "LATTIMER, CODY",
+    "street": "2181 E. WHIPP ROAD",
+    "city": "#C, DAYTON",
+    "state": "OH",
+    "zip": "45440",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "MUELLER, CAROLYN L",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-426-9600"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "",
+   "entry_count": 0
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B001657445F0105606575687B707E7176140208647E7F7C60",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B001657445F0105606575687B707E7176140208647E7F7C60",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02097",
+  "case_number": "2026EST02097",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "JOHNSON, RONALD",
+  "decedent_last": "Johnson",
+  "decedent_first": "Ronald",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "JOHNSON, HOWARD",
+   "street": "9618 SW 150TH RUN",
+   "city": "LAKE BUTLER",
+   "state": "FL",
+   "zip": "32054",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "JOHNSON, HOWARD",
+    "street": "9618 SW 150TH RUN",
+    "city": "LAKE BUTLER",
+    "state": "FL",
+    "zip": "32054",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "ELLIS, JAMES C",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-226-1200"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04091657445F0105617E7E797F75150A037B7F707D627F76",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04091657445F0105617E7E797F75150A037B7F707D627F76",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "executor out of state"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02096",
+  "case_number": "2026EST02096",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "PHILLIPS, EDITH",
+  "decedent_last": "Phillips",
+  "decedent_first": "Edith",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "WOOLLS, ANNA M",
+   "street": "3354 FLINTWOOD DRIVE",
+   "city": "COLUMBUS",
+   "state": "IN",
+   "zip": "47203",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "WOOLLS, ANNA M",
+    "street": "3354 FLINTWOOD DRIVE",
+    "city": "COLUMBUS",
+    "state": "IN",
+    "zip": "47203",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "STAMPS, DANA A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-898-9440"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04061657445F01057675796C7B140208637979747F78606B",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04061657445F01057675796C7B140208637979747F78606B",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "executor out of state"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02095",
+  "case_number": "2026EST02095",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "BOLTON, CHRISTOPHER",
+  "decedent_last": "Bolton",
+  "decedent_first": "Christopher",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BOLTON, MARIENNE",
+   "street": "1300 WILLOW FORGE CT",
+   "city": "LEBANON",
+   "state": "OH",
+   "zip": "45036",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BOLTON, MARIENNE",
+    "street": "1300 WILLOW FORGE CT",
+    "city": "LEBANON",
+    "state": "OH",
+    "zip": "45036",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "VOLLMAR, MICHELLE S",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-223-8171"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04041657445F01057079627160657F687B74621D010172777F657F76",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04041657445F01057079627160657F687B74621D010172777F657F76",
+  "last_checked": "2026-11-13T20:46:30",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02106",
+  "case_number": "2026EST02106",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "TURNEY, PAUL",
+  "decedent_last": "Turney",
+  "decedent_first": "Paul",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "DEPOSIT-ESTATES",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-12",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "PHILLIPS, W CORY",
+   "street": "31105 BAINBRIDGE RD",
+   "city": "STE 4 CLEVELAND",
+   "state": "OH",
+   "zip": "44139",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "PHILLIPS, W CORY",
+    "street": "31105 BAINBRIDGE RD",
+    "city": "STE 4 CLEVELAND",
+    "state": "OH",
+    "zip": "44139",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "PHILLIPS, W CORY",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "216-682-2116"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 2
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A081657445F0105637065741603006C66637E7D6A",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A081657445F0105637065741603006C66637E7D6A",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02093",
+  "case_number": "2026EST02093",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "HEDGLON, EMILY",
+  "decedent_last": "Hedglon",
+  "decedent_first": "Emily",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-12",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "GOULD, KAREN T",
+   "street": "350 HARMON BLVD.",
+   "city": "OAKWOOD",
+   "state": "OH",
+   "zip": "45419",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "GOULD, KAREN T",
+    "street": "350 HARMON BLVD.",
+    "city": "OAKWOOD",
+    "state": "OH",
+    "zip": "45419",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "WATSON, BRITTANY K",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-985-0059"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-12",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05081657445F0105767C79746A1402087B74747F7F7E7E",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05081657445F0105767C79746A1402087B74747F7F7E7E",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02092",
+  "case_number": "2026EST02092",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "BAKER, SHARON",
+  "decedent_last": "Baker",
+  "decedent_first": "Sharon",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-12",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BAKER, JERRY",
+   "street": "6133 S. IDDINGS ROAD",
+   "city": "WEST MILTON",
+   "state": "OH",
+   "zip": "45383",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BAKER, JERRY",
+    "street": "6133 S. IDDINGS ROAD",
+    "city": "WEST MILTON",
+    "state": "OH",
+    "zip": "45383",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "COATE, BRANDON A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-698-4357"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-12",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05021657445F01056079716A7C7F150A037371737663",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05021657445F01056079716A7C7F150A037371737663",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02088",
+  "case_number": "2026EST02088",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "TACKETT, WILLIAM",
+  "decedent_last": "Tackett",
+  "decedent_first": "William",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "TRANSFER OF REAL ESTATE ONLY; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-12",
+  "closed_date": "",
+  "date_of_death": "2011-09-01",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BANKS, ONNIE L",
+   "street": "5853 CRAFTMORE DRIVE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45424",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BANKS, ONNIE L",
+    "street": "5853 CRAFTMORE DRIVE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45424",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 3
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A00071657445F010564787C747A707D1D01016479707A756C67",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A00071657445F010564787C747A707D1D01016479707A756C67",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 30,
+  "score_reasons": [
+   "real-estate-only estate",
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02052",
+  "case_number": "2026EST02052",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "DAVIS, JAMES",
+  "decedent_last": "Davis",
+  "decedent_first": "James",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "OTHER",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-12",
+  "closed_date": "",
+  "date_of_death": "2026-05-27",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "HELSINGER, KRISTEN D",
+   "street": "4370 TIPP ELIZABETH ROAD",
+   "city": "TIPP CITY",
+   "state": "OH",
+   "zip": "43371",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "HELSINGER, KRISTEN D",
+    "street": "4370 TIPP ELIZABETH ROAD",
+    "city": "TIPP CITY",
+    "state": "OH",
+    "zip": "43371",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "REICHARD, NATALIE A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-507-9004"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 2
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803081657445F010579707D7D601402087770667160",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803081657445F010579707D7D601402087770667160",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02083",
+  "case_number": "2026EST02083",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "WEAVER, PHILIP",
+  "decedent_last": "Weaver",
+  "decedent_first": "Philip",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-10",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "SHERRETS, CARL D",
+   "street": "580 LINCOLN PARK BLVD.",
+   "city": "SUITE 399 KETTERING",
+   "state": "OH",
+   "zip": "45429",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "SHERRETS, CARL D",
+    "street": "580 LINCOLN PARK BLVD.",
+    "city": "SUITE 399 KETTERING",
+    "state": "OH",
+    "zip": "45429",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "SHERRETS, CARL D",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-299-9607"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03081657445F0105637979747A61150A03667579657462",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03081657445F0105637979747A61150A03667579657462",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02082",
+  "case_number": "2026EST02082",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "SPITLER, ROBERT",
+  "decedent_last": "Spitler",
+  "decedent_first": "Robert",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-10",
+  "closed_date": "",
+  "date_of_death": "2026-09-23",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "SPITLER, FREDERICK A",
+   "street": "3591 BIG BEAR FARMS LOOP",
+   "city": "POWELL",
+   "state": "OH",
+   "zip": "43065",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "SPITLER, FREDERICK A",
+    "street": "3591 BIG BEAR FARMS LOOP",
+    "city": "POWELL",
+    "state": "OH",
+    "zip": "43065",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "TREHERNE, JAMES E",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-836-3296"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 2
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03091657445F0105617E727D6165150A03626071677D756A",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03091657445F0105617E727D6165150A03626071677D756A",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02081",
+  "case_number": "2026EST02081",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "DEADY, ROGER",
+  "decedent_last": "Deady",
+  "decedent_first": "Roger",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "SUMMARY RELEASE",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-10",
+  "closed_date": "",
+  "date_of_death": "2026-06-10",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "DEADY, MICHELLE",
+   "street": "267 CHEVY LANE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45458",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "DEADY, MICHELLE",
+    "street": "267 CHEVY LANE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45458",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 1
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03061657445F0105617E777D611402087774717C6A",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03061657445F0105617E777D611402087774717C6A",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 5,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02079",
+  "case_number": "2026EST02079",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "SNAVELY, IRENE",
+  "decedent_last": "Snavely",
+  "decedent_first": "Irene",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-10",
+  "closed_date": "",
+  "date_of_death": "2026-07-23",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "THOMAS, BRYAN",
+   "street": "33 N. 3RD STREET",
+   "city": "SUITE 300 COLUMBUS",
+   "state": "OH",
+   "zip": "43215",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "THOMAS, BRYAN",
+    "street": "33 N. 3RD STREET",
+    "city": "SUITE 300 COLUMBUS",
+    "state": "OH",
+    "zip": "43215",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "THOMAS, BRYAN",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "614-593-6398"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "",
+   "entry_count": 0
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400090A091657445F01057A63757676140208607F716E767D69",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400090A091657445F01057A63757676140208607F716E767D69",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02078",
+  "case_number": "2026EST02078",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "MASON, RUTH",
+  "decedent_last": "Mason",
+  "decedent_first": "Ruth",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-09",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "SCHUBACH, RITA",
+   "street": "925 GREENWAY COURT",
+   "city": "MIAMISBURG",
+   "state": "OH",
+   "zip": "45342",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "SCHUBACH, RITA",
+    "street": "925 GREENWAY COURT",
+    "city": "MIAMISBURG",
+    "state": "OH",
+    "zip": "45342",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "HELTER, JULIE",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-449-6451"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 5
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905081657445F0105616464701603007572627F76",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905081657445F0105616464701603007572627F76",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02077",
+  "case_number": "2026EST02077",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "SPEARS, OLLIE",
+  "decedent_last": "Spears",
+  "decedent_first": "Ollie",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "SUMMARY RELEASE; WILL FOR RECORD ONLY",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-09",
+  "closed_date": "",
+  "date_of_death": "2026-09-21",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "SMITH, CRAIG A",
+   "street": "14 MASTERS DRIVE",
+   "city": "STAFFORD",
+   "state": "VA",
+   "zip": "22554",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "SMITH, CRAIG A",
+    "street": "14 MASTERS DRIVE",
+    "city": "STAFFORD",
+    "state": "VA",
+    "zip": "22554",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-09",
+   "entry_count": 1
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905071657445F01057C7D7C7176140208606175796162",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905071657445F01057C7D7C7176140208606175796162",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 20,
+  "score_reasons": [
+   "executor out of state"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02076",
+  "case_number": "2026EST02076",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "BUNN, TIMOTHY",
+  "decedent_last": "Bunn",
+  "decedent_first": "Timothy",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-09",
+  "closed_date": "",
+  "date_of_death": "2025-12-05",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BUNN, SHERRI",
+   "street": "7545 S COUNTY RD 25A",
+   "city": "TIPP CITY",
+   "state": "OH",
+   "zip": "45371",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BUNN, SHERRI",
+    "street": "7545 S COUNTY RD 25A",
+    "city": "TIPP CITY",
+    "state": "OH",
+    "zip": "45371",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "STIRLAND, DANIEL A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-667-4481"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-09",
+   "entry_count": 2
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905051657445F010567787D776779691D0101726D7D7F",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905051657445F010567787D776779691D0101726D7D7F",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02075",
+  "case_number": "2026EST02075",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "ANDREWS, MIRIAM",
+  "decedent_last": "Andrews",
+  "decedent_first": "Miriam",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-09",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "ANDREWS, JUSTINE L",
+   "street": "5260 WHEATON STREET",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45429",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "ANDREWS, JUSTINE L",
+    "street": "5260 WHEATON STREET",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45429",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "BOUCHER, RICHARD A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-223-0122"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-09",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905001657445F01057E786271727C150A03707E7C6174676B",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905001657445F01057E786271727C150A03707E7C6174676B",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02073",
+  "case_number": "2026EST02073",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "RAINEY, PAMELA",
+  "decedent_last": "Rainey",
+  "decedent_first": "Pamela",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-09",
+  "closed_date": "",
+  "date_of_death": "2026-03-27",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "HUMPHREY, CAMILLE",
+   "street": "1171 REDBLUFF DR",
+   "city": "APT C DAYTON",
+   "state": "OH",
+   "zip": "45449",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "HUMPHREY, CAMILLE",
+    "street": "1171 REDBLUFF DR",
+    "city": "APT C DAYTON",
+    "state": "OH",
+    "zip": "45449",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-09",
+   "entry_count": 1
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000906061657445F010563707D7D7F70150A036371717D7469",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000906061657445F010563707D7D7F70150A036371717D7469",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 5,
+  "score_reasons": [
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02066",
+  "case_number": "2026EST02066",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "THOMPSON, CHARLES",
+  "decedent_last": "Thompson",
+  "decedent_first": "Charles",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "RELEASE OF ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-06",
+  "closed_date": "",
+  "date_of_death": "2026-09-01",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "CLOUD, PIPER",
+   "street": "2220 EAST HIGH STREET",
+   "city": "SPRINGFIELD",
+   "state": "OH",
+   "zip": "45505",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "CLOUD, PIPER",
+    "street": "2220 EAST HIGH STREET",
+    "city": "SPRINGFIELD",
+    "state": "OH",
+    "zip": "45505",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-06",
+   "entry_count": 3
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A081657445F01057079716A7F74631D010164707C7C606B7C7F",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A081657445F01057079716A7F74631D010164707C7C606B7C7F",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02065",
+  "case_number": "2026EST02065",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "BOY, JACOB",
+  "decedent_last": "Boy",
+  "decedent_first": "Jacob",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-06",
+  "closed_date": "",
+  "date_of_death": "2026-07-13",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "MCINTOSH, JESSICA N",
+   "street": "141 WOLF CREEK CT",
+   "city": "CARLISLE",
+   "state": "OH",
+   "zip": "45005",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "MCINTOSH, JESSICA N",
+    "street": "141 WOLF CREEK CT",
+    "city": "CARLISLE",
+    "state": "OH",
+    "zip": "45005",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "STONE, SCOT ALAN",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-436-0033"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 8
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A091657445F01057970737771140208717E69",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A091657445F01057970737771140208717E69",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02064",
+  "case_number": "2026EST02064",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "DAVIS, JAMES",
+  "decedent_last": "Davis",
+  "decedent_first": "James",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-06",
+  "closed_date": "",
+  "date_of_death": "2026-05-27",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "HELSINGER, KRISTEN D",
+   "street": "4370 TIPP ELIZABETH ROAD",
+   "city": "TIPP CITY",
+   "state": "OH",
+   "zip": "45371",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "HELSINGER, KRISTEN D",
+    "street": "4370 TIPP ELIZABETH ROAD",
+    "city": "TIPP CITY",
+    "state": "OH",
+    "zip": "45371",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "REICHARD, NATALIE A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-507-9004"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-06",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080B061657445F010579707D7D601402087770667160",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080B061657445F010579707D7D601402087770667160",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
   "case_key": "2026EST01952",
   "case_number": "2026EST01952",
   "suffix": "",
@@ -58,7 +1791,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E01011657445F01057E78711D0101676A7A76786C",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E01011657445F01057E78711D0101676A7A76786C",
-  "last_checked": "2026-11-12T21:22:50",
+  "last_checked": "2026-11-13T20:48:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -68,7 +1801,773 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02061",
+  "case_number": "2026EST02061",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "PETERSEN, JANE",
+  "decedent_last": "Petersen",
+  "decedent_first": "Jane",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "SUMMARY RELEASE; WILL FOR RECORD ONLY",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-05",
+  "closed_date": "",
+  "date_of_death": "2025-05-18",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "PETERSEN, STUART",
+   "street": "1215 RIDGEVIEW AVE",
+   "city": "KETTERING",
+   "state": "OH",
+   "zip": "45409",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "PETERSEN, STUART",
+    "street": "1215 RIDGEVIEW AVE",
+    "city": "KETTERING",
+    "state": "OH",
+    "zip": "45409",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "WATTS, ANN CHARLES",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "877-425-4633"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-05",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000806051657445F010579707E7D160300687665756A60747E",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000806051657445F010579707E7D160300687665756A60747E",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02058",
+  "case_number": "2026EST02058",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "MOTES, ROBERT",
+  "decedent_last": "Motes",
+  "decedent_first": "Robert",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-05",
+  "closed_date": "",
+  "date_of_death": "2024-12-06",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "NEARING, CIARA",
+   "street": "204 CHARLIE DRIVE",
+   "city": "ENGLEWOOD",
+   "state": "OH",
+   "zip": "45315",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "NEARING, CIARA",
+    "street": "204 CHARLIE DRIVE",
+    "city": "ENGLEWOOD",
+    "state": "OH",
+    "zip": "45315",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-05",
+   "entry_count": 3
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000800081657445F0105617E727D6165150A037C7F6C7662",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000800081657445F0105617E727D6165150A037C7F6C7662",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02056",
+  "case_number": "2026EST02056",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "MIRACLE, DEBORAH",
+  "decedent_last": "Miracle",
+  "decedent_first": "Deborah",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-05",
+  "closed_date": "",
+  "date_of_death": "2026-05-10",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "CHAMBERLAIN, JARED",
+   "street": "210 W. MAIN STREET",
+   "city": "TROY",
+   "state": "OH",
+   "zip": "45373",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "CHAMBERLAIN, JARED",
+    "street": "210 W. MAIN STREET",
+    "city": "TROY",
+    "state": "OH",
+    "zip": "45373",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CHAMBERLAIN, JARED B",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-631-0387"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-05",
+   "entry_count": 10
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000802071657445F0105777472776170781D01017D716170737476",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000802071657445F0105777472776170781D01017D716170737476",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02062",
+  "case_number": "2026EST02062",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "TAYLOR, BAILEY",
+  "decedent_last": "Taylor",
+  "decedent_first": "Bailey",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "OTHER",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "2026-09-27",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BUHRMAN, DEBORAH A",
+   "street": "2755 FERNCLIFF AVE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45420",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BUHRMAN, DEBORAH A",
+    "street": "2755 FERNCLIFF AVE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45420",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "KENDO, THOMAS W",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-221-9819"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-10",
+   "entry_count": 8
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000804041657445F0105717079747668150A036571617F7E62",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000804041657445F0105717079747668150A036571617F7E62",
+  "last_checked": "2026-11-13T20:48:16",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02050",
+  "case_number": "2026EST02050",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "KELLER, RICHARD",
+  "decedent_last": "Keller",
+  "decedent_first": "Richard",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "MCNUTT, MINDY S",
+   "street": "4458 ROYAL RIDGE WAY",
+   "city": "KETTERING",
+   "state": "OH",
+   "zip": "45429",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "MCNUTT, MINDY S",
+    "street": "4458 ROYAL RIDGE WAY",
+    "city": "KETTERING",
+    "state": "OH",
+    "zip": "45429",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CONWAY, W MICHAEL",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-294-8807"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-04",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803071657445F0105617873707263741D01017B7D7F7D756A",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803071657445F0105617873707263741D01017B7D7F7D756A",
+  "last_checked": "2026-11-13T20:48:16",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02049",
+  "case_number": "2026EST02049",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "JONES, PATRICIA",
+  "decedent_last": "Jones",
+  "decedent_first": "Patricia",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "2025-11-20",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "HUCKE, KELLIE",
+   "street": "803 DONALD AVE",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45420",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "HUCKE, KELLIE",
+    "street": "803 DONALD AVE",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45420",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "ENGLISH, LOGAN",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "859-578-9130"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "",
+   "entry_count": 0
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803031657445F01056370646A7A727979160300727C7F756B",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803031657445F01056370646A7A727979160300727C7F756B",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02048",
+  "case_number": "2026EST02048",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "CARTER, THOMAS",
+  "decedent_last": "Carter",
+  "decedent_first": "Thomas",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "WEBSTER, VICKIE ANN",
+   "street": "67 PEACH GROVE AVENUE",
+   "city": "CENTERVILLE",
+   "state": "OH",
+   "zip": "45458",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "WEBSTER, VICKIE ANN",
+    "street": "67 PEACH GROVE AVENUE",
+    "city": "CENTERVILLE",
+    "state": "OH",
+    "zip": "45458",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "TRACY, BRIDGET A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-859-3628"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-04",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803011657445F010567797F757262150A0372716A677462",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803011657445F010567797F757262150A0372716A677462",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02047",
+  "case_number": "2026EST02047",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "WHEELER, KENNETH",
+  "decedent_last": "Wheeler",
+  "decedent_first": "Kenneth",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "WHEELER, BRIAN T",
+   "street": "504 LAMBERT LANE",
+   "city": "ENGLEWOOD",
+   "state": "OH",
+   "zip": "45322",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "WHEELER, BRIAN T",
+    "street": "504 LAMBERT LANE",
+    "city": "ENGLEWOOD",
+    "state": "OH",
+    "zip": "45322",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "HOUSE, WILLIAM H",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-667-8805"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-04",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A081657445F010578747E767665781D0101677076747C7D61",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A081657445F010578747E767665781D0101677076747C7D61",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02045",
+  "case_number": "2026EST02045",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "RICE, ROBERT",
+  "decedent_last": "Rice",
+  "decedent_first": "Robert",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "2026-04-09",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "RICE, NANCY D",
+   "street": "98 TREASURY DRIVE",
+   "city": "APARTMENT A DAYTON",
+   "state": "OH",
+   "zip": "",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "RICE, NANCY D",
+    "street": "98 TREASURY DRIVE",
+    "city": "APARTMENT A DAYTON",
+    "state": "OH",
+    "zip": "",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "",
+   "entry_count": 0
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A061657445F0105617E727D6165150A0363797B76",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A061657445F0105617E727D6165150A0363797B76",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02042",
+  "case_number": "2026EST02042",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "HERATH, JERRY",
+  "decedent_last": "Herath",
+  "decedent_first": "Jerry",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "RELEASE OF ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "2026-09-20",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "COTTERMAN, KASANDRA",
+   "street": "105 S. MAIN ST",
+   "city": "GERMANTOWN",
+   "state": "OH",
+   "zip": "45327",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "COTTERMAN, KASANDRA",
+    "street": "105 S. MAIN ST",
+    "city": "GERMANTOWN",
+    "state": "OH",
+    "zip": "45327",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-04",
+   "entry_count": 1
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B031657445F01057974626A6A1402087B7462796779",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B031657445F01057974626A6A1402087B7462796779",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02041",
+  "case_number": "2026EST02041",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "PARKER, MARY",
+  "decedent_last": "Parker",
+  "decedent_first": "Mary",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN; W/O WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-04",
+  "closed_date": "",
+  "date_of_death": "2026-02-02",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "HALL, TEARAH D",
+   "street": "916 PORTER AVENUE #02",
+   "city": "DAYTON",
+   "state": "OH",
+   "zip": "45402",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "HALL, TEARAH D",
+    "street": "916 PORTER AVENUE #02",
+    "city": "DAYTON",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "CASES, 'S",
+   "street": "Case Name Civil & Miscellaneous Estate Guardianship Marriage License Mental Health Trusts Montgomery County",
+   "city": "OHIO: THE BIRTHPLACE OF INNOVATION VIEW DOCKET",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-04",
+   "entry_count": 3
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B001657445F01057E7062611603006872637B7D61",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B001657445F01057E7062611603006872637B7D61",
+  "last_checked": "2026-11-13T20:48:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01995",
@@ -129,7 +2628,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04081657445F01057974636B7A72711D0101776A76747E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04081657445F01057974636B7A72711D0101776A76747E",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -138,7 +2637,143 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02039",
+  "case_number": "2026EST02039",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "WOEHL, CAROLYN",
+  "decedent_last": "Woehl",
+  "decedent_first": "Carolyn",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "FULL ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-03",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "WOEHL, GREGORY NELSON",
+   "street": "1238 HARTLEY DRIVE",
+   "city": "FAIRBORN",
+   "state": "OH",
+   "zip": "45324",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "WOEHL, GREGORY NELSON",
+    "street": "1238 HARTLEY DRIVE",
+    "city": "FAIRBORN",
+    "state": "OH",
+    "zip": "45324",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "BOUCHER, RICHARD A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-223-0122"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-03",
+   "entry_count": 4
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090105071657445F0105707062777F687E1D0101677776797C",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090105071657445F0105707062777F687E1D0101677776797C",
+  "last_checked": "2026-11-13T20:48:16",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST02035",
+  "case_number": "2026EST02035",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "montgomery",
+  "case_name": "BRENNAN, JULIE",
+  "decedent_last": "Brennan",
+  "decedent_first": "Julie",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "RELEASE OF ADMIN;PROBATE WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-03",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "BAKER, THERESA AQ",
+   "street": "120 W. SECOND ST",
+   "city": "#714 DAYTON",
+   "state": "OH",
+   "zip": "45402",
+   "phone": "",
+   "title": "FIDUCIARY"
+  },
+  "fiduciaries": [
+   {
+    "name": "BAKER, THERESA AQ",
+    "street": "120 W. SECOND ST",
+    "city": "#714 DAYTON",
+    "state": "OH",
+    "zip": "45402",
+    "phone": "",
+    "role": "FIDUCIARY"
+   }
+  ],
+  "attorney": {
+   "name": "BAKER, THERESA A",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": "937-226-1990"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-03",
+   "entry_count": 3
+  },
+  "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090101021657445F010579647C7176140208716375767D707E",
+  "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090101021657445F010579647C7176140208716375767D707E",
+  "last_checked": "2026-11-13T20:48:16",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02019",
@@ -199,7 +2834,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007071657445F01056374647D61140208787E656B607E657C7978",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007071657445F01056374647D61140208787E656B607E657C7978",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -208,7 +2843,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02018",
@@ -269,14 +2904,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007041657445F01057163657B76140208707975767C66756C7B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007041657445F01057163657B76140208707975767C66756C7B",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02015",
@@ -337,7 +2972,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007031657445F0105607975747F74691D0101627D7A72787D7F75756A757462",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007031657445F0105607975747F74691D0101627D7A72787D7F75756A757462",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -346,7 +2981,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02020",
@@ -407,7 +3042,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007061657445F010576637E7D6065150A036273797F74631D0172150A036262",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007061657445F010576637E7D6065150A036273797F74631D0172150A036262",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -418,7 +3053,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02016",
@@ -479,7 +3114,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007021657445F01057E78737072747C1D010178797F7D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007021657445F01057E78737072747C1D010178797F7D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -489,7 +3124,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02014",
@@ -550,7 +3185,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090000081657445F0105717E727A6A140208767D746A7A75777D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090000081657445F0105717E727A6A140208767D746A7A75777D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -560,7 +3195,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02009",
@@ -621,7 +3256,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003061657445F010567797577777E627D1603006B7B7062681603731D0101636A160375",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003061657445F010567797577777E627D1603006B7B7062681603731D0101636A160375",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -630,7 +3265,7 @@
   "score_reasons": [
    "real-estate-only estate"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02008",
@@ -691,7 +3326,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003071657445F0105777E7E797F75150A0373796C677E627E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003071657445F0105777E7E797F75150A0373796C677E627E",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -701,7 +3336,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02005",
@@ -762,14 +3397,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003011657445F01057E7E78797E7C717C16030072727F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003011657445F01057E7E78797E7C717C16030072727F",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02004",
@@ -830,14 +3465,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A041657445F0105756371767814020875787F6A7A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A041657445F0105756371767814020875787F6A7A",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02002",
@@ -898,7 +3533,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A031657445F0105617E727D6165150A0377627D767C7176",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A031657445F0105617E727D6165150A0377627D767C7176",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -908,7 +3543,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02001",
@@ -969,14 +3604,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A001657445F010570637171741402087B7E67796175",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A001657445F010570637171741402087B7E67796175",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST02000",
@@ -1037,14 +3672,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A011657445F01057170627A7263711D01017D717F7D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A011657445F01057170627A7263711D01017D717F7D756A",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01993",
@@ -1105,7 +3740,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04031657445F01057B74716C7B74621D0101766D7F7D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04031657445F01057B74716C7B74621D0101766D7F7D756A",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1115,7 +3750,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01992",
@@ -1176,7 +3811,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04011657445F01057E70627F7263756C160300727C7F756B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04011657445F01057E70627F7263756C160300727C7F756B",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1185,7 +3820,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01991",
@@ -1246,14 +3881,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05091657445F01057B74626B7B747C1D010178796777797D7F75",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05091657445F01057B74626B7B747C1D010178796777797D7F75",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01990",
@@ -1314,7 +3949,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05061657445F0105777E657F7F70631D01016370766362716765",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05061657445F0105777E657F7F70631D01016370766362716765",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1323,7 +3958,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01989",
@@ -1384,14 +4019,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05071657445F010564787C7A66637E1D01017174707E62761603731D01017A6A160375",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05071657445F010564787C7A66637E1D01017174707E62761603731D01017A6A160375",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01988",
@@ -1452,7 +4087,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05041657445F010570706274160300737D78777067",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05041657445F010570706274160300737D78777067",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1461,7 +4096,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01987",
@@ -1522,14 +4157,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05051657445F0105777066717714020864787C6B7C7F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05051657445F0105777066717714020864787C6B7C7F",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01986",
@@ -1590,7 +4225,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05011657445F0105707064707663797676140208757D69767D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05011657445F0105707064707663797676140208757D69767D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1599,7 +4234,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01985",
@@ -1669,14 +4304,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06081657445F0105707062777F687E1D01016375727D7C6F7C7E74",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06081657445F0105707062777F687E1D01016375727D7C6F7C7E74",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01984",
@@ -1737,7 +4372,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06041657445F0105607471761603007570757F76727D74",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06041657445F0105607471761603007570757F76727D74",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1746,7 +4381,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01983",
@@ -1807,7 +4442,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06051657445F0105756371767078631D010173777B747E6B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06051657445F0105756371767078631D010173777B747E6B",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1817,7 +4452,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01981",
@@ -1878,14 +4513,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06001657445F010577707C7D1603007A7269647D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06001657445F010577707C7D1603007A7269647D61",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01934",
@@ -1946,7 +4581,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03091657445F0105716379797D1402087578626B67747E7A7663777D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03091657445F0105716379797D1402087578626B67747E7A7663777D61",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1956,7 +4591,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01978",
@@ -2017,7 +4652,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00081657445F0105617873737668150A0373756B7B74716A60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00081657445F0105617873737668150A0373756B7B74716A60",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2026,7 +4661,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01976",
@@ -2087,7 +4722,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00011657445F010560707E7C6170150A03757F777F7469",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00011657445F010560707E7C6170150A03757F777F7469",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2096,7 +4731,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01975",
@@ -2157,7 +4792,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F01081657445F01056074627963797976721402087E7E7F6A76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F01081657445F01056074627963797976721402087E7E7F6A76",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2167,7 +4802,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01935",
@@ -2228,7 +4863,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03081657445F010574747F6A7474150A03757F6D74797D797D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03081657445F010574747F6A7474150A03757F6D74797D797D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2239,7 +4874,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01969",
@@ -2300,7 +4935,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E0A081657445F01057E78737072747C1D010163717E7C7F7660",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E0A081657445F01057E78737072747C1D010163717E7C7F7660",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2310,7 +4945,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01966",
@@ -2371,7 +5006,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04071657445F010564787C747A707D1D010160797074",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04071657445F010564787C747A707D1D010160797074",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2380,7 +5015,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01965",
@@ -2441,7 +5076,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04051657445F01057170627A7263711D0101767D617575747E707E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04051657445F01057170627A7263711D0101767D617575747E707E",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2450,7 +5085,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01962",
@@ -2511,7 +5146,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05021657445F0105716379797D1402087C66757660",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05021657445F0105716379797D1402087C66757660",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2521,7 +5156,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01964",
@@ -2582,7 +5217,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05071657445F010574747E7D6578756E76140208787E626C76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05071657445F010574747E7D6578756E76140208787E626C76",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2591,7 +5226,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01963",
@@ -2652,7 +5287,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05041657445F010561707E7C727D7C1D0101647D727F7561",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05041657445F010561707E7C727D7C1D0101647D727F7561",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2663,7 +5298,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01951",
@@ -2724,7 +5359,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02081657445F0105617873707263741D0101756E727F63",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02081657445F0105617873707263741D0101756E727F63",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2734,7 +5369,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01956",
@@ -2795,14 +5430,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E00021657445F01057174646C6A1402087E727B717D7F796B60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E00021657445F01057174646C6A1402087E727B717D7F796B60",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01950",
@@ -2863,7 +5498,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02091657445F01057174646C6A1402087E727B717D7F796B60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02091657445F01057174646C6A1402087E727B717D7F796B60",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2872,7 +5507,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01946",
@@ -2933,7 +5568,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D0A071657445F01057974626A6A140208707D716A78",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D0A071657445F01057974626A6A140208707D716A78",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2942,7 +5577,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01943",
@@ -3003,7 +5638,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D04061657445F01057974636B761402086463797F7B65150A701402087A7879",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D04061657445F01057974636B761402086463797F7B65150A701402087A7879",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3012,7 +5647,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01939",
@@ -3073,7 +5708,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D00041657445F01057974767E6174691D01017677647D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D00041657445F01057974767E6174691D01017677647D756A",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3083,7 +5718,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01937",
@@ -3144,14 +5779,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D02001657445F01057E78737072747C1D010162717079727D6176150A701402086063150A76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D02001657445F01057E78737072747C1D010162717079727D6176150A701402086063150A76",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01930",
@@ -3212,7 +5847,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B071657445F01056774717472140208727F747D61627F76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B071657445F01056774717472140208727F747D61627F76",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3222,7 +5857,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01933",
@@ -3283,7 +5918,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03051657445F0105777066717714020861787373766364",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03051657445F0105777066717714020861787373766364",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3292,7 +5927,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01929",
@@ -3353,7 +5988,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B011657445F010560727F6C67140208607C796C7B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B011657445F010560727F6C67140208607C796C7B",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3362,7 +5997,7 @@
   "score_reasons": [
    "motion to sell real estate filed"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01927",
@@ -3423,7 +6058,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05081657445F0105617873707263741D010166777474",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05081657445F0105617873707263741D010166777474",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3433,7 +6068,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01926",
@@ -3494,7 +6129,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05061657445F01057B706275727F63707278150A0361716C767D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05061657445F01057B706275727F63707278150A0361716C767D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3503,7 +6138,7 @@
   "score_reasons": [
    "real-estate-only estate"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01925",
@@ -3564,14 +6199,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05071657445F01057174646C6A1402087463757D7D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05071657445F01057174646C6A1402087463757D7D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01923",
@@ -3632,14 +6267,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05051657445F0105707062777F1402086064647076637C797D75",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05051657445F0105707062777F1402086064647076637C797D75",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01928",
@@ -3700,7 +6335,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C04091657445F0105777E7E1D01017D7B7479757D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C04091657445F0105777E7E1D01017D7B7479757D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3709,7 +6344,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01920",
@@ -3770,14 +6405,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07091657445F01057874796C7B14020870636562",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07091657445F01057874796C7B14020870636562",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01918",
@@ -3838,14 +6473,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07071657445F01057470626A6A1402087B74716A77",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07071657445F01057470626A6A1402087B74716A77",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01917",
@@ -3906,14 +6541,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07041657445F01057870627D7D14020870747A7372",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07041657445F01057870627D7D14020870747A7372",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01913",
@@ -3974,14 +6609,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C00031657445F0105797E7876160300797D75756A607E7E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C00031657445F0105797E7876160300797D75756A607E7E",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01912",
@@ -4051,7 +6686,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C01091657445F01057D707E7B6A14020878746276",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C01091657445F01057D707E7B6A14020878746276",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4060,7 +6695,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01915",
@@ -4121,14 +6756,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07021657445F01057174667D617D691D010169776065",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07021657445F01057174667D617D691D010169776065",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01909",
@@ -4189,7 +6824,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C02001657445F010579787D756A14020867797F757262",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C02001657445F010579787D756A14020867797F757262",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4200,7 +6835,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01908",
@@ -4261,7 +6896,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A061657445F010579647E717C63150A0375716E7A7563777D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A061657445F010579647E717C63150A0375716E7A7563777D",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4270,7 +6905,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01907",
@@ -4331,7 +6966,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A071657445F0105767567796175150A03796271676B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A071657445F0105767567796175150A03796271676B",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4340,7 +6975,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01904",
@@ -4401,7 +7036,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05021657445F01057E78737072747C1D010162796A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05021657445F01057E78737072747C1D010162796A",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4410,7 +7045,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01903",
@@ -4471,7 +7106,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05031657445F01057E70627176140208797E7876607E7E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05031657445F01057E70627176140208797E7876607E7E",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4481,7 +7116,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST01900",
@@ -4542,7 +7177,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B06071657445F0105796471761603007C6670626C76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B06071657445F0105796471761603007C6670626C76",
-  "last_checked": "2026-11-12T21:23:09",
+  "last_checked": "2026-11-13T20:48:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4551,6 +7186,6 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  }
 ]
