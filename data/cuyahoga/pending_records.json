@@ -1,5 +1,206 @@
 [
  {
+  "case_key": "2026EST311341",
+  "case_number": "2026EST311341",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "POSTELNICU, BOGDAN ADRIAN",
+  "decedent_last": "Postelnicu",
+  "decedent_first": "Bogdan",
+  "decedent_middle": "Adrian",
+  "aka": "",
+  "subtype": "ESTATE FULL ADM. NO WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-05-10",
+  "decedent_street": "6899 PEARL ROAD",
+  "decedent_city": "MIDDLEBURG HEIGHTS",
+  "decedent_state": "OH",
+  "decedent_zip": "44130",
+  "fiduciary": {
+   "name": "BUMB, BOGDAN",
+   "title": "APPLICANT",
+   "street": "4030 WEST 144TH STREET",
+   "city": "CLEVELAND",
+   "state": "OH",
+   "zip": "44135",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "BOGDAN BUMB",
+    "dod": "",
+    "street": "4030 WEST 144TH STREET",
+    "city": "CLEVELAND",
+    "state": "OH",
+    "zip": "44135"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 5
+  },
+  "q": "Ftqvl2A-EdUEPUFtyw4omg",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Ftqvl2A-EdUEPUFtyw4omg",
+  "last_checked": "2026-11-13T20:09:06",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST311329",
+  "case_number": "2026EST311329",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "TODORICH, DEBORAH",
+  "decedent_last": "Todorich",
+  "decedent_first": "Deborah",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "ESTATE FULL ADM. NO WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-03-22",
+  "decedent_street": "2015 WAYNOKA ROAD",
+  "decedent_city": "EUCLID",
+  "decedent_state": "OH",
+  "decedent_zip": "44117",
+  "fiduciary": {
+   "name": "BAZZARELLI, ROBERT",
+   "title": "APPLICANT",
+   "street": "1901 FAIRWAY DRIVE",
+   "city": "WICKLIFFE",
+   "state": "OH",
+   "zip": "44092",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "ROBERT BAZZARELLI",
+    "dod": "",
+    "street": "1901 FAIRWAY DRIVE",
+    "city": "WICKLIFFE",
+    "state": "OH",
+    "zip": "44092"
+   },
+   {
+    "role": "APPLICANT",
+    "name": "ROBERT BAZZARELLI",
+    "dod": "",
+    "street": "1901 FAIRWAY DRIVE",
+    "city": "WICKLIFFE",
+    "state": "OH",
+    "zip": "44092"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 4
+  },
+  "q": "GzVhWMp8QjeyYF2OEdhsVQ",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=GzVhWMp8QjeyYF2OEdhsVQ",
+  "last_checked": "2026-11-13T20:08:15",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 22,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "executor lives away from property",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026EST311318",
+  "case_number": "2026EST311318",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "GARBER, PENELOPE Y",
+  "decedent_last": "Garber",
+  "decedent_first": "Penelope",
+  "decedent_middle": "Y",
+  "aka": "",
+  "subtype": "RELEASE NO WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-07-25",
+  "decedent_street": "345 HAMLET HILLS DR. APT. 109",
+  "decedent_city": "CHAGRIN FALLS",
+  "decedent_state": "OH",
+  "decedent_zip": "44022",
+  "fiduciary": {
+   "name": "ROGERS, KRISTIN E",
+   "title": "APPLICANT",
+   "street": "14810 HILLBROOK EAST LANE",
+   "city": "NOVELTY",
+   "state": "OH",
+   "zip": "44072",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "KRISTIN E. ROGERS",
+    "dod": "",
+    "street": "14810 HILLBROOK EAST LANE",
+    "city": "NOVELTY",
+    "state": "OH",
+    "zip": "44072"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 8
+  },
+  "q": "1NBC1i8hGXpe9sF-Qg4AQA",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=1NBC1i8hGXpe9sF-Qg4AQA",
+  "last_checked": "2026-11-13T20:07:41",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
   "case_key": "2026EST311295",
   "case_number": "2026EST311295",
   "suffix": "",
@@ -51,14 +252,14 @@
   },
   "q": "ejLAqu48ESuZihHWpg986w",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ejLAqu48ESuZihHWpg986w",
-  "last_checked": "2026-11-12T20:32:32",
+  "last_checked": "2026-11-13T20:09:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311271",
@@ -112,7 +313,7 @@
   },
   "q": "yhoMQj0h49-YUq6nY_ib9A",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=yhoMQj0h49-YUq6nY_ib9A",
-  "last_checked": "2026-11-12T20:31:37",
+  "last_checked": "2026-11-13T20:09:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -122,7 +323,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311265",
@@ -176,7 +377,7 @@
   },
   "q": "786ae73FiLDqwaoKczLlsQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=786ae73FiLDqwaoKczLlsQ",
-  "last_checked": "2026-11-12T20:31:22",
+  "last_checked": "2026-11-13T20:09:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -185,7 +386,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311236",
@@ -239,7 +440,7 @@
   },
   "q": "9SLgE-ma0Ik_yCS7goOu5w",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=9SLgE-ma0Ik_yCS7goOu5w",
-  "last_checked": "2026-11-12T20:32:57",
+  "last_checked": "2026-11-13T20:09:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -249,7 +450,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311210",
@@ -303,7 +504,7 @@
   },
   "q": "dWkClD9RhQZdsRmjzJzGEg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=dWkClD9RhQZdsRmjzJzGEg",
-  "last_checked": "2026-11-12T20:33:02",
+  "last_checked": "2026-11-13T20:09:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -313,7 +514,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311205",
@@ -376,7 +577,7 @@
   },
   "q": "FuaXhV_wZGBBc0xOpgCsAQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=FuaXhV_wZGBBc0xOpgCsAQ",
-  "last_checked": "2026-11-12T20:33:06",
+  "last_checked": "2026-11-13T20:09:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -386,7 +587,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311195",
@@ -440,7 +641,7 @@
   },
   "q": "vCOPspliz1uZuMnla4Qksw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=vCOPspliz1uZuMnla4Qksw",
-  "last_checked": "2026-11-12T20:33:10",
+  "last_checked": "2026-11-13T20:09:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -449,7 +650,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311177",
@@ -503,14 +704,14 @@
   },
   "q": "aAUT9TvTAWwNBlvd0SGVWA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=aAUT9TvTAWwNBlvd0SGVWA",
-  "last_checked": "2026-11-12T20:33:14",
+  "last_checked": "2026-11-13T20:09:47",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311164",
@@ -564,14 +765,14 @@
   },
   "q": "GHmSc1-y8EOEf9z86a8C6Q",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=GHmSc1-y8EOEf9z86a8C6Q",
-  "last_checked": "2026-11-12T20:33:19",
+  "last_checked": "2026-11-13T20:09:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311124",
@@ -625,14 +826,14 @@
   },
   "q": "Gm1ZqBJHQtr9YSGpBAHuZw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Gm1ZqBJHQtr9YSGpBAHuZw",
-  "last_checked": "2026-11-12T20:33:22",
+  "last_checked": "2026-11-13T20:09:54",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311123",
@@ -686,7 +887,7 @@
   },
   "q": "m1_rl4pMMn1mlJ50ooMbZg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=m1_rl4pMMn1mlJ50ooMbZg",
-  "last_checked": "2026-11-12T20:33:26",
+  "last_checked": "2026-11-13T20:09:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -695,7 +896,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311115",
@@ -749,14 +950,14 @@
   },
   "q": "sDSc83B-f7abcZPJmleJcw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=sDSc83B-f7abcZPJmleJcw",
-  "last_checked": "2026-11-12T20:33:30",
+  "last_checked": "2026-11-13T20:10:02",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311114",
@@ -810,7 +1011,7 @@
   },
   "q": "Wv37h11uzVNQS2EPest6mw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Wv37h11uzVNQS2EPest6mw",
-  "last_checked": "2026-11-12T20:33:34",
+  "last_checked": "2026-11-13T20:10:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -819,7 +1020,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311101",
@@ -873,7 +1074,7 @@
   },
   "q": "EMSppchH_wf9stuLmCkmkQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=EMSppchH_wf9stuLmCkmkQ",
-  "last_checked": "2026-11-12T20:33:38",
+  "last_checked": "2026-11-13T20:10:11",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -883,7 +1084,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311073",
@@ -937,7 +1138,7 @@
   },
   "q": "Kfn9yY_h9YTrm8OOqPCOfA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Kfn9yY_h9YTrm8OOqPCOfA",
-  "last_checked": "2026-11-12T20:33:42",
+  "last_checked": "2026-11-13T20:10:14",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -946,7 +1147,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311054",
@@ -1000,7 +1201,7 @@
   },
   "q": "8mZmPhLKW14LIXDHhlynfw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=8mZmPhLKW14LIXDHhlynfw",
-  "last_checked": "2026-11-12T20:33:45",
+  "last_checked": "2026-11-13T20:10:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1009,7 +1210,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST311014",
@@ -1063,7 +1264,7 @@
   },
   "q": "dNHO-__TrAKN6cIwXpKPXw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=dNHO-__TrAKN6cIwXpKPXw",
-  "last_checked": "2026-11-12T20:33:50",
+  "last_checked": "2026-11-13T20:10:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1072,7 +1273,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310997",
@@ -1126,7 +1327,7 @@
   },
   "q": "dRKWTW8kr5hhRpqlsvX_JA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=dRKWTW8kr5hhRpqlsvX_JA",
-  "last_checked": "2026-11-12T20:33:54",
+  "last_checked": "2026-11-13T20:10:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1136,7 +1337,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310996",
@@ -1190,7 +1391,7 @@
   },
   "q": "-5EN1uJvzESX33i6gWEgrw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=-5EN1uJvzESX33i6gWEgrw",
-  "last_checked": "2026-11-12T20:33:59",
+  "last_checked": "2026-11-13T20:10:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1200,7 +1401,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310982",
@@ -1254,7 +1455,7 @@
   },
   "q": "rMMviODRdKQZzS3naqf0XA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=rMMviODRdKQZzS3naqf0XA",
-  "last_checked": "2026-11-12T20:34:02",
+  "last_checked": "2026-11-13T20:10:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1264,7 +1465,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310980",
@@ -1318,7 +1519,7 @@
   },
   "q": "-qyPVudddpf-1CE5szCZ8g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=-qyPVudddpf-1CE5szCZ8g",
-  "last_checked": "2026-11-12T20:34:07",
+  "last_checked": "2026-11-13T20:10:40",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1327,7 +1528,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310966",
@@ -1381,7 +1582,7 @@
   },
   "q": "OIiQk1KVtZ6NqwWfhn-qPQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=OIiQk1KVtZ6NqwWfhn-qPQ",
-  "last_checked": "2026-11-12T20:34:11",
+  "last_checked": "2026-11-13T20:10:44",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1391,7 +1592,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310944",
@@ -1445,7 +1646,7 @@
   },
   "q": "FnN2de_vpKLrv_Q0vJHOYg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=FnN2de_vpKLrv_Q0vJHOYg",
-  "last_checked": "2026-11-12T20:34:15",
+  "last_checked": "2026-11-13T20:10:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1454,7 +1655,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310936",
@@ -1508,7 +1709,7 @@
   },
   "q": "mjIU0zKTSuxnpxiufGuQdg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=mjIU0zKTSuxnpxiufGuQdg",
-  "last_checked": "2026-11-12T20:34:19",
+  "last_checked": "2026-11-13T20:10:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1518,7 +1719,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310920",
@@ -1572,7 +1773,7 @@
   },
   "q": "hS9KPvCHGeSq5qkh7y16JA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=hS9KPvCHGeSq5qkh7y16JA",
-  "last_checked": "2026-11-12T20:34:24",
+  "last_checked": "2026-11-13T20:10:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1581,7 +1782,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310917",
@@ -1635,7 +1836,7 @@
   },
   "q": "hxoEqZjLaRRIJQry8pVXgg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=hxoEqZjLaRRIJQry8pVXgg",
-  "last_checked": "2026-11-12T20:34:28",
+  "last_checked": "2026-11-13T20:11:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1645,7 +1846,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310892",
@@ -1708,7 +1909,7 @@
   },
   "q": "c0Mg_JrWp0zExOJTL6IC8g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=c0Mg_JrWp0zExOJTL6IC8g",
-  "last_checked": "2026-11-12T20:34:32",
+  "last_checked": "2026-11-13T20:11:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1717,7 +1918,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310873",
@@ -1771,7 +1972,7 @@
   },
   "q": "4oaRU3oG6B5LMqqHE4y9nw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=4oaRU3oG6B5LMqqHE4y9nw",
-  "last_checked": "2026-11-12T20:34:35",
+  "last_checked": "2026-11-13T20:11:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1782,7 +1983,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310858",
@@ -1836,14 +2037,14 @@
   },
   "q": "mFS8v4mwVfmnRsMgRMpJ4g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=mFS8v4mwVfmnRsMgRMpJ4g",
-  "last_checked": "2026-11-12T20:34:40",
+  "last_checked": "2026-11-13T20:11:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310856",
@@ -1897,7 +2098,7 @@
   },
   "q": "rL74CXzSQrmjmO3DUBkmLQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=rL74CXzSQrmjmO3DUBkmLQ",
-  "last_checked": "2026-11-12T20:34:44",
+  "last_checked": "2026-11-13T20:11:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1907,7 +2108,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310853",
@@ -1961,7 +2162,7 @@
   },
   "q": "JxGXLuhHua3w5UyyqDIdgg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=JxGXLuhHua3w5UyyqDIdgg",
-  "last_checked": "2026-11-12T20:34:48",
+  "last_checked": "2026-11-13T20:11:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1970,7 +2171,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310834",
@@ -2024,7 +2225,7 @@
   },
   "q": "9QqPu_sa3t6VeBytGZUCHA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=9QqPu_sa3t6VeBytGZUCHA",
-  "last_checked": "2026-11-12T20:34:53",
+  "last_checked": "2026-11-13T20:11:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2033,7 +2234,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310801",
@@ -2087,7 +2288,7 @@
   },
   "q": "G926_1nSTG7CuMqp-cz1Xw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=G926_1nSTG7CuMqp-cz1Xw",
-  "last_checked": "2026-11-12T20:34:58",
+  "last_checked": "2026-11-13T20:11:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2097,7 +2298,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310800",
@@ -2151,7 +2352,7 @@
   },
   "q": "C_6e3TiMVHl1NZE1z0af-Q",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=C_6e3TiMVHl1NZE1z0af-Q",
-  "last_checked": "2026-11-12T20:35:02",
+  "last_checked": "2026-11-13T20:11:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2161,7 +2362,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310798",
@@ -2215,7 +2416,7 @@
   },
   "q": "--HzTQ-ujDVsunaX4-PDsQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=--HzTQ-ujDVsunaX4-PDsQ",
-  "last_checked": "2026-11-12T20:35:06",
+  "last_checked": "2026-11-13T20:11:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2224,7 +2425,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310793",
@@ -2278,7 +2479,7 @@
   },
   "q": "NLi4imvegI16Uv-FDpfiAA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=NLi4imvegI16Uv-FDpfiAA",
-  "last_checked": "2026-11-12T20:35:10",
+  "last_checked": "2026-11-13T20:11:43",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2288,7 +2489,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310788",
@@ -2342,7 +2543,7 @@
   },
   "q": "LlyoxeifKCjktWCxQCnTIw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=LlyoxeifKCjktWCxQCnTIw",
-  "last_checked": "2026-11-12T20:35:14",
+  "last_checked": "2026-11-13T20:11:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2352,7 +2553,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310785",
@@ -2406,7 +2607,7 @@
   },
   "q": "smVYZVCdd_8sTkdPOREOTQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=smVYZVCdd_8sTkdPOREOTQ",
-  "last_checked": "2026-11-12T20:35:18",
+  "last_checked": "2026-11-13T20:11:52",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2416,7 +2617,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310712",
@@ -2470,7 +2671,7 @@
   },
   "q": "DxTAdW_ZjFuaHahlGeRIdA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=DxTAdW_ZjFuaHahlGeRIdA",
-  "last_checked": "2026-11-12T20:35:22",
+  "last_checked": "2026-11-13T20:11:56",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2479,7 +2680,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310704",
@@ -2533,7 +2734,7 @@
   },
   "q": "aoqWxvTEVy0jiRyOzEN79w",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=aoqWxvTEVy0jiRyOzEN79w",
-  "last_checked": "2026-11-12T20:35:27",
+  "last_checked": "2026-11-13T20:12:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2543,7 +2744,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310673",
@@ -2597,7 +2798,7 @@
   },
   "q": "aHW7AqAPP4Y6XcAyp3PskA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=aHW7AqAPP4Y6XcAyp3PskA",
-  "last_checked": "2026-11-12T20:35:30",
+  "last_checked": "2026-11-13T20:12:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2606,7 +2807,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310670",
@@ -2660,7 +2861,7 @@
   },
   "q": "TacZ77lGZwSSJG0OyozwYg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=TacZ77lGZwSSJG0OyozwYg",
-  "last_checked": "2026-11-12T20:35:35",
+  "last_checked": "2026-11-13T20:12:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2669,7 +2870,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310650",
@@ -2723,7 +2924,7 @@
   },
   "q": "G9SfRGBW33GY7CDF3SNLQA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=G9SfRGBW33GY7CDF3SNLQA",
-  "last_checked": "2026-11-12T20:35:38",
+  "last_checked": "2026-11-13T20:12:11",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2733,7 +2934,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310644",
@@ -2796,7 +2997,7 @@
   },
   "q": "COtn5H17Hsstkz_RroJCtQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=COtn5H17Hsstkz_RroJCtQ",
-  "last_checked": "2026-11-12T20:35:41",
+  "last_checked": "2026-11-13T20:12:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2805,7 +3006,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310641",
@@ -2859,7 +3060,7 @@
   },
   "q": "1xq5Am97LMSIiMNyAPoEnQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=1xq5Am97LMSIiMNyAPoEnQ",
-  "last_checked": "2026-11-12T20:35:45",
+  "last_checked": "2026-11-13T20:12:19",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2869,7 +3070,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310640",
@@ -2923,7 +3124,7 @@
   },
   "q": "xWwHPWbOALD4I3RuudqRCQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=xWwHPWbOALD4I3RuudqRCQ",
-  "last_checked": "2026-11-12T20:35:49",
+  "last_checked": "2026-11-13T20:12:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2933,7 +3134,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310623",
@@ -2987,7 +3188,7 @@
   },
   "q": "i-qA15nSMDBFvVCLaWKyiw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=i-qA15nSMDBFvVCLaWKyiw",
-  "last_checked": "2026-11-12T20:35:53",
+  "last_checked": "2026-11-13T20:12:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2997,7 +3198,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310615",
@@ -3051,7 +3252,7 @@
   },
   "q": "MwpKQwSTJgMdLK2coFYO_Q",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=MwpKQwSTJgMdLK2coFYO_Q",
-  "last_checked": "2026-11-12T20:35:57",
+  "last_checked": "2026-11-13T20:12:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3061,7 +3262,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310596",
@@ -3115,7 +3316,7 @@
   },
   "q": "xrAWkJ_xOBAEWGEEBEaAGA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=xrAWkJ_xOBAEWGEEBEaAGA",
-  "last_checked": "2026-11-12T20:36:02",
+  "last_checked": "2026-11-13T20:12:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3124,7 +3325,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310595",
@@ -3178,7 +3379,7 @@
   },
   "q": "_2OsY2YQBZ0f9k21vz3ncg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=_2OsY2YQBZ0f9k21vz3ncg",
-  "last_checked": "2026-11-12T20:36:07",
+  "last_checked": "2026-11-13T20:12:40",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3188,7 +3389,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310558",
@@ -3242,7 +3443,7 @@
   },
   "q": "llliLk6lgdBooL8GZbMlRw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=llliLk6lgdBooL8GZbMlRw",
-  "last_checked": "2026-11-12T20:36:10",
+  "last_checked": "2026-11-13T20:12:44",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3251,7 +3452,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310557",
@@ -3305,7 +3506,7 @@
   },
   "q": "n_wQ3jj6u5xiS0nu2lvktw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=n_wQ3jj6u5xiS0nu2lvktw",
-  "last_checked": "2026-11-12T20:36:14",
+  "last_checked": "2026-11-13T20:12:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3314,7 +3515,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310549",
@@ -3368,7 +3569,7 @@
   },
   "q": "YkKb0tAZ99eIF4occj7Cxw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=YkKb0tAZ99eIF4occj7Cxw",
-  "last_checked": "2026-11-12T20:36:17",
+  "last_checked": "2026-11-13T20:12:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3377,7 +3578,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310546",
@@ -3431,7 +3632,7 @@
   },
   "q": "VQY8Bhu5og4te4wlWESJeg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=VQY8Bhu5og4te4wlWESJeg",
-  "last_checked": "2026-11-12T20:36:21",
+  "last_checked": "2026-11-13T20:12:56",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3441,7 +3642,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310531",
@@ -3495,7 +3696,7 @@
   },
   "q": "ApegkVRRaRjc7yAllRN4IA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ApegkVRRaRjc7yAllRN4IA",
-  "last_checked": "2026-11-12T20:36:26",
+  "last_checked": "2026-11-13T20:13:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3504,7 +3705,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310498",
@@ -3558,7 +3759,7 @@
   },
   "q": "dc2eKkkcPqs-0pMAwDJ-9g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=dc2eKkkcPqs-0pMAwDJ-9g",
-  "last_checked": "2026-11-12T20:36:30",
+  "last_checked": "2026-11-13T20:13:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3568,7 +3769,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310486",
@@ -3622,7 +3823,7 @@
   },
   "q": "CLYPuzsWb_dxdjkmTFfVUg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=CLYPuzsWb_dxdjkmTFfVUg",
-  "last_checked": "2026-11-12T20:36:35",
+  "last_checked": "2026-11-13T20:13:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3631,7 +3832,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310475",
@@ -3685,7 +3886,7 @@
   },
   "q": "qsLijPrFvQiDiqwLto6liQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=qsLijPrFvQiDiqwLto6liQ",
-  "last_checked": "2026-11-12T20:36:38",
+  "last_checked": "2026-11-13T20:13:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3696,7 +3897,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310460",
@@ -3750,14 +3951,14 @@
   },
   "q": "AKntBxxfD4EyvT_qY-g1bQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=AKntBxxfD4EyvT_qY-g1bQ",
-  "last_checked": "2026-11-12T20:36:43",
+  "last_checked": "2026-11-13T20:13:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310432",
@@ -3811,7 +4012,7 @@
   },
   "q": "MAHekJFF24C94DNQ7ANQAw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=MAHekJFF24C94DNQ7ANQAw",
-  "last_checked": "2026-11-12T20:36:47",
+  "last_checked": "2026-11-13T20:13:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3821,7 +4022,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310430",
@@ -3875,14 +4076,14 @@
   },
   "q": "NUhDrIU8gVATnk2q12CoEQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=NUhDrIU8gVATnk2q12CoEQ",
-  "last_checked": "2026-11-12T20:36:51",
+  "last_checked": "2026-11-13T20:13:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310424",
@@ -3936,7 +4137,7 @@
   },
   "q": "4waYMetdkk8S4cgsOxmTlg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=4waYMetdkk8S4cgsOxmTlg",
-  "last_checked": "2026-11-12T20:36:55",
+  "last_checked": "2026-11-13T20:13:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3945,7 +4146,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310401",
@@ -3999,14 +4200,14 @@
   },
   "q": "4gMtRZoUtK3B1NEjO1NgYA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=4gMtRZoUtK3B1NEjO1NgYA",
-  "last_checked": "2026-11-12T20:36:59",
+  "last_checked": "2026-11-13T20:13:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310399",
@@ -4060,7 +4261,7 @@
   },
   "q": "Uek4YRzQsThfSoDlfF_OIw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Uek4YRzQsThfSoDlfF_OIw",
-  "last_checked": "2026-11-12T20:37:03",
+  "last_checked": "2026-11-13T20:13:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4069,7 +4270,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310393",
@@ -4141,7 +4342,7 @@
   },
   "q": "sbS3zLfzYpqmkpVAaCFWww",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=sbS3zLfzYpqmkpVAaCFWww",
-  "last_checked": "2026-11-12T20:37:07",
+  "last_checked": "2026-11-13T20:13:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4151,7 +4352,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310392",
@@ -4214,7 +4415,7 @@
   },
   "q": "bN6yYiBVskP7NcTLOxhq5Q",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=bN6yYiBVskP7NcTLOxhq5Q",
-  "last_checked": "2026-11-12T20:37:11",
+  "last_checked": "2026-11-13T20:13:46",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4223,7 +4424,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310388",
@@ -4286,7 +4487,7 @@
   },
   "q": "W0QAPD7J7mPcgBs_11H_Pw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=W0QAPD7J7mPcgBs_11H_Pw",
-  "last_checked": "2026-11-12T20:37:15",
+  "last_checked": "2026-11-13T20:13:50",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4295,7 +4496,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310365",
@@ -4349,7 +4550,7 @@
   },
   "q": "UHdS4NG00MNphY-uiDOd2Q",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=UHdS4NG00MNphY-uiDOd2Q",
-  "last_checked": "2026-11-12T20:37:20",
+  "last_checked": "2026-11-13T20:13:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4358,7 +4559,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310356",
@@ -4412,7 +4613,7 @@
   },
   "q": "xjPJq0LsPqOJ6JDhyb2bOg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=xjPJq0LsPqOJ6JDhyb2bOg",
-  "last_checked": "2026-11-12T20:37:24",
+  "last_checked": "2026-11-13T20:13:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4421,7 +4622,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310339",
@@ -4475,7 +4676,7 @@
   },
   "q": "MHT5wylazxlq9-tYxBaaGA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=MHT5wylazxlq9-tYxBaaGA",
-  "last_checked": "2026-11-12T20:37:28",
+  "last_checked": "2026-11-13T20:14:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4485,7 +4686,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310320",
@@ -4548,7 +4749,7 @@
   },
   "q": "sRf6tEMKXacvbMhQdDWFFQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=sRf6tEMKXacvbMhQdDWFFQ",
-  "last_checked": "2026-11-12T20:37:31",
+  "last_checked": "2026-11-13T20:14:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4558,7 +4759,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310299",
@@ -4612,7 +4813,7 @@
   },
   "q": "OQ70HMmmjMu6XggEZ6L2Lw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=OQ70HMmmjMu6XggEZ6L2Lw",
-  "last_checked": "2026-11-12T20:37:34",
+  "last_checked": "2026-11-13T20:14:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4621,7 +4822,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310298",
@@ -4675,7 +4876,7 @@
   },
   "q": "xNxKx6obizP7uqxVvHgjyw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=xNxKx6obizP7uqxVvHgjyw",
-  "last_checked": "2026-11-12T20:37:38",
+  "last_checked": "2026-11-13T20:14:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4684,7 +4885,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310278",
@@ -4738,7 +4939,7 @@
   },
   "q": "j57reB3Umk17uKt64l6oAg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=j57reB3Umk17uKt64l6oAg",
-  "last_checked": "2026-11-12T20:37:42",
+  "last_checked": "2026-11-13T20:14:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4747,7 +4948,7 @@
   "score_reasons": [
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310267",
@@ -4801,7 +5002,7 @@
   },
   "q": "vzLOV_wTygUxe1V707an3g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=vzLOV_wTygUxe1V707an3g",
-  "last_checked": "2026-11-12T20:37:46",
+  "last_checked": "2026-11-13T20:14:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4810,7 +5011,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310250",
@@ -4864,7 +5065,7 @@
   },
   "q": "ZE46AI_AfLn4b9xchu0ekQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ZE46AI_AfLn4b9xchu0ekQ",
-  "last_checked": "2026-11-12T20:37:50",
+  "last_checked": "2026-11-13T20:14:25",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4873,7 +5074,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310230",
@@ -4927,7 +5128,7 @@
   },
   "q": "ibZegOG2EikG59Rub3pmPQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ibZegOG2EikG59Rub3pmPQ",
-  "last_checked": "2026-11-12T20:37:53",
+  "last_checked": "2026-11-13T20:14:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4937,7 +5138,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310222",
@@ -4991,7 +5192,7 @@
   },
   "q": "rCCni6JAZ7vkmw_K9PAEmA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=rCCni6JAZ7vkmw_K9PAEmA",
-  "last_checked": "2026-11-12T20:37:57",
+  "last_checked": "2026-11-13T20:14:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5000,7 +5201,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310220",
@@ -5054,7 +5255,7 @@
   },
   "q": "k73AeN-yO_uOFo1flGfhuQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=k73AeN-yO_uOFo1flGfhuQ",
-  "last_checked": "2026-11-12T20:38:01",
+  "last_checked": "2026-11-13T20:14:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5064,7 +5265,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310205",
@@ -5118,7 +5319,7 @@
   },
   "q": "a4YcJZ8ML0YMOVfS7u2UNA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=a4YcJZ8ML0YMOVfS7u2UNA",
-  "last_checked": "2026-11-12T20:38:05",
+  "last_checked": "2026-11-13T20:14:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5128,7 +5329,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310201",
@@ -5182,7 +5383,7 @@
   },
   "q": "R1Up4Xi3ErbNZZaxJvfFKQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=R1Up4Xi3ErbNZZaxJvfFKQ",
-  "last_checked": "2026-11-12T20:38:09",
+  "last_checked": "2026-11-13T20:14:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5192,7 +5393,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310196",
@@ -5246,7 +5447,7 @@
   },
   "q": "gMAIx0sFVrv1-0KGS_mJoA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=gMAIx0sFVrv1-0KGS_mJoA",
-  "last_checked": "2026-11-12T20:38:14",
+  "last_checked": "2026-11-13T20:14:50",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5255,7 +5456,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310193",
@@ -5309,7 +5510,7 @@
   },
   "q": "X-8jUgjcWKj3BLwdV0sIlg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=X-8jUgjcWKj3BLwdV0sIlg",
-  "last_checked": "2026-11-12T20:38:19",
+  "last_checked": "2026-11-13T20:14:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5319,7 +5520,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310173",
@@ -5373,7 +5574,7 @@
   },
   "q": "JFBCiSOUpk51gaMrXwIRMg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=JFBCiSOUpk51gaMrXwIRMg",
-  "last_checked": "2026-11-12T20:38:23",
+  "last_checked": "2026-11-13T20:14:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5383,7 +5584,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310153",
@@ -5437,7 +5638,7 @@
   },
   "q": "YhRRME6u0eYtLKQ8tr_iYA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=YhRRME6u0eYtLKQ8tr_iYA",
-  "last_checked": "2026-11-12T20:38:27",
+  "last_checked": "2026-11-13T20:15:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5447,7 +5648,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310149",
@@ -5501,7 +5702,7 @@
   },
   "q": "ehNhaYGdqpwvV248UaF9Xw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ehNhaYGdqpwvV248UaF9Xw",
-  "last_checked": "2026-11-12T20:38:32",
+  "last_checked": "2026-11-13T20:15:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5511,7 +5712,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310125",
@@ -5565,7 +5766,7 @@
   },
   "q": "sI6NhiFZpb-orXqonEfkmg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=sI6NhiFZpb-orXqonEfkmg",
-  "last_checked": "2026-11-12T20:38:36",
+  "last_checked": "2026-11-13T20:15:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5574,7 +5775,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310124",
@@ -5628,7 +5829,7 @@
   },
   "q": "ktnrW0dNqdxP1QC3mYn9ag",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ktnrW0dNqdxP1QC3mYn9ag",
-  "last_checked": "2026-11-12T20:38:39",
+  "last_checked": "2026-11-13T20:15:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5638,7 +5839,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310119",
@@ -5692,7 +5893,7 @@
   },
   "q": "OqYVFhnXyO7Du6G_lK9tFw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=OqYVFhnXyO7Du6G_lK9tFw",
-  "last_checked": "2026-11-12T20:38:44",
+  "last_checked": "2026-11-13T20:15:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5702,7 +5903,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310114",
@@ -5756,14 +5957,14 @@
   },
   "q": "MfE7uuFYvCNQF6FiW49qKQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=MfE7uuFYvCNQF6FiW49qKQ",
-  "last_checked": "2026-11-12T20:38:48",
+  "last_checked": "2026-11-13T20:15:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310096",
@@ -5817,7 +6018,7 @@
   },
   "q": "2BFXNX-IQJYaPrAXu7M6Bw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=2BFXNX-IQJYaPrAXu7M6Bw",
-  "last_checked": "2026-11-12T20:38:52",
+  "last_checked": "2026-11-13T20:15:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5827,7 +6028,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310086",
@@ -5881,14 +6082,14 @@
   },
   "q": "ad_7FwT2c0FsV227vaA8LQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=ad_7FwT2c0FsV227vaA8LQ",
-  "last_checked": "2026-11-12T20:38:57",
+  "last_checked": "2026-11-13T20:15:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310073",
@@ -5942,7 +6143,7 @@
   },
   "q": "-LIjdsV_VySNwKez4P_UNg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=-LIjdsV_VySNwKez4P_UNg",
-  "last_checked": "2026-11-12T20:39:01",
+  "last_checked": "2026-11-13T20:15:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5951,7 +6152,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310071",
@@ -6005,7 +6206,7 @@
   },
   "q": "O_jYa0IMt1i0M_ioFofmOw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=O_jYa0IMt1i0M_ioFofmOw",
-  "last_checked": "2026-11-12T20:39:06",
+  "last_checked": "2026-11-13T20:15:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6015,7 +6216,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310055",
@@ -6069,7 +6270,7 @@
   },
   "q": "Hu6Dixw0lOcT7P7CA9g4Gg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Hu6Dixw0lOcT7P7CA9g4Gg",
-  "last_checked": "2026-11-12T20:39:10",
+  "last_checked": "2026-11-13T20:15:47",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6078,7 +6279,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310040",
@@ -6132,7 +6333,7 @@
   },
   "q": "QiMX7hoV8tRqUl0F6h5SPg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=QiMX7hoV8tRqUl0F6h5SPg",
-  "last_checked": "2026-11-12T20:39:14",
+  "last_checked": "2026-11-13T20:15:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6141,7 +6342,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310035",
@@ -6195,7 +6396,7 @@
   },
   "q": "G1IT7N5Q4mpic3En_My2Gw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=G1IT7N5Q4mpic3En_My2Gw",
-  "last_checked": "2026-11-12T20:39:18",
+  "last_checked": "2026-11-13T20:15:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6204,7 +6405,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310027",
@@ -6258,7 +6459,7 @@
   },
   "q": "rSBSLEdkFsP3H8sz0lvb9w",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=rSBSLEdkFsP3H8sz0lvb9w",
-  "last_checked": "2026-11-12T20:39:22",
+  "last_checked": "2026-11-13T20:15:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6268,7 +6469,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310017",
@@ -6322,7 +6523,7 @@
   },
   "q": "VndMh0Mg4rCS3SQ9a6ye3g",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=VndMh0Mg4rCS3SQ9a6ye3g",
-  "last_checked": "2026-11-12T20:39:27",
+  "last_checked": "2026-11-13T20:16:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6331,7 +6532,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST310004",
@@ -6385,7 +6586,7 @@
   },
   "q": "32GJNQtISgN7PFxxLxv8uA",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=32GJNQtISgN7PFxxLxv8uA",
-  "last_checked": "2026-11-12T20:39:31",
+  "last_checked": "2026-11-13T20:16:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6395,7 +6596,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309996",
@@ -6458,7 +6659,7 @@
   },
   "q": "oJLaly_iBAxC8yQUEd28mQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=oJLaly_iBAxC8yQUEd28mQ",
-  "last_checked": "2026-11-12T20:39:36",
+  "last_checked": "2026-11-13T20:16:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6468,7 +6669,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309988",
@@ -6522,7 +6723,7 @@
   },
   "q": "N05tdES_2ayAq5RlHUqoGg",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=N05tdES_2ayAq5RlHUqoGg",
-  "last_checked": "2026-11-12T20:39:40",
+  "last_checked": "2026-11-13T20:16:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6533,7 +6734,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309943",
@@ -6587,7 +6788,7 @@
   },
   "q": "q1YoxsezRiod-vsJ6tBgkQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=q1YoxsezRiod-vsJ6tBgkQ",
-  "last_checked": "2026-11-12T20:39:44",
+  "last_checked": "2026-11-13T20:16:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6597,7 +6798,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309927",
@@ -6651,7 +6852,7 @@
   },
   "q": "Ps2_L_M4WtI8XEPYWemjag",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=Ps2_L_M4WtI8XEPYWemjag",
-  "last_checked": "2026-11-12T20:39:49",
+  "last_checked": "2026-11-13T20:16:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6660,7 +6861,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309899",
@@ -6714,7 +6915,7 @@
   },
   "q": "NwGmGjGPKFA-g4dYTztZyQ",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=NwGmGjGPKFA-g4dYTztZyQ",
-  "last_checked": "2026-11-12T20:39:53",
+  "last_checked": "2026-11-13T20:16:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6724,7 +6925,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026EST309892",
@@ -6778,13 +6979,13 @@
   },
   "q": "IOtUgtcbLcrB9mtfhNrJvw",
   "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=IOtUgtcbLcrB9mtfhNrJvw",
-  "last_checked": "2026-11-12T20:39:57",
+  "last_checked": "2026-11-13T20:16:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  }
 ]
