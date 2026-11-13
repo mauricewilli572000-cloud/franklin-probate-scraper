@@ -1,5 +1,195 @@
 [
  {
+  "case_key": "2026ER00969",
+  "case_number": "2026ER00969",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "summit",
+  "case_name": "FUNK, CHERYL LEE",
+  "decedent_last": "Funk",
+  "decedent_first": "Cheryl",
+  "decedent_middle": "Lee",
+  "aka": "",
+  "subtype": "SUMMARY RELEASE WITHOUT WILL",
+  "court_status": "Open",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "FUNK, GENE J.",
+   "title": "APPLICANT",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "FUNK, GENE J.",
+    "dod": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "attorney": ""
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 2
+  },
+  "case_display": "2026 ER 00969",
+  "court_url": "https://search.summitohioprobate.com/eservices/search.page",
+  "last_checked": "2026-11-13T19:38:47",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026ER00967",
+  "case_number": "2026ER00967",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "summit",
+  "case_name": "AGNELLO, JACQUELINE E.",
+  "decedent_last": "Agnello",
+  "decedent_first": "Jacqueline",
+  "decedent_middle": "E",
+  "aka": "",
+  "subtype": "RELEASE W/WILL",
+  "court_status": "Open",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "AGNELLO, RICHARD J.",
+   "title": "APPLICANT",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "AGNELLO, RICHARD J.",
+    "dod": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "attorney": ""
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 10
+  },
+  "case_display": "2026 ER 00967",
+  "court_url": "https://search.summitohioprobate.com/eservices/search.page",
+  "last_checked": "2026-11-13T19:38:45",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13"
+ },
+ {
+  "case_key": "2026ER00966",
+  "case_number": "2026ER00966",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "summit",
+  "case_name": "SALSMAN, AMANDA K.",
+  "decedent_last": "Salsman",
+  "decedent_first": "Amanda",
+  "decedent_middle": "K",
+  "aka": "",
+  "subtype": "SUMMARY RELEASE WITHOUT WILL",
+  "court_status": "Open",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "TURK, PATTY",
+   "title": "APPLICANT",
+   "street": "",
+   "city": "",
+   "state": "",
+   "zip": "",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "TURK, PATTY",
+    "dod": "",
+    "street": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "attorney": ""
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 7
+  },
+  "case_display": "2026 ER 00966",
+  "court_url": "https://search.summitohioprobate.com/eservices/search.page",
+  "last_checked": "2026-11-13T19:38:44",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)"
+  ],
+  "first_seen": "2026-11-13"
+ },
+ {
   "case_key": "2026ER00962",
   "case_number": "2026ER00962",
   "suffix": "",
@@ -57,19 +247,19 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 7
+   "last_activity": "2026-11-13",
+   "entry_count": 8
   },
   "case_display": "2026 ER 00962",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:44",
+  "last_checked": "2026-11-13T19:38:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00960",
@@ -124,7 +314,7 @@
   },
   "case_display": "2026 ER 00960",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:42",
+  "last_checked": "2026-11-13T19:38:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -133,7 +323,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00959",
@@ -188,14 +378,14 @@
   },
   "case_display": "2026 ER 00959",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:46",
+  "last_checked": "2026-11-13T19:38:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00957",
@@ -250,14 +440,14 @@
   },
   "case_display": "2026 ER 00957",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:44",
+  "last_checked": "2026-11-13T19:38:52",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01077",
@@ -315,7 +505,7 @@
   },
   "case_display": "2026 ES 01077",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:48",
+  "last_checked": "2026-11-13T19:38:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -326,7 +516,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01074",
@@ -384,7 +574,7 @@
   },
   "case_display": "2026 ES 01074",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:46",
+  "last_checked": "2026-11-13T19:38:54",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -395,7 +585,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00956",
@@ -450,7 +640,7 @@
   },
   "case_display": "2026 ER 00956",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:54",
+  "last_checked": "2026-11-13T19:39:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -459,7 +649,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00955",
@@ -514,14 +704,14 @@
   },
   "case_display": "2026 ER 00955",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:53",
+  "last_checked": "2026-11-13T19:39:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00954",
@@ -576,7 +766,7 @@
   },
   "case_display": "2026 ER 00954",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:52",
+  "last_checked": "2026-11-13T19:38:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -585,7 +775,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00953",
@@ -640,14 +830,14 @@
   },
   "case_display": "2026 ER 00953",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:50",
+  "last_checked": "2026-11-13T19:38:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00952",
@@ -671,7 +861,7 @@
   "decedent_zip": "",
   "fiduciary": {
    "name": "PALL BAUGHMAN, GRACE M.",
-   "title": "APPLICANT",
+   "title": "FIDUCIARY",
    "street": "",
    "city": "",
    "state": "",
@@ -680,7 +870,7 @@
   },
   "fiduciaries": [
    {
-    "role": "APPLICANT",
+    "role": "FIDUCIARY",
     "name": "PALL BAUGHMAN, GRACE M.",
     "dod": "",
     "street": "",
@@ -697,19 +887,19 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-09",
-   "entry_count": 7
+   "last_activity": "2026-11-13",
+   "entry_count": 13
   },
   "case_display": "2026 ER 00952",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:50",
+  "last_checked": "2026-11-13T19:38:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00951",
@@ -764,14 +954,14 @@
   },
   "case_display": "2026 ER 00951",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:49",
+  "last_checked": "2026-11-13T19:38:56",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01069",
@@ -824,12 +1014,12 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 8
+   "last_activity": "2026-11-13",
+   "entry_count": 10
   },
   "case_display": "2026 ES 01069",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:56",
+  "last_checked": "2026-11-13T19:39:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -839,7 +1029,7 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01066",
@@ -863,7 +1053,7 @@
   "decedent_zip": "08540",
   "fiduciary": {
    "name": "SMITH, MELODY",
-   "title": "APPLICANT",
+   "title": "FIDUCIARY",
    "street": "282 STATE ROUTE 44",
    "city": "HARTVILLE",
    "state": "OH",
@@ -872,7 +1062,7 @@
   },
   "fiduciaries": [
    {
-    "role": "APPLICANT",
+    "role": "FIDUCIARY",
     "name": "SMITH, MELODY",
     "dod": "",
     "street": "282 STATE ROUTE 44",
@@ -892,12 +1082,12 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 8
+   "last_activity": "2026-11-13",
+   "entry_count": 18
   },
   "case_display": "2026 ES 01066",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:54",
+  "last_checked": "2026-11-13T19:39:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -907,7 +1097,7 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00950",
@@ -921,9 +1111,9 @@
   "decedent_middle": "",
   "aka": "",
   "subtype": "REAL ESTATE TRANSFER ONLY",
-  "court_status": "Open",
+  "court_status": "Closed",
   "filing_date": "2026-11-06",
-  "closed_date": "",
+  "closed_date": "2026-11-06",
   "date_of_death": "",
   "decedent_street": "",
   "decedent_city": "",
@@ -953,23 +1143,23 @@
   "attorney": {},
   "docket_flags": {
    "real_estate_summary": false,
-   "certificate_of_transfer": false,
+   "certificate_of_transfer": true,
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-06",
-   "entry_count": 5
+   "last_activity": "2026-11-13",
+   "entry_count": 9
   },
   "case_display": "2026 ER 00950",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:01",
+  "last_checked": "2026-11-13T19:39:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00949",
@@ -1024,14 +1214,14 @@
   },
   "case_display": "2026 ER 00949",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:00",
+  "last_checked": "2026-11-13T19:39:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00948",
@@ -1086,14 +1276,14 @@
   },
   "case_display": "2026 ER 00948",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:59",
+  "last_checked": "2026-11-13T19:39:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00947",
@@ -1148,7 +1338,7 @@
   },
   "case_display": "2026 ER 00947",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:58",
+  "last_checked": "2026-11-13T19:39:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1157,7 +1347,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00946",
@@ -1212,14 +1402,14 @@
   },
   "case_display": "2026 ER 00946",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:53:57",
+  "last_checked": "2026-11-13T19:39:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01063",
@@ -1274,7 +1464,7 @@
   },
   "case_display": "2026 ES 01063",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:02",
+  "last_checked": "2026-11-13T19:39:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1285,7 +1475,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00944",
@@ -1340,7 +1530,7 @@
   },
   "case_display": "2026 ER 00944",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:04",
+  "last_checked": "2026-11-13T19:39:10",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1349,7 +1539,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00943",
@@ -1404,14 +1594,14 @@
   },
   "case_display": "2026 ER 00943",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:09",
+  "last_checked": "2026-11-13T19:39:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00942",
@@ -1466,14 +1656,14 @@
   },
   "case_display": "2026 ER 00942",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:08",
+  "last_checked": "2026-11-13T19:39:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00940",
@@ -1528,14 +1718,14 @@
   },
   "case_display": "2026 ER 00940",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:07",
+  "last_checked": "2026-11-13T19:39:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00939",
@@ -1590,14 +1780,14 @@
   },
   "case_display": "2026 ER 00939",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:06",
+  "last_checked": "2026-11-13T19:39:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00938",
@@ -1652,14 +1842,14 @@
   },
   "case_display": "2026 ER 00938",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:05",
+  "last_checked": "2026-11-13T19:39:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00935",
@@ -1714,7 +1904,7 @@
   },
   "case_display": "2026 ER 00935",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:11",
+  "last_checked": "2026-11-13T19:39:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1723,7 +1913,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00934",
@@ -1778,14 +1968,14 @@
   },
   "case_display": "2026 ER 00934",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:10",
+  "last_checked": "2026-11-13T19:39:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01050",
@@ -1843,7 +2033,7 @@
   },
   "case_display": "2026 ES 01050",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:12",
+  "last_checked": "2026-11-13T19:39:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1854,7 +2044,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00932",
@@ -1909,14 +2099,14 @@
   },
   "case_display": "2026 ER 00932",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:19",
+  "last_checked": "2026-11-13T19:39:19",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00931",
@@ -1971,14 +2161,14 @@
   },
   "case_display": "2026 ER 00931",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:18",
+  "last_checked": "2026-11-13T19:39:19",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00930",
@@ -2033,7 +2223,7 @@
   },
   "case_display": "2026 ER 00930",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:17",
+  "last_checked": "2026-11-13T19:39:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2042,7 +2232,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00929",
@@ -2097,7 +2287,7 @@
   },
   "case_display": "2026 ER 00929",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:16",
+  "last_checked": "2026-11-13T19:39:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2106,7 +2296,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00928",
@@ -2161,7 +2351,7 @@
   },
   "case_display": "2026 ER 00928",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:15",
+  "last_checked": "2026-11-13T19:39:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2170,7 +2360,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00926",
@@ -2225,14 +2415,14 @@
   },
   "case_display": "2026 ER 00926",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:14",
+  "last_checked": "2026-11-13T19:39:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00925",
@@ -2287,14 +2477,14 @@
   },
   "case_display": "2026 ER 00925",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:13",
+  "last_checked": "2026-11-13T19:39:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01046",
@@ -2352,7 +2542,7 @@
   },
   "case_display": "2026 ES 01046",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:19",
+  "last_checked": "2026-11-13T19:39:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2361,7 +2551,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00924",
@@ -2416,7 +2606,7 @@
   },
   "case_display": "2026 ER 00924",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:20",
+  "last_checked": "2026-11-13T19:39:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2425,7 +2615,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00921",
@@ -2480,14 +2670,14 @@
   },
   "case_display": "2026 ER 00921",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:21",
+  "last_checked": "2026-11-13T19:39:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00920",
@@ -2542,14 +2732,14 @@
   },
   "case_display": "2026 ER 00920",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:21",
+  "last_checked": "2026-11-13T19:39:25",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00919",
@@ -2604,14 +2794,14 @@
   },
   "case_display": "2026 ER 00919",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:22",
+  "last_checked": "2026-11-13T19:39:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00917",
@@ -2666,14 +2856,14 @@
   },
   "case_display": "2026 ER 00917",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:23",
+  "last_checked": "2026-11-13T19:39:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00916",
@@ -2728,7 +2918,7 @@
   },
   "case_display": "2026 ER 00916",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:23",
+  "last_checked": "2026-11-13T19:39:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2737,7 +2927,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00915",
@@ -2792,14 +2982,14 @@
   },
   "case_display": "2026 ER 00915",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:24",
+  "last_checked": "2026-11-13T19:39:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01035",
@@ -2857,7 +3047,7 @@
   },
   "case_display": "2026 ES 01035",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:24",
+  "last_checked": "2026-11-13T19:39:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2868,7 +3058,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00913",
@@ -2923,14 +3113,14 @@
   },
   "case_display": "2026 ER 00913",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:25",
+  "last_checked": "2026-11-13T19:39:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00912",
@@ -2985,14 +3175,14 @@
   },
   "case_display": "2026 ER 00912",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:25",
+  "last_checked": "2026-11-13T19:39:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00911",
@@ -3047,14 +3237,14 @@
   },
   "case_display": "2026 ER 00911",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:26",
+  "last_checked": "2026-11-13T19:39:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00910",
@@ -3109,7 +3299,7 @@
   },
   "case_display": "2026 ER 00910",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:26",
+  "last_checked": "2026-11-13T19:39:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3118,7 +3308,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00907",
@@ -3173,7 +3363,7 @@
   },
   "case_display": "2026 ER 00907",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:27",
+  "last_checked": "2026-11-13T19:39:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3182,7 +3372,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00906",
@@ -3237,14 +3427,14 @@
   },
   "case_display": "2026 ER 00906",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:27",
+  "last_checked": "2026-11-13T19:39:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00905",
@@ -3299,7 +3489,7 @@
   },
   "case_display": "2026 ER 00905",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:28",
+  "last_checked": "2026-11-13T19:39:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3308,7 +3498,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00904",
@@ -3363,7 +3553,7 @@
   },
   "case_display": "2026 ER 00904",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:28",
+  "last_checked": "2026-11-13T19:39:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3372,7 +3562,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00902",
@@ -3427,14 +3617,14 @@
   },
   "case_display": "2026 ER 00902",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:29",
+  "last_checked": "2026-11-13T19:39:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00901",
@@ -3489,7 +3679,7 @@
   },
   "case_display": "2026 ER 00901",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:30",
+  "last_checked": "2026-11-13T19:39:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3498,7 +3688,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00900",
@@ -3553,7 +3743,7 @@
   },
   "case_display": "2026 ER 00900",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:30",
+  "last_checked": "2026-11-13T19:39:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3562,7 +3752,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00899",
@@ -3617,14 +3807,14 @@
   },
   "case_display": "2026 ER 00899",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:30",
+  "last_checked": "2026-11-13T19:39:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00898",
@@ -3679,14 +3869,14 @@
   },
   "case_display": "2026 ER 00898",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:31",
+  "last_checked": "2026-11-13T19:39:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00897",
@@ -3741,7 +3931,7 @@
   },
   "case_display": "2026 ER 00897",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:31",
+  "last_checked": "2026-11-13T19:39:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3750,7 +3940,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00896",
@@ -3805,14 +3995,14 @@
   },
   "case_display": "2026 ER 00896",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:32",
+  "last_checked": "2026-11-13T19:39:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01023",
@@ -3870,7 +4060,7 @@
   },
   "case_display": "2026 ES 01023",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:33",
+  "last_checked": "2026-11-13T19:39:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3881,7 +4071,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00894",
@@ -3936,14 +4126,14 @@
   },
   "case_display": "2026 ER 00894",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:33",
+  "last_checked": "2026-11-13T19:39:37",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00893",
@@ -3998,7 +4188,7 @@
   },
   "case_display": "2026 ER 00893",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:34",
+  "last_checked": "2026-11-13T19:39:37",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4007,7 +4197,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00891",
@@ -4062,14 +4252,14 @@
   },
   "case_display": "2026 ER 00891",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:34",
+  "last_checked": "2026-11-13T19:39:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00890",
@@ -4124,14 +4314,14 @@
   },
   "case_display": "2026 ER 00890",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:35",
+  "last_checked": "2026-11-13T19:39:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00889",
@@ -4186,7 +4376,7 @@
   },
   "case_display": "2026 ER 00889",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:35",
+  "last_checked": "2026-11-13T19:39:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4195,7 +4385,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00888",
@@ -4250,7 +4440,7 @@
   },
   "case_display": "2026 ER 00888",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:36",
+  "last_checked": "2026-11-13T19:39:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4259,7 +4449,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2008ES00565A",
@@ -4317,7 +4507,7 @@
   },
   "case_display": "2008 ES 00565 A",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:36",
+  "last_checked": "2026-11-13T19:39:40",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4327,7 +4517,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01017",
@@ -4382,7 +4572,7 @@
   },
   "case_display": "2026 ES 01017",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:38",
+  "last_checked": "2026-11-13T19:39:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4391,7 +4581,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00887",
@@ -4446,7 +4636,7 @@
   },
   "case_display": "2026 ER 00887",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:38",
+  "last_checked": "2026-11-13T19:39:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4455,7 +4645,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00885",
@@ -4510,7 +4700,7 @@
   },
   "case_display": "2026 ER 00885",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:38",
+  "last_checked": "2026-11-13T19:39:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4519,7 +4709,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00883",
@@ -4574,7 +4764,7 @@
   },
   "case_display": "2026 ER 00883",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:39",
+  "last_checked": "2026-11-13T19:39:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4583,7 +4773,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00882",
@@ -4638,14 +4828,14 @@
   },
   "case_display": "2026 ER 00882",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:39",
+  "last_checked": "2026-11-13T19:39:43",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00881",
@@ -4700,7 +4890,7 @@
   },
   "case_display": "2026 ER 00881",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:40",
+  "last_checked": "2026-11-13T19:39:43",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4709,7 +4899,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00879",
@@ -4764,14 +4954,14 @@
   },
   "case_display": "2026 ER 00879",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:41",
+  "last_checked": "2026-11-13T19:39:44",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00878",
@@ -4826,14 +5016,14 @@
   },
   "case_display": "2026 ER 00878",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:41",
+  "last_checked": "2026-11-13T19:39:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00877",
@@ -4888,7 +5078,7 @@
   },
   "case_display": "2026 ER 00877",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:42",
+  "last_checked": "2026-11-13T19:39:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4897,7 +5087,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00876",
@@ -4952,7 +5142,7 @@
   },
   "case_display": "2026 ER 00876",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:42",
+  "last_checked": "2026-11-13T19:39:46",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4961,7 +5151,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES01006",
@@ -5019,7 +5209,7 @@
   },
   "case_display": "2026 ES 01006",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:43",
+  "last_checked": "2026-11-13T19:39:46",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5030,7 +5220,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00875",
@@ -5085,14 +5275,14 @@
   },
   "case_display": "2026 ER 00875",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:44",
+  "last_checked": "2026-11-13T19:39:47",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00874",
@@ -5147,7 +5337,7 @@
   },
   "case_display": "2026 ER 00874",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:45",
+  "last_checked": "2026-11-13T19:39:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5156,7 +5346,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00873",
@@ -5211,7 +5401,7 @@
   },
   "case_display": "2026 ER 00873",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:46",
+  "last_checked": "2026-11-13T19:39:49",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5220,7 +5410,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00872",
@@ -5275,7 +5465,7 @@
   },
   "case_display": "2026 ER 00872",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:46",
+  "last_checked": "2026-11-13T19:39:49",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5284,7 +5474,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00871",
@@ -5339,14 +5529,14 @@
   },
   "case_display": "2026 ER 00871",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:46",
+  "last_checked": "2026-11-13T19:39:50",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00870",
@@ -5401,7 +5591,7 @@
   },
   "case_display": "2026 ER 00870",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:47",
+  "last_checked": "2026-11-13T19:39:50",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5410,7 +5600,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00869",
@@ -5465,14 +5655,14 @@
   },
   "case_display": "2026 ER 00869",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:48",
+  "last_checked": "2026-11-13T19:39:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00868",
@@ -5527,14 +5717,14 @@
   },
   "case_display": "2026 ER 00868",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:48",
+  "last_checked": "2026-11-13T19:39:52",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00867",
@@ -5589,7 +5779,7 @@
   },
   "case_display": "2026 ER 00867",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:49",
+  "last_checked": "2026-11-13T19:39:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5598,7 +5788,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00865",
@@ -5653,14 +5843,14 @@
   },
   "case_display": "2026 ER 00865",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:50",
+  "last_checked": "2026-11-13T19:39:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00863",
@@ -5715,7 +5905,7 @@
   },
   "case_display": "2026 ER 00863",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:50",
+  "last_checked": "2026-11-13T19:39:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5724,7 +5914,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00862",
@@ -5779,14 +5969,14 @@
   },
   "case_display": "2026 ER 00862",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:50",
+  "last_checked": "2026-11-13T19:39:54",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00861",
@@ -5851,14 +6041,14 @@
   },
   "case_display": "2026 ER 00861",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:51",
+  "last_checked": "2026-11-13T19:39:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00860",
@@ -5913,7 +6103,7 @@
   },
   "case_display": "2026 ER 00860",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:52",
+  "last_checked": "2026-11-13T19:39:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5922,7 +6112,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00859",
@@ -5977,14 +6167,14 @@
   },
   "case_display": "2026 ER 00859",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:52",
+  "last_checked": "2026-11-13T19:39:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00855",
@@ -6039,7 +6229,7 @@
   },
   "case_display": "2026 ER 00855",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:52",
+  "last_checked": "2026-11-13T19:39:56",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6048,7 +6238,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00854",
@@ -6103,14 +6293,14 @@
   },
   "case_display": "2026 ER 00854",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:53",
+  "last_checked": "2026-11-13T19:39:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00853",
@@ -6165,7 +6355,7 @@
   },
   "case_display": "2026 ER 00853",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:54",
+  "last_checked": "2026-11-13T19:39:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6174,7 +6364,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00852",
@@ -6229,7 +6419,7 @@
   },
   "case_display": "2026 ER 00852",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:54",
+  "last_checked": "2026-11-13T19:39:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6238,7 +6428,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00851",
@@ -6293,14 +6483,14 @@
   },
   "case_display": "2026 ER 00851",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:54",
+  "last_checked": "2026-11-13T19:39:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00850",
@@ -6355,14 +6545,14 @@
   },
   "case_display": "2026 ER 00850",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:55",
+  "last_checked": "2026-11-13T19:39:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00849",
@@ -6417,14 +6607,14 @@
   },
   "case_display": "2026 ER 00849",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:55",
+  "last_checked": "2026-11-13T19:39:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00848",
@@ -6479,14 +6669,14 @@
   },
   "case_display": "2026 ER 00848",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:56",
+  "last_checked": "2026-11-13T19:39:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00847",
@@ -6541,14 +6731,14 @@
   },
   "case_display": "2026 ER 00847",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:56",
+  "last_checked": "2026-11-13T19:39:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00846",
@@ -6603,7 +6793,7 @@
   },
   "case_display": "2026 ER 00846",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:57",
+  "last_checked": "2026-11-13T19:40:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6612,7 +6802,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00845",
@@ -6667,14 +6857,14 @@
   },
   "case_display": "2026 ER 00845",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:57",
+  "last_checked": "2026-11-13T19:40:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00844",
@@ -6729,7 +6919,7 @@
   },
   "case_display": "2026 ER 00844",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:58",
+  "last_checked": "2026-11-13T19:40:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6738,7 +6928,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00843",
@@ -6793,7 +6983,7 @@
   },
   "case_display": "2026 ER 00843",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:58",
+  "last_checked": "2026-11-13T19:40:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6802,7 +6992,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00842",
@@ -6857,7 +7047,7 @@
   },
   "case_display": "2026 ER 00842",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:59",
+  "last_checked": "2026-11-13T19:40:02",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6866,7 +7056,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00841",
@@ -6921,7 +7111,7 @@
   },
   "case_display": "2026 ER 00841",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:54:59",
+  "last_checked": "2026-11-13T19:40:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6930,7 +7120,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00978",
@@ -6988,7 +7178,7 @@
   },
   "case_display": "2026 ES 00978",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:00",
+  "last_checked": "2026-11-13T19:40:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6998,7 +7188,7 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00839",
@@ -7053,7 +7243,7 @@
   },
   "case_display": "2026 ER 00839",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:00",
+  "last_checked": "2026-11-13T19:40:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7062,7 +7252,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00838",
@@ -7117,7 +7307,7 @@
   },
   "case_display": "2026 ER 00838",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:01",
+  "last_checked": "2026-11-13T19:40:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7126,7 +7316,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00837",
@@ -7181,14 +7371,14 @@
   },
   "case_display": "2026 ER 00837",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:01",
+  "last_checked": "2026-11-13T19:40:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00836",
@@ -7243,7 +7433,7 @@
   },
   "case_display": "2026 ER 00836",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:02",
+  "last_checked": "2026-11-13T19:40:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7252,7 +7442,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00970",
@@ -7310,7 +7500,7 @@
   },
   "case_display": "2026 ES 00970",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:02",
+  "last_checked": "2026-11-13T19:40:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7320,7 +7510,7 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00835",
@@ -7375,14 +7565,14 @@
   },
   "case_display": "2026 ER 00835",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:03",
+  "last_checked": "2026-11-13T19:40:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00834",
@@ -7437,14 +7627,14 @@
   },
   "case_display": "2026 ER 00834",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:04",
+  "last_checked": "2026-11-13T19:40:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00833",
@@ -7499,7 +7689,7 @@
   },
   "case_display": "2026 ER 00833",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:04",
+  "last_checked": "2026-11-13T19:40:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7508,7 +7698,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00832",
@@ -7563,14 +7753,14 @@
   },
   "case_display": "2026 ER 00832",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:05",
+  "last_checked": "2026-11-13T19:40:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00831",
@@ -7625,7 +7815,7 @@
   },
   "case_display": "2026 ER 00831",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:06",
+  "last_checked": "2026-11-13T19:40:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7634,7 +7824,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00829",
@@ -7689,14 +7879,14 @@
   },
   "case_display": "2026 ER 00829",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:06",
+  "last_checked": "2026-11-13T19:40:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00963",
@@ -7754,7 +7944,7 @@
   },
   "case_display": "2026 ES 00963",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:07",
+  "last_checked": "2026-11-13T19:40:10",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7765,7 +7955,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00827",
@@ -7820,7 +8010,7 @@
   },
   "case_display": "2026 ER 00827",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:08",
+  "last_checked": "2026-11-13T19:40:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7829,7 +8019,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00826",
@@ -7884,7 +8074,7 @@
   },
   "case_display": "2026 ER 00826",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:09",
+  "last_checked": "2026-11-13T19:40:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7893,7 +8083,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00825",
@@ -7948,14 +8138,14 @@
   },
   "case_display": "2026 ER 00825",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:09",
+  "last_checked": "2026-11-13T19:40:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00824",
@@ -8010,14 +8200,14 @@
   },
   "case_display": "2026 ER 00824",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:10",
+  "last_checked": "2026-11-13T19:40:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00823",
@@ -8072,7 +8262,7 @@
   },
   "case_display": "2026 ER 00823",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:10",
+  "last_checked": "2026-11-13T19:40:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8081,7 +8271,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00822",
@@ -8136,7 +8326,7 @@
   },
   "case_display": "2026 ER 00822",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:11",
+  "last_checked": "2026-11-13T19:40:14",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8145,7 +8335,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00821",
@@ -8200,7 +8390,7 @@
   },
   "case_display": "2026 ER 00821",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:12",
+  "last_checked": "2026-11-13T19:40:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8209,7 +8399,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00949",
@@ -8267,7 +8457,7 @@
   },
   "case_display": "2026 ES 00949",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:12",
+  "last_checked": "2026-11-13T19:40:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8278,7 +8468,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00172A",
@@ -8336,7 +8526,7 @@
   },
   "case_display": "2026 ES 00172 A",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:13",
+  "last_checked": "2026-11-13T19:40:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8347,7 +8537,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00820",
@@ -8402,7 +8592,7 @@
   },
   "case_display": "2026 ER 00820",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:14",
+  "last_checked": "2026-11-13T19:40:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8411,7 +8601,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00819",
@@ -8466,7 +8656,7 @@
   },
   "case_display": "2026 ER 00819",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:14",
+  "last_checked": "2026-11-13T19:40:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8475,7 +8665,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00946",
@@ -8533,7 +8723,7 @@
   },
   "case_display": "2026 ES 00946",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:15",
+  "last_checked": "2026-11-13T19:40:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8543,7 +8733,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00816",
@@ -8598,14 +8788,14 @@
   },
   "case_display": "2026 ER 00816",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:16",
+  "last_checked": "2026-11-13T19:40:19",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00815",
@@ -8660,7 +8850,7 @@
   },
   "case_display": "2026 ER 00815",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:16",
+  "last_checked": "2026-11-13T19:40:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8669,7 +8859,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00814",
@@ -8724,7 +8914,7 @@
   },
   "case_display": "2026 ER 00814",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:17",
+  "last_checked": "2026-11-13T19:40:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8733,7 +8923,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00813",
@@ -8788,7 +8978,7 @@
   },
   "case_display": "2026 ER 00813",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:18",
+  "last_checked": "2026-11-13T19:40:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8797,7 +8987,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00940",
@@ -8855,7 +9045,7 @@
   },
   "case_display": "2026 ES 00940",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:18",
+  "last_checked": "2026-11-13T19:40:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8865,7 +9055,7 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00811",
@@ -8920,7 +9110,7 @@
   },
   "case_display": "2026 ER 00811",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:18",
+  "last_checked": "2026-11-13T19:40:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8929,7 +9119,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00810",
@@ -8984,7 +9174,7 @@
   },
   "case_display": "2026 ER 00810",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:19",
+  "last_checked": "2026-11-13T19:40:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8993,7 +9183,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00809",
@@ -9048,7 +9238,7 @@
   },
   "case_display": "2026 ER 00809",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:20",
+  "last_checked": "2026-11-13T19:40:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9057,7 +9247,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00808",
@@ -9112,14 +9302,14 @@
   },
   "case_display": "2026 ER 00808",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:20",
+  "last_checked": "2026-11-13T19:40:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00807",
@@ -9174,7 +9364,7 @@
   },
   "case_display": "2026 ER 00807",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:21",
+  "last_checked": "2026-11-13T19:40:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9183,7 +9373,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00805",
@@ -9238,14 +9428,14 @@
   },
   "case_display": "2026 ER 00805",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:21",
+  "last_checked": "2026-11-13T19:40:25",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00804",
@@ -9300,14 +9490,14 @@
   },
   "case_display": "2026 ER 00804",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:22",
+  "last_checked": "2026-11-13T19:40:25",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00803",
@@ -9362,7 +9552,7 @@
   },
   "case_display": "2026 ER 00803",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:22",
+  "last_checked": "2026-11-13T19:40:25",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9371,7 +9561,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00802",
@@ -9426,14 +9616,14 @@
   },
   "case_display": "2026 ER 00802",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:22",
+  "last_checked": "2026-11-13T19:40:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00801",
@@ -9488,14 +9678,14 @@
   },
   "case_display": "2026 ER 00801",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:23",
+  "last_checked": "2026-11-13T19:40:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ES00929",
@@ -9563,7 +9753,7 @@
   },
   "case_display": "2026 ES 00929",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:23",
+  "last_checked": "2026-11-13T19:40:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9573,7 +9763,7 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00800",
@@ -9628,7 +9818,7 @@
   },
   "case_display": "2026 ER 00800",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:24",
+  "last_checked": "2026-11-13T19:40:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9637,7 +9827,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00799",
@@ -9692,7 +9882,7 @@
   },
   "case_display": "2026 ER 00799",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:24",
+  "last_checked": "2026-11-13T19:40:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9701,7 +9891,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00798",
@@ -9756,7 +9946,7 @@
   },
   "case_display": "2026 ER 00798",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:25",
+  "last_checked": "2026-11-13T19:40:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9765,7 +9955,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00797",
@@ -9820,7 +10010,7 @@
   },
   "case_display": "2026 ER 00797",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:25",
+  "last_checked": "2026-11-13T19:40:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9829,7 +10019,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00795",
@@ -9884,14 +10074,14 @@
   },
   "case_display": "2026 ER 00795",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:26",
+  "last_checked": "2026-11-13T19:40:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00794",
@@ -9946,7 +10136,7 @@
   },
   "case_display": "2026 ER 00794",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:26",
+  "last_checked": "2026-11-13T19:40:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9955,7 +10145,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00793",
@@ -10010,14 +10200,14 @@
   },
   "case_display": "2026 ER 00793",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:27",
+  "last_checked": "2026-11-13T19:40:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00792",
@@ -10072,14 +10262,14 @@
   },
   "case_display": "2026 ER 00792",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:27",
+  "last_checked": "2026-11-13T19:40:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00791",
@@ -10134,7 +10324,7 @@
   },
   "case_display": "2026 ER 00791",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:28",
+  "last_checked": "2026-11-13T19:40:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10143,7 +10333,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00790",
@@ -10198,14 +10388,14 @@
   },
   "case_display": "2026 ER 00790",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:28",
+  "last_checked": "2026-11-13T19:40:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00788",
@@ -10260,14 +10450,14 @@
   },
   "case_display": "2026 ER 00788",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:29",
+  "last_checked": "2026-11-13T19:40:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00787",
@@ -10322,7 +10512,7 @@
   },
   "case_display": "2026 ER 00787",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:30",
+  "last_checked": "2026-11-13T19:40:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10331,7 +10521,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00786",
@@ -10386,7 +10576,7 @@
   },
   "case_display": "2026 ER 00786",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:30",
+  "last_checked": "2026-11-13T19:40:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10395,7 +10585,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00783",
@@ -10450,7 +10640,7 @@
   },
   "case_display": "2026 ER 00783",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:31",
+  "last_checked": "2026-11-13T19:40:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10459,7 +10649,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00782",
@@ -10514,7 +10704,7 @@
   },
   "case_display": "2026 ER 00782",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:31",
+  "last_checked": "2026-11-13T19:40:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10523,7 +10713,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00781",
@@ -10578,7 +10768,7 @@
   },
   "case_display": "2026 ER 00781",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:32",
+  "last_checked": "2026-11-13T19:40:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10587,7 +10777,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00780",
@@ -10642,7 +10832,7 @@
   },
   "case_display": "2026 ER 00780",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:32",
+  "last_checked": "2026-11-13T19:40:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10651,7 +10841,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00779",
@@ -10706,7 +10896,7 @@
   },
   "case_display": "2026 ER 00779",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:32",
+  "last_checked": "2026-11-13T19:40:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10715,7 +10905,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00778",
@@ -10770,7 +10960,7 @@
   },
   "case_display": "2026 ER 00778",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:33",
+  "last_checked": "2026-11-13T19:40:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -10779,7 +10969,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  },
  {
   "case_key": "2026ER00777",
@@ -10834,13 +11024,13 @@
   },
   "case_display": "2026 ER 00777",
   "court_url": "https://search.summitohioprobate.com/eservices/search.page",
-  "last_checked": "2026-11-12T19:55:33",
+  "last_checked": "2026-11-13T19:40:37",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-12"
+  "first_seen": "2026-11-13"
  }
 ]
