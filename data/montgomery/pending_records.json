@@ -58,14 +58,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03001657445F0105796474716779150A037F756F7E707E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03001657445F0105796474716779150A037F756F7E707E",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02107",
@@ -126,7 +126,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03011657445F0105727D797B76140208777868777D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000B03011657445F0105727D797B76140208777868777D",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -135,7 +135,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02103",
@@ -196,7 +196,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A051657445F010560707D6D767D150A03727F777814027B160300717A78",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A051657445F010560707D6D767D150A03727F777814027B160300717A78",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -206,7 +206,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02101",
@@ -267,7 +267,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B021657445F01057964716C7A7F711D01017D777C6375",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B021657445F01057964716C7A7F711D01017D777C6375",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -277,7 +277,7 @@
    "real-estate-only estate",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02099",
@@ -338,7 +338,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B001657445F0105606575687B707E7176140208647E7F7C60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0B001657445F0105606575687B707E7176140208647E7F7C60",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -347,7 +347,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02097",
@@ -408,7 +408,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04091657445F0105617E7E797F75150A037B7F707D627F76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04091657445F0105617E7E797F75150A037B7F707D627F76",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -417,7 +417,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02096",
@@ -478,7 +478,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04061657445F01057675796C7B140208637979747F78606B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04061657445F01057675796C7B140208637979747F78606B",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -487,7 +487,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02095",
@@ -548,14 +548,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04041657445F01057079627160657F687B74621D010172777F657F76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A04041657445F01057079627160657F687B74621D010172777F657F76",
-  "last_checked": "2026-11-13T20:46:30",
+  "last_checked": "2026-11-14T18:49:49",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02106",
@@ -616,14 +616,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A081657445F0105637065741603006C66637E7D6A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A0A081657445F0105637065741603006C66637E7D6A",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02093",
@@ -684,14 +684,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05081657445F0105767C79746A1402087B74747F7F7E7E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05081657445F0105767C79746A1402087B74747F7F7E7E",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02092",
@@ -752,14 +752,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05021657445F01056079716A7C7F150A037371737663",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A05021657445F01056079716A7C7F150A037371737663",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02088",
@@ -820,7 +820,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A00071657445F010564787C747A707D1D01016479707A756C67",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A00071657445F010564787C747A707D1D01016479707A756C67",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -831,7 +831,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02052",
@@ -892,14 +892,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803081657445F010579707D7D601402087770667160",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803081657445F010579707D7D601402087770667160",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02083",
@@ -960,14 +960,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03081657445F0105637979747A61150A03667579657462",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03081657445F0105637979747A61150A03667579657462",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02082",
@@ -1028,7 +1028,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03091657445F0105617E727D6165150A03626071677D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03091657445F0105617E727D6165150A03626071677D756A",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1037,7 +1037,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02081",
@@ -1098,14 +1098,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03061657445F0105617E777D611402087774717C6A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000A03061657445F0105617E777D611402087774717C6A",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02079",
@@ -1166,7 +1166,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400090A091657445F01057A63757676140208607F716E767D69",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400090A091657445F01057A63757676140208607F716E767D69",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1175,7 +1175,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02078",
@@ -1236,14 +1236,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905081657445F0105616464701603007572627F76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905081657445F0105616464701603007572627F76",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02077",
@@ -1304,7 +1304,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905071657445F01057C7D7C7176140208606175796162",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905071657445F01057C7D7C7176140208606175796162",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1313,7 +1313,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02076",
@@ -1374,7 +1374,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905051657445F010567787D776779691D0101726D7D7F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905051657445F010567787D776779691D0101726D7D7F",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1384,7 +1384,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02075",
@@ -1445,14 +1445,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905001657445F01057E786271727C150A03707E7C6174676B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000905001657445F01057E786271727C150A03707E7C6174676B",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02073",
@@ -1513,7 +1513,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000906061657445F010563707D7D7F70150A036371717D7469",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000906061657445F010563707D7D7F70150A036371717D7469",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1522,7 +1522,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02066",
@@ -1583,7 +1583,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A081657445F01057079716A7F74631D010164707C7C606B7C7F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A081657445F01057079716A7F74631D010164707C7C606B7C7F",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1592,7 +1592,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02065",
@@ -1653,7 +1653,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A091657445F01057970737771140208717E69",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080A091657445F01057970737771140208717E69",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1662,7 +1662,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02064",
@@ -1723,14 +1723,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080B061657445F010579707D7D601402087770667160",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000400080B061657445F010579707D7D601402087770667160",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01952",
@@ -1791,7 +1791,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E01011657445F01057E78711D0101676A7A76786C",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E01011657445F01057E78711D0101676A7A76786C",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1801,7 +1801,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02061",
@@ -1862,7 +1862,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000806051657445F010579707E7D160300687665756A60747E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000806051657445F010579707E7D160300687665756A60747E",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1871,7 +1871,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02058",
@@ -1932,7 +1932,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000800081657445F0105617E727D6165150A037C7F6C7662",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000800081657445F0105617E727D6165150A037C7F6C7662",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1942,7 +1942,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02056",
@@ -2003,7 +2003,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000802071657445F0105777472776170781D01017D716170737476",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000802071657445F0105777472776170781D01017D716170737476",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2012,7 +2012,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02062",
@@ -2073,14 +2073,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000804041657445F0105717079747668150A036571617F7E62",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000804041657445F0105717079747668150A036571617F7E62",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02050",
@@ -2141,14 +2141,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803071657445F0105617873707263741D01017B7D7F7D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803071657445F0105617873707263741D01017B7D7F7D756A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02049",
@@ -2209,7 +2209,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803031657445F01056370646A7A727979160300727C7F756B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803031657445F01056370646A7A727979160300727C7F756B",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2219,7 +2219,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02048",
@@ -2280,14 +2280,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803011657445F010567797F757262150A0372716A677462",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050004000803011657445F010567797F757262150A0372716A677462",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02047",
@@ -2348,14 +2348,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A081657445F010578747E767665781D0101677076747C7D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A081657445F010578747E767665781D0101677076747C7D61",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02045",
@@ -2416,7 +2416,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A061657445F0105617E727D6165150A0363797B76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010A061657445F0105617E727D6165150A0363797B76",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2426,7 +2426,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02042",
@@ -2487,7 +2487,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B031657445F01057974626A6A1402087B7462796779",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B031657445F01057974626A6A1402087B7462796779",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2496,7 +2496,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02041",
@@ -2557,7 +2557,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B001657445F01057E7062611603006872637B7D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B56585405000509010B001657445F01057E7062611603006872637B7D61",
-  "last_checked": "2026-11-13T20:48:15",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2567,7 +2567,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01995",
@@ -2628,7 +2628,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04081657445F01057974636B7A72711D0101776A76747E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04081657445F01057974636B7A72711D0101776A76747E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2637,7 +2637,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02039",
@@ -2698,14 +2698,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090105071657445F0105707062777F687E1D0101677776797C",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090105071657445F0105707062777F687E1D0101677776797C",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02035",
@@ -2766,14 +2766,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090101021657445F010579647C7176140208716375767D707E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090101021657445F010579647C7176140208716375767D707E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02019",
@@ -2834,7 +2834,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007071657445F01056374647D61140208787E656B607E657C7978",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007071657445F01056374647D61140208787E656B607E657C7978",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2843,7 +2843,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02018",
@@ -2904,14 +2904,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007041657445F01057163657B76140208707975767C66756C7B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007041657445F01057163657B76140208707975767C66756C7B",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02015",
@@ -2972,7 +2972,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007031657445F0105607975747F74691D0101627D7A72787D7F75756A757462",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007031657445F0105607975747F74691D0101627D7A72787D7F75756A757462",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2981,7 +2981,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02020",
@@ -3042,7 +3042,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007061657445F010576637E7D6065150A036273797F74631D0172150A036262",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007061657445F010576637E7D6065150A036273797F74631D0172150A036262",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3053,7 +3053,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02016",
@@ -3114,7 +3114,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007021657445F01057E78737072747C1D010178797F7D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090007021657445F01057E78737072747C1D010178797F7D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3124,7 +3124,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02014",
@@ -3185,7 +3185,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090000081657445F0105717E727A6A140208767D746A7A75777D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090000081657445F0105717E727A6A140208767D746A7A75777D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3195,7 +3195,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02009",
@@ -3256,7 +3256,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003061657445F010567797577777E627D1603006B7B7062681603731D0101636A160375",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003061657445F010567797577777E627D1603006B7B7062681603731D0101636A160375",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3265,7 +3265,7 @@
   "score_reasons": [
    "real-estate-only estate"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02008",
@@ -3326,7 +3326,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003071657445F0105777E7E797F75150A0373796C677E627E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003071657445F0105777E7E797F75150A0373796C677E627E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3336,7 +3336,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02005",
@@ -3397,14 +3397,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003011657445F01057E7E78797E7C717C16030072727F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090003011657445F01057E7E78797E7C717C16030072727F",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02004",
@@ -3465,14 +3465,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A041657445F0105756371767814020875787F6A7A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A041657445F0105756371767814020875787F6A7A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02002",
@@ -3533,7 +3533,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A031657445F0105617E727D6165150A0377627D767C7176",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A031657445F0105617E727D6165150A0377627D767C7176",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3543,7 +3543,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02001",
@@ -3604,14 +3604,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A001657445F010570637171741402087B7E67796175",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A001657445F010570637171741402087B7E67796175",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST02000",
@@ -3672,14 +3672,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A011657445F01057170627A7263711D01017D717F7D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F0A011657445F01057170627A7263711D01017D717F7D756A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01993",
@@ -3740,7 +3740,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04031657445F01057B74716C7B74621D0101766D7F7D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04031657445F01057B74716C7B74621D0101766D7F7D756A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3750,7 +3750,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01992",
@@ -3811,7 +3811,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04011657445F01057E70627F7263756C160300727C7F756B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F04011657445F01057E70627F7263756C160300727C7F756B",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3820,7 +3820,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01991",
@@ -3881,14 +3881,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05091657445F01057B74626B7B747C1D010178796777797D7F75",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05091657445F01057B74626B7B747C1D010178796777797D7F75",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01990",
@@ -3949,7 +3949,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05061657445F0105777E657F7F70631D01016370766362716765",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05061657445F0105777E657F7F70631D01016370766362716765",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3958,7 +3958,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01989",
@@ -4019,14 +4019,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05071657445F010564787C7A66637E1D01017174707E62761603731D01017A6A160375",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05071657445F010564787C7A66637E1D01017174707E62761603731D01017A6A160375",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01988",
@@ -4087,7 +4087,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05041657445F010570706274160300737D78777067",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05041657445F010570706274160300737D78777067",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4096,7 +4096,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01987",
@@ -4157,14 +4157,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05051657445F0105777066717714020864787C6B7C7F",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05051657445F0105777066717714020864787C6B7C7F",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01986",
@@ -4225,7 +4225,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05011657445F0105707064707663797676140208757D69767D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F05011657445F0105707064707663797676140208757D69767D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4234,7 +4234,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01985",
@@ -4304,14 +4304,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06081657445F0105707062777F687E1D01016375727D7C6F7C7E74",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06081657445F0105707062777F687E1D01016375727D7C6F7C7E74",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01984",
@@ -4372,7 +4372,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06041657445F0105607471761603007570757F76727D74",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06041657445F0105607471761603007570757F76727D74",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4381,7 +4381,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01983",
@@ -4442,7 +4442,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06051657445F0105756371767078631D010173777B747E6B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06051657445F0105756371767078631D010173777B747E6B",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4452,7 +4452,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01981",
@@ -4513,14 +4513,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06001657445F010577707C7D1603007A7269647D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F06001657445F010577707C7D1603007A7269647D61",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01934",
@@ -4581,7 +4581,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03091657445F0105716379797D1402087578626B67747E7A7663777D61",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03091657445F0105716379797D1402087578626B67747E7A7663777D61",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4591,7 +4591,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01978",
@@ -4652,7 +4652,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00081657445F0105617873737668150A0373756B7B74716A60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00081657445F0105617873737668150A0373756B7B74716A60",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4661,7 +4661,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01976",
@@ -4722,7 +4722,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00011657445F010560707E7C6170150A03757F777F7469",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F00011657445F010560707E7C6170150A03757F777F7469",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4731,7 +4731,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01975",
@@ -4792,7 +4792,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F01081657445F01056074627963797976721402087E7E7F6A76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090F01081657445F01056074627963797976721402087E7E7F6A76",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4802,7 +4802,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01935",
@@ -4863,7 +4863,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03081657445F010574747F6A7474150A03757F6D74797D797D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03081657445F010574747F6A7474150A03757F6D74797D797D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4874,7 +4874,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01969",
@@ -4935,7 +4935,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E0A081657445F01057E78737072747C1D010163717E7C7F7660",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E0A081657445F01057E78737072747C1D010163717E7C7F7660",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4945,7 +4945,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01966",
@@ -5006,7 +5006,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04071657445F010564787C747A707D1D010160797074",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04071657445F010564787C747A707D1D010160797074",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5015,7 +5015,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01965",
@@ -5076,7 +5076,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04051657445F01057170627A7263711D0101767D617575747E707E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E04051657445F01057170627A7263711D0101767D617575747E707E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5085,7 +5085,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01962",
@@ -5146,7 +5146,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05021657445F0105716379797D1402087C66757660",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05021657445F0105716379797D1402087C66757660",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5156,7 +5156,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01964",
@@ -5217,7 +5217,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05071657445F010574747E7D6578756E76140208787E626C76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05071657445F010574747E7D6578756E76140208787E626C76",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5226,7 +5226,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01963",
@@ -5287,7 +5287,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05041657445F010561707E7C727D7C1D0101647D727F7561",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E05041657445F010561707E7C727D7C1D0101647D727F7561",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5298,7 +5298,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01951",
@@ -5359,7 +5359,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02081657445F0105617873707263741D0101756E727F63",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02081657445F0105617873707263741D0101756E727F63",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5369,7 +5369,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01956",
@@ -5430,14 +5430,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E00021657445F01057174646C6A1402087E727B717D7F796B60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E00021657445F01057174646C6A1402087E727B717D7F796B60",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01950",
@@ -5498,7 +5498,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02091657445F01057174646C6A1402087E727B717D7F796B60",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090E02091657445F01057174646C6A1402087E727B717D7F796B60",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5507,7 +5507,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01946",
@@ -5568,7 +5568,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D0A071657445F01057974626A6A140208707D716A78",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D0A071657445F01057974626A6A140208707D716A78",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5577,7 +5577,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01943",
@@ -5638,7 +5638,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D04061657445F01057974636B761402086463797F7B65150A701402087A7879",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D04061657445F01057974636B761402086463797F7B65150A701402087A7879",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5647,7 +5647,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01939",
@@ -5708,7 +5708,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D00041657445F01057974767E6174691D01017677647D756A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D00041657445F01057974767E6174691D01017677647D756A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5718,7 +5718,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01937",
@@ -5779,14 +5779,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D02001657445F01057E78737072747C1D010162717079727D6176150A701402086063150A76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D02001657445F01057E78737072747C1D010162717079727D6176150A701402086063150A76",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01930",
@@ -5847,7 +5847,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B071657445F01056774717472140208727F747D61627F76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B071657445F01056774717472140208727F747D61627F76",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5857,7 +5857,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01933",
@@ -5918,7 +5918,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03051657445F0105777066717714020861787373766364",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090D03051657445F0105777066717714020861787373766364",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5927,7 +5927,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01929",
@@ -5988,7 +5988,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B011657445F010560727F6C67140208607C796C7B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C0B011657445F010560727F6C67140208607C796C7B",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5997,7 +5997,7 @@
   "score_reasons": [
    "motion to sell real estate filed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01927",
@@ -6058,7 +6058,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05081657445F0105617873707263741D010166777474",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05081657445F0105617873707263741D010166777474",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6068,7 +6068,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01926",
@@ -6129,7 +6129,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05061657445F01057B706275727F63707278150A0361716C767D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05061657445F01057B706275727F63707278150A0361716C767D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6138,7 +6138,7 @@
   "score_reasons": [
    "real-estate-only estate"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01925",
@@ -6199,14 +6199,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05071657445F01057174646C6A1402087463757D7D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05071657445F01057174646C6A1402087463757D7D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01923",
@@ -6267,14 +6267,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05051657445F0105707062777F1402086064647076637C797D75",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C05051657445F0105707062777F1402086064647076637C797D75",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01928",
@@ -6335,7 +6335,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C04091657445F0105777E7E1D01017D7B7479757D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C04091657445F0105777E7E1D01017D7B7479757D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6344,7 +6344,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01920",
@@ -6405,14 +6405,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07091657445F01057874796C7B14020870636562",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07091657445F01057874796C7B14020870636562",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01918",
@@ -6473,14 +6473,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07071657445F01057470626A6A1402087B74716A77",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07071657445F01057470626A6A1402087B74716A77",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 5,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01917",
@@ -6541,14 +6541,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07041657445F01057870627D7D14020870747A7372",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07041657445F01057870627D7D14020870747A7372",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01913",
@@ -6609,14 +6609,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C00031657445F0105797E7876160300797D75756A607E7E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C00031657445F0105797E7876160300797D75756A607E7E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01912",
@@ -6686,7 +6686,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C01091657445F01057D707E7B6A14020878746276",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C01091657445F01057D707E7B6A14020878746276",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6695,7 +6695,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01915",
@@ -6756,14 +6756,14 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07021657445F01057174667D617D691D010169776065",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C07021657445F01057174667D617D691D010169776065",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01909",
@@ -6824,7 +6824,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C02001657445F010579787D756A14020867797F757262",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090C02001657445F010579787D756A14020867797F757262",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6835,7 +6835,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01908",
@@ -6896,7 +6896,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A061657445F010579647E717C63150A0375716E7A7563777D",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A061657445F010579647E717C63150A0375716E7A7563777D",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6905,7 +6905,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01907",
@@ -6966,7 +6966,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A071657445F0105767567796175150A03796271676B",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B0A071657445F0105767567796175150A03796271676B",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6975,7 +6975,7 @@
   "score_reasons": [
    "executor out of state"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01904",
@@ -7036,7 +7036,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05021657445F01057E78737072747C1D010162796A",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05021657445F01057E78737072747C1D010162796A",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7045,7 +7045,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01903",
@@ -7106,7 +7106,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05031657445F01057E70627176140208797E7876607E7E",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B05031657445F01057E70627176140208797E7876607E7E",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7116,7 +7116,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "2026EST01900",
@@ -7177,7 +7177,7 @@
   },
   "q": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B06071657445F0105796471761603007C6670626C76",
   "court_url": "https://go.mcohio.org/applications/probate/prodcfm/casesearchresultx.cfm?52514B565854050005090B06071657445F0105796471761603007C6670626C76",
-  "last_checked": "2026-11-13T20:48:16",
+  "last_checked": "2026-11-14T18:50:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7186,6 +7186,6 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  }
 ]
