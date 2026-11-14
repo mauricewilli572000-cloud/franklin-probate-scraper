@@ -1,5 +1,97 @@
 [
  {
+  "case_key": "2026EST311353",
+  "case_number": "2026EST311353",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "DITOMAS, PHILOMENA",
+  "decedent_last": "Ditomas",
+  "decedent_first": "Philomena",
+  "decedent_middle": "",
+  "aka": "",
+  "subtype": "RELEASE NO WILL",
+  "court_status": "OPEN",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2023-11-26",
+  "decedent_street": "431 MUIRFIELD DR",
+  "decedent_city": "HIGHLAND HEIGHTS",
+  "decedent_state": "OH",
+  "decedent_zip": "44143",
+  "fiduciary": {
+   "name": "DITOMAS, JAMES",
+   "title": "APPLICANT",
+   "street": "431 MUIRFIELD DR",
+   "city": "HIGHLAND HEIGHTS",
+   "state": "OH",
+   "zip": "44143",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "JAMES DITOMAS",
+    "dod": "",
+    "street": "431 MUIRFIELD DR",
+    "city": "HIGHLAND HEIGHTS",
+    "state": "OH",
+    "zip": "44143"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 6
+  },
+  "q": "P7k__bnnWt833YxyzXq7qw",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=P7k__bnnWt833YxyzXq7qw",
+  "last_checked": "2026-11-14T18:33:03",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [
+   {
+    "parcel_id": "82122054",
+    "property_address": "431 MUIRFIELD DR",
+    "property_zip": "44143",
+    "property_city": "Highland Heights",
+    "auditor_owner": "DITOMAS  MARK A.-TRUSTEE",
+    "owner_mail_street": "431 MUIRFIELD DR",
+    "owner_mail_city": "Highland Hts",
+    "owner_mail_state": "OH",
+    "owner_mail_zip": "44143",
+    "tax_bill_payer": "",
+    "has_mortgage_escrow": null,
+    "property_class": "1-FAMILY PLATTED LOT",
+    "class_code": "5100",
+    "market_value": 408900,
+    "last_sale_date": "2023-11-01",
+    "last_sale_price": 0,
+    "year_built": "",
+    "sqft": 2243,
+    "beds": "",
+    "baths": "",
+    "acres": 0.191,
+    "rental": false,
+    "status": "other_owner",
+    "matched_by": "address",
+    "confidence": "high"
+   }
+  ],
+  "auditor_error": "",
+  "score": 15,
+  "score_reasons": [
+   "no will (multiple heirs)",
+   "filed 6+ months after death"
+  ],
+  "skip_reason": "decedent_not_owner"
+ },
+ {
   "case_key": "2026EST311333",
   "case_number": "2026EST311333",
   "suffix": "",
@@ -34140,6 +34232,71 @@
   "skip_reason": "decedent_not_owner"
  },
  {
+  "case_key": "2026EST309899",
+  "case_number": "2026EST309899",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "CLARK, THOMSON R, SR",
+  "decedent_last": "Clark",
+  "decedent_first": "Thomson",
+  "decedent_middle": "R",
+  "aka": "",
+  "subtype": "CERT. OF TRANSFER W/O ADMIN.",
+  "court_status": "CLOSED",
+  "filing_date": "2026-09-14",
+  "closed_date": "2026-09-22",
+  "date_of_death": "2013-04-10",
+  "decedent_street": "44 HONEYSUCKLE RIDGE",
+  "decedent_city": "TALLADEGA",
+  "decedent_state": "AL",
+  "decedent_zip": "35160",
+  "fiduciary": {
+   "name": "CLARK, ROSE COOK",
+   "title": "APPLICANT",
+   "street": "44 HONEYSUCKLE RIDGE",
+   "city": "TALLADEGA",
+   "state": "AL",
+   "zip": "35160",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "APPLICANT",
+    "name": "ROSE COOK CLARK",
+    "dod": "",
+    "street": "44 HONEYSUCKLE RIDGE",
+    "city": "TALLADEGA",
+    "state": "AL",
+    "zip": "35160"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": true,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-09-22",
+   "entry_count": 7
+  },
+  "q": "NwGmGjGPKFA-g4dYTztZyQ",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=NwGmGjGPKFA-g4dYTztZyQ",
+  "last_checked": "2026-11-13T20:16:31",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 20,
+  "score_reasons": [
+   "executor out of state",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-13",
+  "skip_reason": "no_property_found"
+ },
+ {
   "case_key": "2026EST309898",
   "case_number": "2026EST309898",
   "suffix": "",
@@ -34319,6 +34476,68 @@
   "score": 0,
   "score_reasons": [],
   "skip_reason": "decedent_not_owner"
+ },
+ {
+  "case_key": "2026EST309892",
+  "case_number": "2026EST309892",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "cuyahoga",
+  "case_name": "VAGASKY, MARGARET A",
+  "decedent_last": "Vagasky",
+  "decedent_first": "Margaret",
+  "decedent_middle": "A",
+  "aka": "",
+  "subtype": "ANCILLARY ADMINISTRATION",
+  "court_status": "OPEN",
+  "filing_date": "2026-09-14",
+  "closed_date": "",
+  "date_of_death": "2026-05-09",
+  "decedent_street": "",
+  "decedent_city": "",
+  "decedent_state": "",
+  "decedent_zip": "",
+  "fiduciary": {
+   "name": "VAGASKY, JANE",
+   "title": "FIDUCIARY",
+   "street": "8107-D INDEPENDENCE DR.",
+   "city": "MENTOR",
+   "state": "OH",
+   "zip": "44060",
+   "phone": ""
+  },
+  "fiduciaries": [
+   {
+    "role": "FIDUCIARY",
+    "name": "JANE VAGASKY",
+    "dod": "",
+    "street": "8107-D INDEPENDENCE DR.",
+    "city": "MENTOR",
+    "state": "OH",
+    "zip": "44060"
+   }
+  ],
+  "attorney": {},
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-02",
+   "entry_count": 15
+  },
+  "q": "IOtUgtcbLcrB9mtfhNrJvw",
+  "court_url": "https://probate.cuyahogacounty.gov/pa/CaseSummary.aspx?q=IOtUgtcbLcrB9mtfhNrJvw",
+  "last_checked": "2026-11-13T20:16:35",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 0,
+  "score_reasons": [],
+  "first_seen": "2026-11-13",
+  "skip_reason": "no_property_found"
  },
  {
   "case_key": "2026EST309887",
