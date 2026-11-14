@@ -1,5 +1,319 @@
 [
  {
+  "case_key": "648565",
+  "case_number": "648565",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "franklin",
+  "case_name": "HANKLE, ROGER PAUL",
+  "decedent_last": "Hankle",
+  "decedent_first": "Roger",
+  "decedent_middle": "Paul",
+  "aka": "HANKLE, ROGER P.",
+  "subtype": "RELEASE FROM ADMIN WITH WILL",
+  "court_status": "00",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2025-04-21",
+  "decedent_street": "4625 KNIGHTSBRIDGE BLVD. APT.",
+  "decedent_city": "COLUMBUS",
+  "decedent_state": "OH",
+  "decedent_zip": "43214",
+  "fiduciary": {
+   "name": "HILL, ANDREA J.",
+   "title": "APPLICANT",
+   "street": "1433 WESTWOOD AVENUE",
+   "city": "COLUMBUS",
+   "state": "OH",
+   "zip": "43212",
+   "phone": "(614) 975-4552",
+   "appointed": "",
+   "terminated": "",
+   "fid_no": "01"
+  },
+  "fiduciaries": [
+   {
+    "name": "HILL, ANDREA J.",
+    "title": "APPLICANT",
+    "street": "1433 WESTWOOD AVENUE",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43212",
+    "phone": "(614) 975-4552",
+    "appointed": "",
+    "terminated": "",
+    "fid_no": "01"
+   }
+  ],
+  "attorney": {
+   "number": "0093421",
+   "name": "HAER, PHILLIP S.",
+   "street": "216 BRADENTON AVE",
+   "city": "DUBLIN",
+   "state": "OH",
+   "zip": "43017-7515",
+   "phone": "(614) 429-1053",
+   "email": "phillip@lawdublin.com"
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 22
+  },
+  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648565;;",
+  "last_checked": "2026-11-14T17:17:52",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 10,
+  "score_reasons": [
+   "executor phone listed",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-14"
+ },
+ {
+  "case_key": "648555",
+  "case_number": "648555",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "franklin",
+  "case_name": "HAMMOND, MICHAEL JAMES",
+  "decedent_last": "Hammond",
+  "decedent_first": "Michael",
+  "decedent_middle": "James",
+  "aka": "",
+  "subtype": "FULL ADMINISTRATION WITHOUT WILL",
+  "court_status": "00",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-09-04",
+  "decedent_street": "3881 ARIES BROOK DRIVE",
+  "decedent_city": "COLUMBUS",
+  "decedent_state": "OH",
+  "decedent_zip": "43207",
+  "fiduciary": {
+   "name": "SCHROEPFER, BECCA D",
+   "title": "APPLICANT",
+   "street": "870 TROON TRAIL",
+   "city": "COL",
+   "state": "OH",
+   "zip": "43085",
+   "phone": "",
+   "appointed": "",
+   "terminated": "",
+   "fid_no": "01"
+  },
+  "fiduciaries": [
+   {
+    "name": "SCHROEPFER, BECCA D",
+    "title": "APPLICANT",
+    "street": "870 TROON TRAIL",
+    "city": "COL",
+    "state": "OH",
+    "zip": "43085",
+    "phone": "",
+    "appointed": "",
+    "terminated": "",
+    "fid_no": "01"
+   }
+  ],
+  "attorney": {
+   "number": "0103736",
+   "name": "PAOLUCCI, NATALIE M",
+   "street": "1001 LAKESIDE AVE STE 1400",
+   "city": "CLEVELAND",
+   "state": "OH",
+   "zip": "44114",
+   "phone": "(216) 453-5785",
+   "email": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 13
+  },
+  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648555;;",
+  "last_checked": "2026-11-14T17:17:32",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 27,
+  "score_reasons": [
+   "full administration",
+   "no will (multiple heirs)",
+   "executor lives away from property"
+  ],
+  "first_seen": "2026-11-14"
+ },
+ {
+  "case_key": "648551",
+  "case_number": "648551",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "franklin",
+  "case_name": "LAPASKY, COLIN D.",
+  "decedent_last": "Lapasky",
+  "decedent_first": "Colin",
+  "decedent_middle": "D",
+  "aka": "LAPASKY, COLIN DOUGLAS",
+  "subtype": "FULL ADMINISTRATION WITHOUT WILL",
+  "court_status": "00",
+  "filing_date": "2026-11-13",
+  "closed_date": "",
+  "date_of_death": "2026-05-04",
+  "decedent_street": "6629 ALBANY POND",
+  "decedent_city": "NEW ALBANY",
+  "decedent_state": "OH",
+  "decedent_zip": "43054",
+  "fiduciary": {
+   "name": "PLIENINGER, JOSHUA S.",
+   "title": "APPLICANT",
+   "street": "33 E. SCHROCK RD.",
+   "city": "WESTERVILLE",
+   "state": "OH",
+   "zip": "43081",
+   "phone": "(614) 882-2327",
+   "appointed": "",
+   "terminated": "",
+   "fid_no": "01"
+  },
+  "fiduciaries": [
+   {
+    "name": "PLIENINGER, JOSHUA S.",
+    "title": "APPLICANT",
+    "street": "33 E. SCHROCK RD.",
+    "city": "WESTERVILLE",
+    "state": "OH",
+    "zip": "43081",
+    "phone": "(614) 882-2327",
+    "appointed": "",
+    "terminated": "",
+    "fid_no": "01"
+   }
+  ],
+  "attorney": {
+   "number": "0101043",
+   "name": "PLAUTZ, AMANDA R.",
+   "street": "33 E SCHROCK RD",
+   "city": "WESTERVILLE",
+   "state": "OH",
+   "zip": "43081-2931",
+   "phone": "(614) 882-2327",
+   "email": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": false,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 16
+  },
+  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648551;;",
+  "last_checked": "2026-11-14T17:17:19",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 30,
+  "score_reasons": [
+   "full administration",
+   "no will (multiple heirs)",
+   "executor phone listed",
+   "filed 6+ months after death"
+  ],
+  "first_seen": "2026-11-14"
+ },
+ {
+  "case_key": "648541",
+  "case_number": "648541",
+  "suffix": "",
+  "lead_type": "Probate",
+  "county": "franklin",
+  "case_name": "REEVES, DOUGLAS HEYWORD",
+  "decedent_last": "Reeves",
+  "decedent_first": "Douglas",
+  "decedent_middle": "Heyword",
+  "aka": "REEVES, DOUG",
+  "subtype": "WILL FILED FOR RECORD ONLY",
+  "court_status": "99",
+  "filing_date": "2026-11-13",
+  "closed_date": "2026-11-13",
+  "date_of_death": "2026-08-11",
+  "decedent_street": "645 NEIL AVENUE",
+  "decedent_city": "COLUMBUS",
+  "decedent_state": "OH",
+  "decedent_zip": "43215",
+  "fiduciary": {
+   "name": "SCHRAEDER, LARAE",
+   "title": "APPLICANT",
+   "street": "1161 BETHEL ROAD SUITE 101",
+   "city": "COLUMBUS",
+   "state": "OH",
+   "zip": "43220",
+   "phone": "(614) 810-1221",
+   "appointed": "",
+   "terminated": "",
+   "fid_no": "01"
+  },
+  "fiduciaries": [
+   {
+    "name": "SCHRAEDER, LARAE",
+    "title": "APPLICANT",
+    "street": "1161 BETHEL ROAD SUITE 101",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43220",
+    "phone": "(614) 810-1221",
+    "appointed": "",
+    "terminated": "",
+    "fid_no": "01"
+   }
+  ],
+  "attorney": {
+   "number": "0097636",
+   "name": "SCHRAEDER, LARAE C.",
+   "street": "1161 BETHEL RD STE 101",
+   "city": "COLUMBUS",
+   "state": "OH",
+   "zip": "43220-2773",
+   "phone": "(614) 810-1221",
+   "email": ""
+  },
+  "docket_flags": {
+   "real_estate_summary": false,
+   "certificate_of_transfer": false,
+   "land_sale": false,
+   "will_filed": true,
+   "inventory_filed": false,
+   "last_activity": "2026-11-13",
+   "entry_count": 13
+  },
+  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648541;;",
+  "last_checked": "2026-11-14T17:17:01",
+  "property": {},
+  "other_properties": [],
+  "ruled_out_properties": [],
+  "auditor_error": "",
+  "score": 5,
+  "score_reasons": [
+   "executor phone listed"
+  ],
+  "first_seen": "2026-11-14"
+ },
+ {
   "case_key": "648534",
   "case_number": "648534",
   "suffix": "",
@@ -52,11 +366,11 @@
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 16
+   "last_activity": "2026-11-13",
+   "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648534;;",
-  "last_checked": "2026-11-13T18:43:27",
+  "last_checked": "2026-11-14T17:18:14",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -67,7 +381,7 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648528",
@@ -135,7 +449,7 @@
    "entry_count": 10
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648528;;",
-  "last_checked": "2026-11-13T18:43:15",
+  "last_checked": "2026-11-14T17:18:11",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -145,7 +459,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648523",
@@ -204,7 +518,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648523;;",
-  "last_checked": "2026-11-13T18:43:03",
+  "last_checked": "2026-11-14T17:18:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -216,7 +530,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648521",
@@ -271,11 +585,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 18
+   "last_activity": "2026-11-13",
+   "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648521;;",
-  "last_checked": "2026-11-13T18:42:57",
+  "last_checked": "2026-11-14T17:18:04",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -285,7 +599,7 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648516",
@@ -344,7 +658,7 @@
    "entry_count": 15
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648516;;",
-  "last_checked": "2026-11-13T18:42:49",
+  "last_checked": "2026-11-14T17:18:02",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -355,7 +669,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648506",
@@ -410,11 +724,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-10",
-   "entry_count": 21
+   "last_activity": "2026-11-13",
+   "entry_count": 22
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648506;;",
-  "last_checked": "2026-11-13T18:43:52",
+  "last_checked": "2026-11-14T17:18:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -424,7 +738,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648504",
@@ -479,11 +793,11 @@
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-10",
-   "entry_count": 16
+   "last_activity": "2026-11-13",
+   "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648504;;",
-  "last_checked": "2026-11-13T18:43:49",
+  "last_checked": "2026-11-14T17:18:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -494,7 +808,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648503",
@@ -562,7 +876,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648503;;",
-  "last_checked": "2026-11-13T18:43:47",
+  "last_checked": "2026-11-14T17:18:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -573,7 +887,7 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648493",
@@ -661,11 +975,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-10",
-   "entry_count": 20
+   "last_activity": "2026-11-13",
+   "entry_count": 23
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648493;;",
-  "last_checked": "2026-11-13T18:43:43",
+  "last_checked": "2026-11-14T17:18:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -675,7 +989,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648487",
@@ -743,7 +1057,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648487;;",
-  "last_checked": "2026-11-13T18:43:39",
+  "last_checked": "2026-11-14T17:18:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -753,7 +1067,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648486",
@@ -817,11 +1131,11 @@
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-10",
-   "entry_count": 17
+   "last_activity": "2026-11-13",
+   "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648486;;",
-  "last_checked": "2026-11-13T18:43:36",
+  "last_checked": "2026-11-14T17:18:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -831,7 +1145,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648485",
@@ -895,11 +1209,11 @@
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-10",
-   "entry_count": 20
+   "last_activity": "2026-11-13",
+   "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648485;;",
-  "last_checked": "2026-11-13T18:43:33",
+  "last_checked": "2026-11-14T17:18:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -908,7 +1222,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "643643",
@@ -976,7 +1290,7 @@
    "entry_count": 67
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=643643;;",
-  "last_checked": "2026-11-13T18:43:55",
+  "last_checked": "2026-11-14T17:18:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -987,7 +1301,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648450",
@@ -1046,7 +1360,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648450;;",
-  "last_checked": "2026-11-13T18:43:58",
+  "last_checked": "2026-11-14T17:18:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1057,7 +1371,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648433",
@@ -1125,7 +1439,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648433;;",
-  "last_checked": "2026-11-13T18:44:11",
+  "last_checked": "2026-11-14T17:18:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1136,7 +1450,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648428",
@@ -1204,7 +1518,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648428;;",
-  "last_checked": "2026-11-13T18:44:08",
+  "last_checked": "2026-11-14T17:18:54",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1215,7 +1529,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648427",
@@ -1283,7 +1597,7 @@
    "entry_count": 16
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648427;;",
-  "last_checked": "2026-11-13T18:44:05",
+  "last_checked": "2026-11-14T17:18:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1295,7 +1609,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648420",
@@ -1363,7 +1677,7 @@
    "entry_count": 27
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648420;;",
-  "last_checked": "2026-11-13T18:44:01",
+  "last_checked": "2026-11-14T17:18:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1374,7 +1688,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648393",
@@ -1433,7 +1747,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648393;;",
-  "last_checked": "2026-11-13T18:44:14",
+  "last_checked": "2026-11-14T17:19:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1443,7 +1757,7 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648355",
@@ -1502,7 +1816,7 @@
    "entry_count": 29
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648355;;",
-  "last_checked": "2026-11-13T18:44:23",
+  "last_checked": "2026-11-14T17:19:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1512,7 +1826,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648351",
@@ -1580,7 +1894,7 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648351;;",
-  "last_checked": "2026-11-13T18:44:20",
+  "last_checked": "2026-11-14T17:19:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1591,7 +1905,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648344",
@@ -1659,7 +1973,7 @@
    "entry_count": 16
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648344;;",
-  "last_checked": "2026-11-13T18:44:17",
+  "last_checked": "2026-11-14T17:19:10",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1668,7 +1982,7 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648331",
@@ -1727,7 +2041,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648331;;",
-  "last_checked": "2026-11-13T18:44:26",
+  "last_checked": "2026-11-14T17:19:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1737,7 +2051,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648329",
@@ -1805,7 +2119,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648329;;",
-  "last_checked": "2026-11-13T18:44:29",
+  "last_checked": "2026-11-14T17:19:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1816,7 +2130,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648328",
@@ -1880,11 +2194,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-10-30",
-   "entry_count": 16
+   "last_activity": "2026-11-13",
+   "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648328;;",
-  "last_checked": "2026-11-13T18:44:33",
+  "last_checked": "2026-11-14T17:19:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1894,7 +2208,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648323",
@@ -1953,7 +2267,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648323;;",
-  "last_checked": "2026-11-13T18:44:36",
+  "last_checked": "2026-11-14T17:19:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -1964,7 +2278,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648321",
@@ -2032,7 +2346,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648321;;",
-  "last_checked": "2026-11-13T18:44:39",
+  "last_checked": "2026-11-14T17:19:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2044,7 +2358,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648295",
@@ -2112,7 +2426,7 @@
    "entry_count": 16
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648295;;",
-  "last_checked": "2026-11-13T18:44:42",
+  "last_checked": "2026-11-14T17:19:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2124,7 +2438,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648292",
@@ -2192,7 +2506,7 @@
    "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648292;;",
-  "last_checked": "2026-11-13T18:44:45",
+  "last_checked": "2026-11-14T17:19:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2204,7 +2518,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648286",
@@ -2263,7 +2577,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648286;;",
-  "last_checked": "2026-11-13T18:44:48",
+  "last_checked": "2026-11-14T17:19:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2274,7 +2588,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648280",
@@ -2342,7 +2656,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648280;;",
-  "last_checked": "2026-11-13T18:44:51",
+  "last_checked": "2026-11-14T17:19:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2353,7 +2667,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648278",
@@ -2412,7 +2726,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648278;;",
-  "last_checked": "2026-11-13T18:44:54",
+  "last_checked": "2026-11-14T17:19:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2423,7 +2737,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648274",
@@ -2491,7 +2805,7 @@
    "entry_count": 38
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648274;;",
-  "last_checked": "2026-11-13T18:44:58",
+  "last_checked": "2026-11-14T17:19:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2502,7 +2816,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648270",
@@ -2570,7 +2884,7 @@
    "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648270;;",
-  "last_checked": "2026-11-13T18:45:01",
+  "last_checked": "2026-11-14T17:19:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2581,7 +2895,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647812",
@@ -2649,7 +2963,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647812;;",
-  "last_checked": "2026-11-13T18:45:04",
+  "last_checked": "2026-11-14T17:19:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2661,7 +2975,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648246",
@@ -2729,7 +3043,7 @@
    "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648246;;",
-  "last_checked": "2026-11-13T18:45:07",
+  "last_checked": "2026-11-14T17:19:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2739,7 +3053,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648241",
@@ -2807,7 +3121,7 @@
    "entry_count": 15
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648241;;",
-  "last_checked": "2026-11-13T18:45:11",
+  "last_checked": "2026-11-14T17:20:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2817,7 +3131,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648228",
@@ -2876,7 +3190,7 @@
    "entry_count": 0
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648228;;",
-  "last_checked": "2026-11-13T18:45:13",
+  "last_checked": "2026-11-14T17:20:02",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2886,7 +3200,7 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648207",
@@ -2954,7 +3268,7 @@
    "entry_count": 14
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648207;;",
-  "last_checked": "2026-11-13T18:45:16",
+  "last_checked": "2026-11-14T17:20:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -2965,7 +3279,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648201",
@@ -3033,7 +3347,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648201;;",
-  "last_checked": "2026-11-13T18:45:19",
+  "last_checked": "2026-11-14T17:20:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3044,7 +3358,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648192",
@@ -3068,26 +3382,26 @@
   "decedent_zip": "43016",
   "fiduciary": {
    "name": "DEMATTEO, ROCCO E",
-   "title": "APPLICANT",
+   "title": "EXECUTOR",
    "street": "6929 SHADY NELMS DR.",
    "city": "DUBLIN",
    "state": "OH",
    "zip": "43017",
    "phone": "(614) 327-6180",
-   "appointed": "",
+   "appointed": "2026-11-13",
    "terminated": "",
    "fid_no": "01"
   },
   "fiduciaries": [
    {
     "name": "DEMATTEO, ROCCO E",
-    "title": "APPLICANT",
+    "title": "EXECUTOR",
     "street": "6929 SHADY NELMS DR.",
     "city": "DUBLIN",
     "state": "OH",
     "zip": "43017",
     "phone": "(614) 327-6180",
-    "appointed": "",
+    "appointed": "2026-11-13",
     "terminated": "",
     "fid_no": "01"
    }
@@ -3108,11 +3422,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-10-29",
-   "entry_count": 21
+   "last_activity": "2026-11-13",
+   "entry_count": 27
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648192;;",
-  "last_checked": "2026-11-13T18:45:22",
+  "last_checked": "2026-11-14T17:20:11",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3123,7 +3437,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648170",
@@ -3191,7 +3505,7 @@
    "entry_count": 15
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648170;;",
-  "last_checked": "2026-11-13T18:45:25",
+  "last_checked": "2026-11-14T17:20:14",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3201,7 +3515,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648161",
@@ -3272,7 +3586,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648161;;",
-  "last_checked": "2026-11-13T18:45:28",
+  "last_checked": "2026-11-14T17:20:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3282,7 +3596,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648160",
@@ -3350,7 +3664,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648160;;",
-  "last_checked": "2026-11-13T18:45:32",
+  "last_checked": "2026-11-14T17:20:21",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3361,7 +3675,7 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648153",
@@ -3429,7 +3743,7 @@
    "entry_count": 27
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648153;;",
-  "last_checked": "2026-11-13T18:45:35",
+  "last_checked": "2026-11-14T17:20:24",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3441,7 +3755,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648152",
@@ -3509,7 +3823,7 @@
    "entry_count": 30
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648152;;",
-  "last_checked": "2026-11-13T18:45:38",
+  "last_checked": "2026-11-14T17:20:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3519,7 +3833,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648133",
@@ -3587,7 +3901,7 @@
    "entry_count": 23
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648133;;",
-  "last_checked": "2026-11-13T18:45:41",
+  "last_checked": "2026-11-14T17:20:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3597,7 +3911,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648131",
@@ -3665,7 +3979,7 @@
    "entry_count": 22
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648131;;",
-  "last_checked": "2026-11-13T18:45:47",
+  "last_checked": "2026-11-14T17:20:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3675,7 +3989,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648113",
@@ -3743,7 +4057,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648113;;",
-  "last_checked": "2026-11-13T18:45:50",
+  "last_checked": "2026-11-14T17:20:40",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3753,7 +4067,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648105",
@@ -3821,7 +4135,7 @@
    "entry_count": 20
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648105;;",
-  "last_checked": "2026-11-13T18:45:53",
+  "last_checked": "2026-11-14T17:20:43",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3830,7 +4144,7 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "648087",
@@ -3898,7 +4212,7 @@
    "entry_count": 30
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=648087;;",
-  "last_checked": "2026-11-13T18:45:57",
+  "last_checked": "2026-11-14T17:20:46",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -3909,7 +4223,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647996",
@@ -4001,7 +4315,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647996;;",
-  "last_checked": "2026-11-13T18:46:01",
+  "last_checked": "2026-11-14T17:20:52",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4010,7 +4324,7 @@
   "score_reasons": [
    "full administration"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647985",
@@ -4078,7 +4392,7 @@
    "entry_count": 29
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647985;;",
-  "last_checked": "2026-11-13T18:46:04",
+  "last_checked": "2026-11-14T17:20:56",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4089,7 +4403,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647980",
@@ -4157,7 +4471,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647980;;",
-  "last_checked": "2026-11-13T18:46:07",
+  "last_checked": "2026-11-14T17:20:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4168,7 +4482,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647974",
@@ -4236,7 +4550,7 @@
    "entry_count": 27
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647974;;",
-  "last_checked": "2026-11-13T18:46:10",
+  "last_checked": "2026-11-14T17:21:02",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4248,7 +4562,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647641",
@@ -4307,7 +4621,7 @@
    "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647641;;",
-  "last_checked": "2026-11-13T18:46:13",
+  "last_checked": "2026-11-14T17:21:05",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4318,7 +4632,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "646936",
@@ -4377,7 +4691,7 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=646936;;",
-  "last_checked": "2026-11-13T18:46:16",
+  "last_checked": "2026-11-14T17:21:08",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4389,7 +4703,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "646139",
@@ -4460,7 +4774,7 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=646139;;",
-  "last_checked": "2026-11-13T18:46:22",
+  "last_checked": "2026-11-14T17:21:11",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4470,7 +4784,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "623671",
@@ -4525,11 +4839,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-10-26",
-   "entry_count": 29
+   "last_activity": "2026-11-13",
+   "entry_count": 31
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=623671;;",
-  "last_checked": "2026-11-13T18:46:24",
+  "last_checked": "2026-11-14T17:21:14",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4539,7 +4853,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647953",
@@ -4607,7 +4921,7 @@
    "entry_count": 35
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647953;;",
-  "last_checked": "2026-11-13T18:46:28",
+  "last_checked": "2026-11-14T17:21:17",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4617,7 +4931,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647944",
@@ -4672,11 +4986,11 @@
    "land_sale": false,
    "will_filed": false,
    "inventory_filed": false,
-   "last_activity": "2026-11-06",
-   "entry_count": 17
+   "last_activity": "2026-11-13",
+   "entry_count": 18
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647944;;",
-  "last_checked": "2026-11-13T18:46:30",
+  "last_checked": "2026-11-14T17:21:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4688,7 +5002,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647943",
@@ -4747,7 +5061,7 @@
    "entry_count": 15
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647943;;",
-  "last_checked": "2026-11-13T18:46:33",
+  "last_checked": "2026-11-14T17:21:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4757,7 +5071,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647940",
@@ -4816,7 +5130,7 @@
    "entry_count": 22
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647940;;",
-  "last_checked": "2026-11-13T18:46:37",
+  "last_checked": "2026-11-14T17:21:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4826,7 +5140,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647913",
@@ -4894,7 +5208,7 @@
    "entry_count": 13
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647913;;",
-  "last_checked": "2026-11-13T18:46:40",
+  "last_checked": "2026-11-14T17:21:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4905,7 +5219,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647879",
@@ -4973,7 +5287,7 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647879;;",
-  "last_checked": "2026-11-13T18:46:43",
+  "last_checked": "2026-11-14T17:21:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -4985,7 +5299,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "646964",
@@ -5053,7 +5367,7 @@
    "entry_count": 30
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=646964;;",
-  "last_checked": "2026-11-13T18:46:46",
+  "last_checked": "2026-11-14T17:21:38",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5062,7 +5376,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647877",
@@ -5121,7 +5435,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647877;;",
-  "last_checked": "2026-11-13T18:46:49",
+  "last_checked": "2026-11-14T17:21:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5131,7 +5445,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647873",
@@ -5199,7 +5513,7 @@
    "entry_count": 32
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647873;;",
-  "last_checked": "2026-11-13T18:46:52",
+  "last_checked": "2026-11-14T17:21:44",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5209,7 +5523,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647870",
@@ -5277,7 +5591,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647870;;",
-  "last_checked": "2026-11-13T18:46:56",
+  "last_checked": "2026-11-14T17:21:47",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5288,7 +5602,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647862",
@@ -5347,7 +5661,7 @@
    "entry_count": 22
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647862;;",
-  "last_checked": "2026-11-13T18:47:01",
+  "last_checked": "2026-11-14T17:21:50",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5357,7 +5671,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647859",
@@ -5425,7 +5739,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647859;;",
-  "last_checked": "2026-11-13T18:47:04",
+  "last_checked": "2026-11-14T17:21:53",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5436,7 +5750,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647858",
@@ -5504,7 +5818,7 @@
    "entry_count": 14
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647858;;",
-  "last_checked": "2026-11-13T18:47:07",
+  "last_checked": "2026-11-14T17:21:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5515,7 +5829,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647856",
@@ -5574,7 +5888,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647856;;",
-  "last_checked": "2026-11-13T18:47:10",
+  "last_checked": "2026-11-14T17:22:00",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5584,7 +5898,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647803",
@@ -5652,7 +5966,7 @@
    "entry_count": 23
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647803;;",
-  "last_checked": "2026-11-13T18:47:13",
+  "last_checked": "2026-11-14T17:22:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5664,7 +5978,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647850",
@@ -5732,7 +6046,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647850;;",
-  "last_checked": "2026-11-13T18:47:16",
+  "last_checked": "2026-11-14T17:22:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5741,7 +6055,7 @@
   "score_reasons": [
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647833",
@@ -5800,14 +6114,14 @@
    "entry_count": 25
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647833;;",
-  "last_checked": "2026-11-13T18:47:19",
+  "last_checked": "2026-11-14T17:22:09",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647368",
@@ -5866,7 +6180,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647368;;",
-  "last_checked": "2026-11-13T18:47:22",
+  "last_checked": "2026-11-14T17:22:12",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5877,7 +6191,7 @@
    "executor out of state",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "644334",
@@ -5936,7 +6250,7 @@
    "entry_count": 37
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=644334;;",
-  "last_checked": "2026-11-13T18:47:25",
+  "last_checked": "2026-11-14T17:22:15",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -5948,7 +6262,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "587589",
@@ -6016,7 +6330,7 @@
    "entry_count": 88
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=587589;;",
-  "last_checked": "2026-11-13T18:47:28",
+  "last_checked": "2026-11-14T17:22:18",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6028,7 +6342,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647817",
@@ -6063,7 +6377,7 @@
    "entry_count": 1
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647817;;",
-  "last_checked": "2026-11-13T18:47:30",
+  "last_checked": "2026-11-14T17:22:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6073,7 +6387,7 @@
    "full administration",
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647809",
@@ -6141,7 +6455,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647809;;",
-  "last_checked": "2026-11-13T18:47:33",
+  "last_checked": "2026-11-14T17:22:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6150,7 +6464,7 @@
   "score_reasons": [
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647801",
@@ -6218,7 +6532,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647801;;",
-  "last_checked": "2026-11-13T18:47:36",
+  "last_checked": "2026-11-14T17:22:27",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6229,7 +6543,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647790",
@@ -6297,7 +6611,7 @@
    "entry_count": 35
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647790;;",
-  "last_checked": "2026-11-13T18:47:42",
+  "last_checked": "2026-11-14T17:22:30",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6308,7 +6622,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647787",
@@ -6376,7 +6690,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647787;;",
-  "last_checked": "2026-11-13T18:47:45",
+  "last_checked": "2026-11-14T17:22:33",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6388,7 +6702,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "643975",
@@ -6456,7 +6770,7 @@
    "entry_count": 29
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=643975;;",
-  "last_checked": "2026-11-13T18:47:48",
+  "last_checked": "2026-11-14T17:22:36",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6466,7 +6780,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647773",
@@ -6525,7 +6839,7 @@
    "entry_count": 35
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647773;;",
-  "last_checked": "2026-11-13T18:47:51",
+  "last_checked": "2026-11-14T17:22:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6537,7 +6851,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647754",
@@ -6596,7 +6910,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647754;;",
-  "last_checked": "2026-11-13T18:47:54",
+  "last_checked": "2026-11-14T17:22:42",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6606,7 +6920,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647735",
@@ -6674,7 +6988,7 @@
    "entry_count": 34
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647735;;",
-  "last_checked": "2026-11-13T18:47:57",
+  "last_checked": "2026-11-14T17:22:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6685,7 +6999,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647727",
@@ -6744,7 +7058,7 @@
    "entry_count": 23
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647727;;",
-  "last_checked": "2026-11-13T18:48:00",
+  "last_checked": "2026-11-14T17:22:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6754,7 +7068,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647720",
@@ -6822,14 +7136,14 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647720;;",
-  "last_checked": "2026-11-13T18:48:04",
+  "last_checked": "2026-11-14T17:22:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
   "auditor_error": "",
   "score": 0,
   "score_reasons": [],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647716",
@@ -6897,7 +7211,7 @@
    "entry_count": 14
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647716;;",
-  "last_checked": "2026-11-13T18:48:07",
+  "last_checked": "2026-11-14T17:22:55",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6910,7 +7224,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647702",
@@ -6978,7 +7292,7 @@
    "entry_count": 29
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647702;;",
-  "last_checked": "2026-11-13T18:48:10",
+  "last_checked": "2026-11-14T17:22:58",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -6990,7 +7304,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "621732",
@@ -7049,7 +7363,7 @@
    "entry_count": 49
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=621732;;",
-  "last_checked": "2026-11-13T18:48:13",
+  "last_checked": "2026-11-14T17:23:01",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7059,7 +7373,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647661",
@@ -7127,7 +7441,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647661;;",
-  "last_checked": "2026-11-13T18:48:15",
+  "last_checked": "2026-11-14T17:23:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7139,7 +7453,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647657",
@@ -7207,7 +7521,7 @@
    "entry_count": 41
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647657;;",
-  "last_checked": "2026-11-13T18:48:19",
+  "last_checked": "2026-11-14T17:23:07",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7217,7 +7531,7 @@
    "full administration",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647643",
@@ -7281,11 +7595,11 @@
    "land_sale": false,
    "will_filed": true,
    "inventory_filed": false,
-   "last_activity": "2026-11-12",
-   "entry_count": 32
+   "last_activity": "2026-11-13",
+   "entry_count": 33
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647643;;",
-  "last_checked": "2026-11-13T18:48:22",
+  "last_checked": "2026-11-14T17:23:10",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7295,7 +7609,7 @@
    "full administration",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647637",
@@ -7363,7 +7677,7 @@
    "entry_count": 31
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647637;;",
-  "last_checked": "2026-11-13T18:48:25",
+  "last_checked": "2026-11-14T17:23:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7373,7 +7687,7 @@
    "executor lives away from property",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647631",
@@ -7441,7 +7755,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647631;;",
-  "last_checked": "2026-11-13T18:48:28",
+  "last_checked": "2026-11-14T17:23:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7452,7 +7766,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647629",
@@ -7520,7 +7834,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647629;;",
-  "last_checked": "2026-11-13T18:48:32",
+  "last_checked": "2026-11-14T17:23:20",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7532,7 +7846,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647626",
@@ -7600,7 +7914,7 @@
    "entry_count": 34
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647626;;",
-  "last_checked": "2026-11-13T18:48:35",
+  "last_checked": "2026-11-14T17:23:23",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7611,7 +7925,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647619",
@@ -7679,7 +7993,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647619;;",
-  "last_checked": "2026-11-13T18:48:38",
+  "last_checked": "2026-11-14T17:23:26",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7690,7 +8004,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647349",
@@ -7749,7 +8063,7 @@
    "entry_count": 27
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647349;;",
-  "last_checked": "2026-11-13T18:48:41",
+  "last_checked": "2026-11-14T17:23:29",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7758,7 +8072,7 @@
   "score_reasons": [
    "no will (multiple heirs)"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "645299",
@@ -7817,7 +8131,7 @@
    "entry_count": 36
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=645299;;",
-  "last_checked": "2026-11-13T18:48:44",
+  "last_checked": "2026-11-14T17:23:32",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7828,7 +8142,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647266",
@@ -7887,7 +8201,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647266;;",
-  "last_checked": "2026-11-13T18:48:47",
+  "last_checked": "2026-11-14T17:23:35",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7899,7 +8213,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647582",
@@ -7967,7 +8281,7 @@
    "entry_count": 16
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647582;;",
-  "last_checked": "2026-11-13T18:48:50",
+  "last_checked": "2026-11-14T17:23:39",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -7977,7 +8291,7 @@
    "no will (multiple heirs)",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647580",
@@ -8036,7 +8350,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647580;;",
-  "last_checked": "2026-11-13T18:48:53",
+  "last_checked": "2026-11-14T17:23:41",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8047,7 +8361,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647579",
@@ -8115,7 +8429,7 @@
    "entry_count": 25
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647579;;",
-  "last_checked": "2026-11-13T18:48:56",
+  "last_checked": "2026-11-14T17:23:45",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8126,7 +8440,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647575",
@@ -8189,12 +8503,12 @@
    "certificate_of_transfer": false,
    "land_sale": false,
    "will_filed": true,
-   "inventory_filed": false,
-   "last_activity": "2026-10-16",
-   "entry_count": 29
+   "inventory_filed": true,
+   "last_activity": "2026-11-13",
+   "entry_count": 33
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647575;;",
-  "last_checked": "2026-11-13T18:48:59",
+  "last_checked": "2026-11-14T17:23:48",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8204,7 +8518,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "646926",
@@ -8272,7 +8586,7 @@
    "entry_count": 26
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=646926;;",
-  "last_checked": "2026-11-13T18:49:02",
+  "last_checked": "2026-11-14T17:23:51",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8284,7 +8598,7 @@
    "executor out of state",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "645227",
@@ -8343,7 +8657,7 @@
    "entry_count": 47
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=645227;;",
-  "last_checked": "2026-11-13T18:49:05",
+  "last_checked": "2026-11-14T17:23:54",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8353,7 +8667,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647565",
@@ -8412,7 +8726,7 @@
    "entry_count": 17
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647565;;",
-  "last_checked": "2026-11-13T18:49:08",
+  "last_checked": "2026-11-14T17:23:57",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8423,7 +8737,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647537",
@@ -8482,7 +8796,7 @@
    "entry_count": 16
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647537;;",
-  "last_checked": "2026-11-13T18:49:11",
+  "last_checked": "2026-11-14T17:23:59",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8493,7 +8807,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647513",
@@ -8561,7 +8875,7 @@
    "entry_count": 34
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647513;;",
-  "last_checked": "2026-11-13T18:49:14",
+  "last_checked": "2026-11-14T17:24:03",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8571,7 +8885,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "612375",
@@ -8651,7 +8965,7 @@
    "entry_count": 30
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=612375;;",
-  "last_checked": "2026-11-13T18:49:18",
+  "last_checked": "2026-11-14T17:24:06",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8663,7 +8977,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647498",
@@ -8731,7 +9045,7 @@
    "entry_count": 28
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647498;;",
-  "last_checked": "2026-11-13T18:49:21",
+  "last_checked": "2026-11-14T17:24:10",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8741,7 +9055,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647483",
@@ -8809,7 +9123,7 @@
    "entry_count": 35
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647483;;",
-  "last_checked": "2026-11-13T18:49:24",
+  "last_checked": "2026-11-14T17:24:13",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8820,7 +9134,7 @@
    "no will (multiple heirs)",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647482",
@@ -8879,7 +9193,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647482;;",
-  "last_checked": "2026-11-13T18:49:27",
+  "last_checked": "2026-11-14T17:24:16",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8891,7 +9205,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647459",
@@ -8959,7 +9273,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647459;;",
-  "last_checked": "2026-11-13T18:49:31",
+  "last_checked": "2026-11-14T17:24:19",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -8970,7 +9284,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647458",
@@ -9029,7 +9343,7 @@
    "entry_count": 21
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647458;;",
-  "last_checked": "2026-11-13T18:49:33",
+  "last_checked": "2026-11-14T17:24:22",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9040,7 +9354,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647456",
@@ -9108,7 +9422,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647456;;",
-  "last_checked": "2026-11-13T18:49:37",
+  "last_checked": "2026-11-14T17:24:28",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9120,7 +9434,7 @@
    "executor phone listed",
    "filed 6+ months after death"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647447",
@@ -9188,7 +9502,7 @@
    "entry_count": 19
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647447;;",
-  "last_checked": "2026-11-13T18:49:40",
+  "last_checked": "2026-11-14T17:24:31",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9200,7 +9514,7 @@
    "executor lives away from property",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647423",
@@ -9268,7 +9582,7 @@
    "entry_count": 35
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647423;;",
-  "last_checked": "2026-11-13T18:49:43",
+  "last_checked": "2026-11-14T17:24:34",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9278,7 +9592,7 @@
    "full administration",
    "executor phone listed"
   ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  },
  {
   "case_key": "647415",
@@ -9346,7 +9660,7 @@
    "entry_count": 24
   },
   "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647415;;",
-  "last_checked": "2026-11-13T18:49:46",
+  "last_checked": "2026-11-14T17:24:37",
   "property": {},
   "other_properties": [],
   "ruled_out_properties": [],
@@ -9357,483 +9671,6 @@
    "no will (multiple heirs)",
    "executor lives away from property"
   ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647392",
-  "case_number": "647392",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "TARR, OLIVIA HILLARY",
-  "decedent_last": "Tarr",
-  "decedent_first": "Olivia",
-  "decedent_middle": "Hillary",
-  "aka": "",
-  "subtype": "FULL ADMINISTRATION WITH WILL",
-  "court_status": "00",
-  "filing_date": "2026-09-14",
-  "closed_date": "",
-  "date_of_death": "2026-05-25",
-  "decedent_street": "3737 EASTON MARKET #1154",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43219",
-  "fiduciary": {
-   "name": "PAYKIN, ALEXANDER",
-   "title": "APPLICANT",
-   "street": "99 TULIP AVENUE, SUITE 408",
-   "city": "FLORAL PARK",
-   "state": "NY",
-   "zip": "11001",
-   "phone": "(212) 858-9112",
-   "appointed": "",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "PAYKIN, ALEXANDER",
-    "title": "APPLICANT",
-    "street": "99 TULIP AVENUE, SUITE 408",
-    "city": "FLORAL PARK",
-    "state": "NY",
-    "zip": "11001",
-    "phone": "(212) 858-9112",
-    "appointed": "",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0082143",
-   "name": "BORGMANN, BRANDON A.",
-   "street": "950 GOODALE BLVD STE # 200",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43212-3974",
-   "phone": "(614) 228-6135",
-   "email": "bborgmann@cpmlaw.com"
-  },
-  "docket_flags": {
-   "real_estate_summary": false,
-   "certificate_of_transfer": false,
-   "land_sale": false,
-   "will_filed": true,
-   "inventory_filed": false,
-   "last_activity": "2026-10-16",
-   "entry_count": 23
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647392;;",
-  "last_checked": "2026-11-13T18:49:50",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 30,
-  "score_reasons": [
-   "full administration",
-   "executor out of state",
-   "executor phone listed"
-  ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647390",
-  "case_number": "647390",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "BELLI, JOHN, JR.",
-  "decedent_last": "Belli",
-  "decedent_first": "John",
-  "decedent_middle": "",
-  "aka": "",
-  "subtype": "FULL ADMINISTRATION WITHOUT WILL",
-  "court_status": "04",
-  "filing_date": "2026-09-14",
-  "closed_date": "",
-  "date_of_death": "2026-07-08",
-  "decedent_street": "5040 KINGS HIGHLAND DRIVE W",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43229",
-  "fiduciary": {
-   "name": "BELLI, JOSEPH E",
-   "title": "ADMINISTRATOR",
-   "street": "1224 WORTHINGTON HEIGHTS BLVD",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43235",
-   "phone": "(614) 214-1159",
-   "appointed": "2026-09-28",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "BELLI, JOSEPH E",
-    "title": "ADMINISTRATOR",
-    "street": "1224 WORTHINGTON HEIGHTS BLVD",
-    "city": "COLUMBUS",
-    "state": "OH",
-    "zip": "43235",
-    "phone": "(614) 214-1159",
-    "appointed": "2026-09-28",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0059351",
-   "name": "DUPONT, GREGORY S.",
-   "street": "655 METRO PL S STE 440",
-   "city": "DUBLIN",
-   "state": "OH",
-   "zip": "43017-3389",
-   "phone": "(614) 408-0529",
-   "email": "greg@gsdupont.com"
-  },
-  "docket_flags": {
-   "real_estate_summary": false,
-   "certificate_of_transfer": false,
-   "land_sale": false,
-   "will_filed": false,
-   "inventory_filed": true,
-   "last_activity": "2026-11-05",
-   "entry_count": 38
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647390;;",
-  "last_checked": "2026-11-13T18:49:53",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 25,
-  "score_reasons": [
-   "full administration",
-   "no will (multiple heirs)",
-   "executor phone listed"
-  ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647387",
-  "case_number": "647387",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "CORBETT, ODESSA VIRGINIA",
-  "decedent_last": "Corbett",
-  "decedent_first": "Odessa",
-  "decedent_middle": "Virginia",
-  "aka": "CORBETT, ODESSA V",
-  "subtype": "REAL ESTATE ONLY W/O WILL",
-  "court_status": "99",
-  "filing_date": "2026-09-14",
-  "closed_date": "2026-09-14",
-  "date_of_death": "2015-09-25",
-  "decedent_street": "1259 E 24TH AVENUE",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43211",
-  "fiduciary": {
-   "name": "CORBETT, RONALD",
-   "title": "APPLICANT",
-   "street": "7501 ELRU DRIVE",
-   "city": "DAYTON",
-   "state": "OH",
-   "zip": "45415",
-   "phone": "(614) 371-2812",
-   "appointed": "",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "CORBETT, RONALD",
-    "title": "APPLICANT",
-    "street": "7501 ELRU DRIVE",
-    "city": "DAYTON",
-    "state": "OH",
-    "zip": "45415",
-    "phone": "(614) 371-2812",
-    "appointed": "",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0063579",
-   "name": "KINMAN, LYNN M.",
-   "street": "2004 NEEDMORE RD",
-   "city": "DAYTON",
-   "state": "OH",
-   "zip": "45414",
-   "phone": "(937) 275-2752",
-   "email": ""
-  },
-  "docket_flags": {
-   "real_estate_summary": true,
-   "certificate_of_transfer": true,
-   "land_sale": false,
-   "will_filed": false,
-   "inventory_filed": false,
-   "last_activity": "2026-09-14",
-   "entry_count": 27
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647387;;",
-  "last_checked": "2026-11-13T18:49:56",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 47,
-  "score_reasons": [
-   "real-estate-only estate",
-   "no will (multiple heirs)",
-   "executor lives away from property",
-   "executor phone listed",
-   "filed 6+ months after death"
-  ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647381",
-  "case_number": "647381",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "KOLE, JOSEPH E",
-  "decedent_last": "Kole",
-  "decedent_first": "Joseph",
-  "decedent_middle": "E",
-  "aka": "",
-  "subtype": "FULL ADMINISTRATION WITHOUT WILL",
-  "court_status": "04",
-  "filing_date": "2026-09-14",
-  "closed_date": "",
-  "date_of_death": "2025-01-01",
-  "decedent_street": "368 W HUBBARD AVENUE",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43215",
-  "fiduciary": {
-   "name": "KOLE, BETTY S",
-   "title": "ADMINISTRATOR",
-   "street": "368 W HUBBARD AVENUE",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43215",
-   "phone": "(614) 208-2103",
-   "appointed": "2026-09-15",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "KOLE, BETTY S",
-    "title": "ADMINISTRATOR",
-    "street": "368 W HUBBARD AVENUE",
-    "city": "COLUMBUS",
-    "state": "OH",
-    "zip": "43215",
-    "phone": "(614) 208-2103",
-    "appointed": "2026-09-15",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0055305",
-   "name": "GAUER, PHILIP J.",
-   "street": "2000 W HENDERSON RD STE 345",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43220-2453",
-   "phone": "(614) 451-8228",
-   "email": "phil@gauerlaw.com"
-  },
-  "docket_flags": {
-   "real_estate_summary": true,
-   "certificate_of_transfer": true,
-   "land_sale": false,
-   "will_filed": false,
-   "inventory_filed": true,
-   "last_activity": "2026-11-12",
-   "entry_count": 40
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647381;;",
-  "last_checked": "2026-11-13T18:49:59",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 35,
-  "score_reasons": [
-   "full administration",
-   "no will (multiple heirs)",
-   "executor phone listed",
-   "filed 6+ months after death"
-  ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647380",
-  "case_number": "647380",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "RUMMEL, JANET C",
-  "decedent_last": "Rummel",
-  "decedent_first": "Janet",
-  "decedent_middle": "C",
-  "aka": "",
-  "subtype": "WILL FILED FOR RECORD ONLY",
-  "court_status": "99",
-  "filing_date": "2026-09-14",
-  "closed_date": "2026-09-14",
-  "date_of_death": "2026-01-26",
-  "decedent_street": "THE GROVE AT OAKLEAF VILLAGE",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43229",
-  "fiduciary": {
-   "name": "LATOUR, KATHLEEN A.",
-   "title": "APPLICANT",
-   "street": "6974 BEERY LANE",
-   "city": "DUBLIN",
-   "state": "OH",
-   "zip": "43017",
-   "phone": "(614) 648-6974",
-   "appointed": "",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "LATOUR, KATHLEEN A.",
-    "title": "APPLICANT",
-    "street": "6974 BEERY LANE",
-    "city": "DUBLIN",
-    "state": "OH",
-    "zip": "43017",
-    "phone": "(614) 648-6974",
-    "appointed": "",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0069811",
-   "name": "FERGUSON, VICTOR J.",
-   "street": "52 E GAY ST PO BOX 1008",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43215-1008",
-   "phone": "(614) 464-6227",
-   "email": "vjferguson@vorys.com"
-  },
-  "docket_flags": {
-   "real_estate_summary": false,
-   "certificate_of_transfer": false,
-   "land_sale": false,
-   "will_filed": true,
-   "inventory_filed": false,
-   "last_activity": "2026-09-14",
-   "entry_count": 14
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647380;;",
-  "last_checked": "2026-11-13T18:50:02",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 17,
-  "score_reasons": [
-   "executor lives away from property",
-   "executor phone listed",
-   "filed 6+ months after death"
-  ],
-  "first_seen": "2026-11-13"
- },
- {
-  "case_key": "647377",
-  "case_number": "647377",
-  "suffix": "",
-  "lead_type": "Probate",
-  "county": "franklin",
-  "case_name": "TACKETT, GERALDINE",
-  "decedent_last": "Tackett",
-  "decedent_first": "Geraldine",
-  "decedent_middle": "",
-  "aka": "",
-  "subtype": "FULL ADMINISTRATION WITH WILL",
-  "court_status": "00",
-  "filing_date": "2026-09-14",
-  "closed_date": "",
-  "date_of_death": "2026-02-11",
-  "decedent_street": "5435 MORSE RIOAD",
-  "decedent_city": "COLUMBUS",
-  "decedent_state": "OH",
-  "decedent_zip": "43230",
-  "fiduciary": {
-   "name": "STEPP, CATHERINE",
-   "title": "APPLICANT",
-   "street": "4170 RICKENBACKER",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43213",
-   "phone": "(614) 935-6804",
-   "appointed": "",
-   "terminated": "",
-   "fid_no": "01"
-  },
-  "fiduciaries": [
-   {
-    "name": "STEPP, CATHERINE",
-    "title": "APPLICANT",
-    "street": "4170 RICKENBACKER",
-    "city": "COLUMBUS",
-    "state": "OH",
-    "zip": "43213",
-    "phone": "(614) 935-6804",
-    "appointed": "",
-    "terminated": "",
-    "fid_no": "01"
-   }
-  ],
-  "attorney": {
-   "number": "0025661",
-   "name": "DE SANTO, DEBRA J.",
-   "street": "48 W WHITTIER ST",
-   "city": "COLUMBUS",
-   "state": "OH",
-   "zip": "43206",
-   "phone": "(614) 444-8777",
-   "email": ""
-  },
-  "docket_flags": {
-   "real_estate_summary": false,
-   "certificate_of_transfer": false,
-   "land_sale": false,
-   "will_filed": true,
-   "inventory_filed": false,
-   "last_activity": "2026-10-26",
-   "entry_count": 28
-  },
-  "court_url": "https://probatesearch.franklincountyohio.gov/netdata/PBCaseTypeE.ndm/ESTATE_DETAIL?caseno=647377;;",
-  "last_checked": "2026-11-13T18:50:05",
-  "property": {},
-  "other_properties": [],
-  "ruled_out_properties": [],
-  "auditor_error": "",
-  "score": 20,
-  "score_reasons": [
-   "full administration",
-   "executor phone listed",
-   "filed 6+ months after death"
-  ],
-  "first_seen": "2026-11-13"
+  "first_seen": "2026-11-14"
  }
 ]
